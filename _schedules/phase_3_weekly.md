@@ -23,20 +23,36 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Front End
+      - name: Back End
+        name2: Lab for Front End
         start: 9:30 AM
         end: 11:30 AM
-      - name: Back End
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Front End
+        name2: Lab for Back End
         start: 2:00 PM
         end: 4:00 PM
+      - name: Lab
+        start: 4:00 PM
+        end: 5:30 PM
   - name: Tuesday
     events:
-      - name: Front End
+      - name: Back End
+        name2: Lab for Front End
         start: 9:30 AM
         end: 11:30 AM
-      - name: Back End
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Front End
+        name2: Lab for Back End
         start: 2:00 PM
         end: 4:00 PM
+      - name: Lab
+        start: 4:00 PM
+        end: 5:30 PM
   - name: Wednesday
     events:
       - name: Lab
@@ -44,12 +60,20 @@ schedule:
         end: 5:30 PM
   - name: Thursday
     events:
-      - name: Front End
+      - name: Back End
+        name2: Lab for Front End
         start: 9:30 AM
         end: 11:30 AM
-      - name: Back End
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Front End
+        name2: Lab for Back End
         start: 2:00 PM
         end: 4:00 PM
+      - name: Lab
+        start: 4:00 PM
+        end: 5:30 PM
   - name: Friday
     events:
       - name: Huddle

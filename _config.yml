@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Momentum Team-X Course Site
+title: Momentum Team 13 Course Site
+team_name: "Team 13"
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
 baseurl: '/immersive-course-team-site' # the subpath of your site, e.g. /blog
@@ -28,11 +29,10 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   "GitHub":
-    - "//github.com/momentum-team-x"
+    - "//github.com/momentum-team-13"
 footer_content: "&copy;2022 Momentum"
-# logo: "/assets/images/momentum__logo-digital-royal.png"
 logo: "/assets/images/momentum__mark-digital-royal.png"
-team_name: "Team X"
+
 
 # Collections for website data
 # just_the_docs:
@@ -40,8 +40,8 @@ collections:
   schedules:
     name: schedules
     nav_exclude: false
-  short_posts:
-    name: short_posts
+  daily_posts:
+    name: daily_posts
     output: true
     nav_exclude: false
   modules:
@@ -63,10 +63,10 @@ defaults:
     values:
       layout: schedule
   - scope:
-      path: short_posts
+      path: daily_posts
       type: pages
     values:
-      layout: short_post
+      layout: daily_post
 
 compress_html:
   clippings: all
