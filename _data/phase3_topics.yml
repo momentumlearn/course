@@ -12,4 +12,9 @@
   url: phase3-fe/welcome.md
   project_url: https://exercism.org/tracks/javascript
   references_url: references/git-and-cli.md
-
+- title: Models & Queries
+  tag: be
+  phase: 3
+  date: 2022-09-12
+  url: phase3-be/models-and-queries.md
+  references_url: references/py-models-and-queries.md

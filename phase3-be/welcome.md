@@ -38,7 +38,7 @@ _These are this week's required readings, videos, and/or podcasts. Read, watch, 
 - 📺 [Katie McLaughlin, What is Deployment, Anyway?](https://2021.djangocon.us/talks/what-is-deployment-anyway/)
 - 📖 [Full Stack Python: Deployment](https://www.fullstackpython.com/deployment.html)
 - 📖 [Heroku Reference: Deploying Django Apps to Heroku](https://devcenter.heroku.com/articles/deploying-python)
-    - [Walkthrough: Getting Started with Python/Django Apps on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
+  - [Walkthrough: Getting Started with Python/Django Apps on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
 - 🎧 [Deploying and Running Django Web Apps in 2021](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
 
 ### Databases & Data Modeling
