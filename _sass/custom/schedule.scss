@@ -100,19 +100,19 @@
       @extend .my-4;
     }
 
-    &.front-end {
+    &.front-end-session {
       background-color: $brand-ruby-red;
     }
 
-    &.back-end {
+    &.back-end-session {
       background-color: $brand-violet;
     }
 
-    &.lab {
+    &.project-work {
       background-color: $brand-sky-blue;
     }
 
-    &.lunch-lab {
+    &.lunch-project-work {
       background-color: $brand-branch-green;
     }
 

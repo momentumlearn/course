@@ -26,45 +26,57 @@ schedule:
       - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Lunch/Lab
+      - name: Lunch/Project Work
         start: 11:30 AM
         end: 2:00 PM
       - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
+      - name: Project Work
+        start: 3:30 PM
+        end: 5:30 PM
   - name: Tuesday
     events:
       - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Lunch/Lab
+      - name: Lunch/Project Work
         start: 11:30 AM
         end: 2:00 PM
       - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
+      - name: Project Work
+        start: 3:30 PM
+        end: 5:30 PM
   - name: Wednesday
     events:
       - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Lunch/Lab
+      - name: Lunch/Project Work
         start: 11:30 AM
         end: 2:00 PM
       - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
+      - name: Project Work
+        start: 3:30 PM
+        end: 5:30 PM
   - name: Thursday
     events:
       - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Lunch/Lab
+      - name: Lunch/Project Work
         start: 11:30 AM
         end: 2:00 PM
       - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
+      - name: Project Work
+        start: 3:30 PM
+        end: 5:30 PM
   - name: Friday
     events:
       - name: Huddle
@@ -73,7 +85,8 @@ schedule:
       - name: Career Services
         start: 11:00 AM
         end: 12:00 PM
-      - name: Lab
-        start: 1:00 PM
+      - name: Project Work
+        name2: Lunch & short breaks as needed
+        start: 12:00 PM
         end: 5:30 PM
 ---

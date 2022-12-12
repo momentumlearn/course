@@ -3,13 +3,13 @@
   phase: 3
   date: 2022-07-11
   url: phase3-be/welcome.md
-  lab_url: https://classroom.github.com/a/vE6TJEWx
+  project_url: https://classroom.github.com/a/vE6TJEWx
   references_url: references/git-and-cli.md
 - title: Welcome to Advanced Front End
   tag: fe
   phase: 3
   date: 2022-07-11
   url: phase3-fe/welcome.md
-  lab_url: https://exercism.org/tracks/javascript
+  project_url: https://exercism.org/tracks/javascript
   references_url: references/git-and-cli.md
 

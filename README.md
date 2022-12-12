@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Today
 permalink: index.html
 nav_order: 1
 ---

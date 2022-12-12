@@ -19,21 +19,21 @@ This post is for everyone. **There are two additional posts today, one each for 
 
 - 9:30-11:30 🐻 Back End team meeting
 - 2:00-4:00 🦊 Front End team meeting
-- 9:30-5:30, non-meeting times are Lab time
+- 9:30-5:30, non-meeting times are project work time
 
-#### Wednesday is Lab Day, all day
+#### Wednesday is Project Work Day, all day
 
-- 9:30-5:30 Lab time
+- 9:30-5:30 Project work time
 
-#### Friday is Lab Day as usual
+#### Friday is Project Work Day as usual
 
 - 9:30-10:30 Huddle (usually; check your calendar)
 - 11:00-12:00 Career Services (usually; check your calendar)
-- 1:00-5:30 Lab time
+- 1:00-5:30 Project work time
 
-Your team meets either during the morning or the afternoon. The rest of the day is lab time, so we'll expect to see you online and working. Please let us know if you will be unavailable during work hours.
+Your team meets either during the morning or the afternoon. The rest of the day is project time, so we'll expect to see you online and working. Please let us know if you will be unavailable during work hours.
 
-During lab time, please **read/watch/listen to the required readings, videos, and podcasts** and **work on your lab projects**. Come to meetings prepared to ask questions.
+During project time, please **read/watch/listen to the required readings, videos, and podcasts** and **work on your projects**. Come to meetings prepared to ask questions.
 
 You are welcome to use the team Zoom link and/or [the co-working Zoom](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) during lab times.
 

@@ -8,5 +8,5 @@ phase: 2
 {% for topic in topics %}
 {{ topic.date | date: "%B %-d" }}
 : [{{ topic.title }}]({% link {{topic.url}} %})
-: [Lab]({{ topic.lab_url }}){: .label .lab-label } [References]({% link {{ topic.references_url }} %}){: .label .references-label }
+: [Project]({{ topic.project_url }}){: .label .project-label } [References]({% link {{ topic.references_url }} %}){: .label .references-label }
 {% endfor %}
