@@ -1,7 +1,7 @@
 ---
 title: AJAX & APIs
 category: js
-parent: Resources
+parent: References
 layout: resource_list
 ---
 
@@ -17,6 +17,7 @@ layout: resource_list
 - [GitHub API Docs](https://developer.github.com/v3/)
 
 ### AJAX, Fetch, & JSON
+
 - [MDN AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 - [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN fetch() method](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
@@ -26,5 +27,3 @@ layout: resource_list
 Fetch requests use JavaScript **promises** to handle responses. Promises are a _much_ bigger topic than we will get into right now, but if you want to know more about what a promise is and how to use it beyond the context of AJAX requests, you can start with the MDN documentation about it.
 
 - [MDN JS Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-
-

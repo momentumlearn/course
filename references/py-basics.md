@@ -1,7 +1,7 @@
 ---
 title: Python Basics
 category: python
-parent: Resources
+parent: References
 layout: resource_list
 ---
 
@@ -9,7 +9,7 @@ layout: resource_list
 
 - 🛠 [Follow these instructions to install Python and other tools you'll need](https://momentumlearn.notion.site/Setting-up-your-Python-Development-Environment-91c5006b5a504844ad4e6abf5d209928)
 
-### Essential Python Resources
+### Essential Python References
 
 - ⭐ [Official Python docs](https://docs.python.org/3/)
 - ⭐ [Documentación de Python en Español](https://docs.python.org/es/3/)

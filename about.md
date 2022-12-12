@@ -6,33 +6,33 @@ description: >-
 ---
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
-
 ## Zoom
 
-Class meetings happen on Zoom. When class isn't meeting, you're welcome to use the room to work together.
+All meetings happen on Zoom. When your team isn't meeting with your instructor, you're welcome to use the room to work together.
 
-[Link to Zoom Classroom](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09){: .btn .btn-green}
+[Link to Zoom Team Meeting](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09){: .btn .btn-green}
 
 [Link to Zoom Co-Working](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09){:.btn .btn-purple}
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-13) -- all your assignment repos are located here
-- [Notes from class](https://github.com/momentum-team-13/notes)
+- [Team GitHub organization](https://github.com/momentum-team-13) -- all your assignment repos are located here
+- [Notes](https://github.com/momentum-team-13/notes)
 
 ## How to use this site
 
 - **Home**: Daily updates and announcements
 - **Calendar**: A list of topics by date, with links to resources relevant to that day and a link to the current lab project (usually a GitHub Classroom assignment link)
 - **Phases > Topics**: Curriculum topics with information about lab projects and resources, also linked from Calendar
-- **Resources**: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic
+- **References**: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic
 - **Weekly Schedule**: A visual of meeting and lab times throughout the week
 - **Help & Info**: this page
 - **Search Bar**: (at the top of every page)

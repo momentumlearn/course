@@ -1,7 +1,7 @@
 ---
 title: JavaScript Basics
 category: js
-parent: Resources
+parent: References
 layout: resource_list
 ---
 

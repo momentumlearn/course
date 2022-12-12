@@ -1,7 +1,7 @@
 ---
 title: Python Lists & Dicts
 category: python
-parent: Resources
+parent: References
 layout: resource_list
 ---
 
@@ -18,7 +18,6 @@ layout: resource_list
 - [RealPython: Sorting in Python](https://realpython.com/python-sort/)
 - [Python Docs: Sorting HOWTO](https://docs.python.org/3/howto/sorting.html#sortinghowto)
 - [Lambda Functions](https://realpython.com/python-lambda/)
-
 
 ## Dictionaries
 

@@ -9,7 +9,6 @@ parent: Phase 2 Back End
 nav_order: 2
 ---
 
-
 ## 🗓️ Today's topics
 
 - Python
@@ -51,12 +50,9 @@ Be sure to **read the instructions for each exercise carefully**. Here is [a gui
 
 If you get through all four of these, please continue with other exercises that seem interesting or fun to you. There are lots to choose from, and you want as much practice with Python as you can get.
 
-
 ## 🎯 Project
 
 Please complete the [Python section](https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/) through "More iterating with Python" by Wednesday morning, 6/15.
-
-
 
 ### 🥡 How to submit your work
 

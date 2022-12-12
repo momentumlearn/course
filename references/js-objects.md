@@ -1,7 +1,7 @@
 ---
 title: JavaScript Objects
 category: js
-parent: Resources
+parent: References
 layout: resource_list
 ---
 

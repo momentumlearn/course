@@ -1,10 +1,9 @@
 ---
 title: Python OOP
 category: python
-parent: Resources
+parent: References
 layout: resource_list
 ---
-
 
 ### Object-Oriented
 
@@ -22,9 +21,8 @@ layout: resource_list
 - [Nombres Especiales de Método](https://docs.python.org/es/3/reference/datamodel.html#special-method-names)
 - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/) _This is a great reference, but watch out! It was written for Python 2, so a few things may be different in Python 3._
 
-### Useful resources for debugging
+### Useful References for debugging
 
 - [Scope of Variables in Python](https://www.datacamp.com/community/tutorials/scope-of-variables-python)
 - [🐛 Debugging Python For Fun & Profit (video)](https://www.youtube.com/watch?v=rMCZgYfEJJI)
 - [Code Style Checks in Python](https://julien.danjou.info/code-style-checks-in-python/) _We installed `flake8` on the first day of this phase. This post gives you some detail about what it's for and why you need it._
-

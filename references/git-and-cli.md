@@ -1,7 +1,7 @@
 ---
 title: Git and Command Line
 category: dev tools
-parent: Resources
+parent: References
 layout: resource_list
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pro Tips for Learning To Code
 category: learning
-parent: Resources
+parent: References
 layout: resource_list
 ---
 

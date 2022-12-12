@@ -1,7 +1,7 @@
 ---
 title: JavaScript Extra Stuff
 category: js
-parent: Resources
+parent: References
 layout: resource_list
 ---
 
@@ -10,7 +10,7 @@ layout: resource_list
 - [Lodash](https://lodash.com/) - This is a JS utility library -- lots of handy little functions that can make it easier to do common things
 - [Moment.js](https://momentjs.com/) - This is a very commonly used library for working with dates in JS. It's big and kind of old, but handy for reformatting how dates are displayed. You could also check out modern alternatives like [Luxon](https://moment.github.io/luxon/#/) or [date-fns](https://date-fns.org/).
 - [Exponentially Easy Selection Sort by Vaidehi Joshi](https://medium.com/basecs/exponentially-easy-selection-sort-d7a34292b049) - A lot more about the selection sort algorithm if you're curious
-We encounter tree structures in several places in the course -- like the DOM! If you want to know more about the concept of tree structures in computer science, check out this piece from [Vaidehi Joshi's BaseCS blog series](https://medium.com/basecs). She is awesome! There is also a thoroughly delightful accompanying [BaseCS podcast](https://www.codenewbie.org/basecs) with the equally amazing Saron Yitbarek.
+  We encounter tree structures in several places in the course -- like the DOM! If you want to know more about the concept of tree structures in computer science, check out this piece from [Vaidehi Joshi's BaseCS blog series](https://medium.com/basecs). She is awesome! There is also a thoroughly delightful accompanying [BaseCS podcast](https://www.codenewbie.org/basecs) with the equally amazing Saron Yitbarek.
 
 - [BaseCS blog series: How Not to be Stumped by Trees](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
 

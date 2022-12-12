@@ -7,7 +7,7 @@ nav_order: 1
 
 # Software Engineering Immersive
 
-**Today's topics** are on the [calendar]({% link calendar.md %}), along with links to **course material**, **resources**, and **lab assignments**.
+**Today's topics** are on the [calendar]({% link calendar.md %}), along with links to **course material**, **references**, and **lab assignments**.
 
 ## ✨ What's up today
 

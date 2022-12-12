@@ -6,7 +6,6 @@ layout: daily_post
 permalink: welcome-phase-3
 ---
 
-
 During this phase, your daily post will be specific to your specialization, either front-end or back-end.
 
 This post is for everyone. **There are two additional posts today, one each for front-end and back-end topics.** _These links are also on today's [calendar]({% link calendar.md %})_.
@@ -16,7 +15,7 @@ This post is for everyone. **There are two additional posts today, one each for 
 
 ## 🕘 Schedule
 
-#### Class meetings are on Monday, Tuesday, & Thursday
+#### Team meetings are on Monday, Tuesday, & Thursday
 
 - 9:30-11:30 🐻 Back End team meeting
 - 2:00-4:00 🦊 Front End team meeting
@@ -34,10 +33,9 @@ This post is for everyone. **There are two additional posts today, one each for 
 
 Your team meets either during the morning or the afternoon. The rest of the day is lab time, so we'll expect to see you online and working. Please let us know if you will be unavailable during work hours.
 
-During lab time, please **read/watch/listen to the required readings, videos, and podcasts** and **work on your lab projects**. Come to class meetings prepared to ask questions.
+During lab time, please **read/watch/listen to the required readings, videos, and podcasts** and **work on your lab projects**. Come to meetings prepared to ask questions.
 
-You are welcome to use the classroom Zoom link and/or [the co-working Zoom](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) during lab times.
-
+You are welcome to use the team Zoom link and/or [the co-working Zoom](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) during lab times.
 
 ## 🗓️ Today's Topics for both Front and Back End
 
@@ -62,14 +60,13 @@ For an insightful take on being comfortable with what you don't know, read this 
 
 - Complete this [Goals Reflection exercise](https://momentumlearn.notion.site/Goals-Reflection-8f798bd2f05b4b5ea9458858e39a24c5) to re-energize for what's ahead and focus on what you want to accomplish and **post a tip from your CONTINUE list, or a request for advice for something that you've been struggling with** to our team Slack channel.
 
-- **Create a schedule** that you can stick to for the times you will not be in class (see the time management resources below for some suggestions on managing your time effectively).
+- **Create a schedule** that you can stick to for the times you will not be meeting with the team (see the time management resources below for some suggestions on managing your time effectively).
 
 - [Learn Markdown](https://learnxinyminutes.com/docs/markdown/) See the resources section below.
 
 - Pick a note-taking application that will let you take notes while you read and work. It's important that it can properly format code blocks. Here are some options (don't overthink this choice -- just pick something that you feel comfortable with).
 
-
-  - [VS Code](https://helgeklein.com/blog/2020/10/vs-code-as-markdown-note-taking-app/)  (with this option you could create a simple git repo with markdown files)
+  - [VS Code](https://helgeklein.com/blog/2020/10/vs-code-as-markdown-note-taking-app/) (with this option you could create a simple git repo with markdown files)
   - [BoostNote](https://boostnote.io/)
   - [Notion](https://www.notion.so/)
   - [Typora](https://typora.io/)
@@ -79,7 +76,7 @@ For an insightful take on being comfortable with what you don't know, read this 
 ### Time Management
 
 - [The Pomodoro Technique for Time Management & Productivity](https://todoist.com/productivity-methods/pomodoro-technique)
-    - [Zapier's list of Pomodoro Apps](https://zapier.com/blog/best-pomodoro-apps/)
+  - [Zapier's list of Pomodoro Apps](https://zapier.com/blog/best-pomodoro-apps/)
 - [Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 - [Common Time Management Problems & Solutions](https://dev.to/actitime/20-most-common-time-management-problems-solutions-3abb)
 

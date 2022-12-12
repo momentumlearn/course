@@ -1,7 +1,7 @@
 ---
 title: Tools
 category: js
-parent: Resources
+parent: References
 layout: resource_list
 ---
 
@@ -19,7 +19,6 @@ layout: resource_list
 - [Prettier Code Formatter](https://prettier.io/) This is information about the extenstion that you can (and should) install in VS Code.
 - [How to format code with Prettier](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)
 
-
 ## Back End Tools
 
 - [🐛 Debugging Python For Fun & Profit (video)](https://www.youtube.com/watch?v=rMCZgYfEJJI)
@@ -30,8 +29,7 @@ layout: resource_list
 
 - [GitHub Collaboration Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
 - [Git Collaboration slides](https://slides.com/amy_nc/git-collaboration/)
-- [Git in VS Code](https://code.visualstudio.com/docs/introvideos/versioncontrol) _Not everyone loves using git on the command line like I do.  A lot of folks like using the integration in VS Code, so you might want to give it a try. This is a good place to start, but there are many other extensions that you could use as well._
-
+- [Git in VS Code](https://code.visualstudio.com/docs/introvideos/versioncontrol) _Not everyone loves using git on the command line like I do. A lot of folks like using the integration in VS Code, so you might want to give it a try. This is a good place to start, but there are many other extensions that you could use as well._
 
 ## 🕘 Time Management
 

@@ -1,5 +1,5 @@
 ---
-headline: "Phases 1 & 2 Weekly Schedule"
+headline: 'Phases 1 & 2 Weekly Schedule'
 nav_order: 2
 timeline:
   - '9:00 AM'
@@ -23,34 +23,46 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Morning Class
+      - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Afternoon Class
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
   - name: Tuesday
     events:
-      - name: Morning Class
+      - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Afternoon Class
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
   - name: Wednesday
     events:
-      - name: Morning Class
+      - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Afternoon Class
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
   - name: Thursday
     events:
-      - name: Morning Class
+      - name: Morning Session
         start: 9:30 AM
         end: 11:30 AM
-      - name: Afternoon Class
+      - name: Lunch/Lab
+        start: 11:30 AM
+        end: 2:00 PM
+      - name: Afternoon Session
         start: 2:00 PM
         end: 3:30 PM
   - name: Friday

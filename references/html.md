@@ -1,7 +1,7 @@
 ---
 title: HTML
 category: front end
-parent: Resources
+parent: References
 layout: resource_list
 ---
 
