@@ -7,6 +7,6 @@ phase: 2
 
 {% for topic in topics %}
 {{ topic.date | date: "%B %-d" }}
-: [{{ topic.title }}]({% link {{topic.url}} %})
-: [Project]({{ topic.project_url }}){: .label .project-label } [References]({% link {{ topic.references_url }} %}){: .label .references-label }
+: {% if topic.url %} [{{ topic.title }}]({% link {{topic.url}} %}){% else %} {{topic.title}} {% endif %}
+: [Project]({{ topic.project_url }}){:target="_blank"}{:rel="noopener noreferrer"}{: .label .project-label } [References]({% link {{ topic.references_url }} %}){: .label .references-label }
 {% endfor %}
