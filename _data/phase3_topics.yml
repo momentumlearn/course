@@ -3,18 +3,18 @@
   phase: 3
   date: 2022-07-11
   url: phase3-be/welcome.md
-  project_url: https://classroom.github.com/a/vE6TJEWx
-  references_url: references/git-and-cli.md
+  project_url:
+  code_demo_url: ''
 - title: Welcome to Advanced Front End
   tag: fe
   phase: 3
   date: 2022-07-11
   url: phase3-fe/welcome.md
   project_url: https://exercism.org/tracks/javascript
-  references_url: references/git-and-cli.md
+  code_demo_url: ''
 - title: Models & Queries
   tag: be
   phase: 3
   date: 2022-09-12
   url: phase3-be/models-and-queries.md
-  references_url: references/py-models-and-queries.md
+  code_demo_url: https://github.com/Momentum-Team-15/example-django-music
