@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Today
-permalink: index.html
-nav_order: 1
+title: News
+permalink: calendar
+nav_order: 2
 ---
 
-# Software Engineering Immersive
+# News & Announcements
 
-**Today's topics** are on the [calendar]({% link calendar.md %}), along with links to **course material**, **references**, and **lab assignments**.
+**Today's topics** are on the [list of topics by date]({% link calendar.md %}), along with links to **course material**, **references**, and **projects**.
 
 ## ✨ What's up today
 

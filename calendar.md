@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Calendar
+title: Topics By Date
 description: Listing of course topics by date.
-permalink: /calendar
+permalink: index.html
 has_toc: false
-nav_order: 2
+nav_order: 1
 ---
 
-# Topics by Date
+# Software Engineering Immersive
 
-_Topics are listed by date, newest to oldest._
+_Topics are listed by date, newest to oldest. New entries are added daily._
 
 {% assign modules = site.modules | sort: "phase" | reverse %}
 
 {% for module in modules %}
-  {{ module }}
+{{ module }}
 {% endfor %}

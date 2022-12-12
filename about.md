@@ -30,7 +30,7 @@ All meetings happen on Zoom. When your team isn't meeting with your instructor, 
 ## How to use this site
 
 - **Today**: Daily updates and announcements
-- **Calendar**: A list of topics by date, with links to resources relevant to that day and a link to the current project (usually a GitHub Classroom assignment link)
+- **Topics by Date**: A list of topics by date, with links to resources relevant to that day and a link to the current project (usually a GitHub Classroom assignment link)
 - **Phases > Topics**: Curriculum topics with information about projects and references, also linked from Calendar
 - **References**: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic
 - **Weekly Schedule**: A visual of meeting and project times throughout the week
