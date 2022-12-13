@@ -151,10 +151,16 @@ hr {
 
 .resource-section {
   border-bottom: 1px solid $brand-sky-blue;
+
+  h3 {
+    color: $brand-ruby-red;
+    font-weight: bold;
+  }
 }
 
 .resource-heading {
-  color: $brand-ruby-red;
+  color: $brand-branch-green;
+  font-weight: bold;
 }
 
 .details-toc {
@@ -247,6 +253,10 @@ ul#markdown-toc > li::before {
 
 .project-label {
   @extend .label-mmntm-lt-blue;
+}
+
+.post-label {
+  @extend .label-mmntm-green;
 }
 
 .home-posts-headline {

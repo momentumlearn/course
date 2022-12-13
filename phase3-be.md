@@ -7,5 +7,5 @@ has_toc: true
 nav_order: 5
 ---
 
-# Advanced Back End with Python
+# Advanced Back End with Django and Django REST Framework
 
