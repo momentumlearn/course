@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Welcome to your first day of class
-date: 2022-05-16
+title: 'Developer Tools: the Command Line and Git'
 topic: The Command Line and Git
 category: phase1
 parent: Phase 1 Front End

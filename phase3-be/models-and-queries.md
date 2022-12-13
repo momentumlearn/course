@@ -21,6 +21,6 @@ Today your models should be done, so you can begin building out the urls, views,
 
 There are examples for a lot of what you need to do in the Django Recipes codebase but you will have to adapt them to your Habit Tracker use cases.
 
-## References
+## 🔖 References
 
 - [Models, Queries, and Databases]({% link references/py-models-and-queries.md %})
