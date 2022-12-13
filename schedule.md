@@ -2,6 +2,7 @@
 layout: page
 title: Weekly Schedule
 description: The weekly event schedule.
+permalink: schedule
 nav_order: 8
 ---
 
