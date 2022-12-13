@@ -29,7 +29,8 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   "GitHub":
-    - "//github.com/momentum-team-X"
+    - "//github.com/momentum-team-x" # not a typo; // ensures an external link
+aux_links_new_tab: true
 footer_content: "&copy;2022 Momentum"
 logo: "/assets/images/momentum__mark-digital-royal.png"
 
