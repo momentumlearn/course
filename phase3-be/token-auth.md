@@ -31,6 +31,8 @@ Work with your team. Today you should be writing code for your **models** referr
 ## 🔖 References
 
 - [CORS][cors]
-- [DRF Authentication][authentication]
-- [DRF Permissions][permissions]
+- [DRF Authentication][drf-authentication]
+- [DRF Permissions][drf-permissions]
 - [Advanced Git][git-collab]
+
+{% include reference_links.md %}
