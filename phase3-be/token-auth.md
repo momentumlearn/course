@@ -28,27 +28,9 @@ Work with your team. Today you should be writing code for your **models** referr
 - 📖 [A Visual Guide to CORS by Lydia Hallie](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 - 📖 [Simple Is Better Than Complex: How to Implement Token Authentication in DRF](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html) _This does NOT use Djoser, but it's a great walkthrough of some of what Djoser does for you if you would like more detail._
 
-## 🔖 Resources
+## 🔖 References
 
-### Authentication
-
-- [Djoser documentation](https://djoser.readthedocs.io/en/latest/)
-- [DRF docs: Token-based authentication](https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication)
-- [The Ultimate Tutorial for Django REST Framework: Login and Authentication](https://sunscrapers.com/blog/django-rest-framework-login-and-authentication/) _This uses the Djoser library._
-
-### CORS
-
-- [MDN CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-    - [MDN Access-Control-Allow-Origin Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin)
-- [Django CORS Guide](https://www.stackhawk.com/blog/django-cors-guide/)
-- [`django-cors-headers`](https://github.com/adamchainz/django-cors-headers)
-
-### Permissions
-
-- [DRF Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
-- [Pro-Tip: Logical operators with DRF Permissions](https://www.revsys.com/tidbits/tip-about-drf-permissions/)
-
-## 👾 Code & Notes
-
-- [Example DRF Library API](https://github.com/Momentum-Team-15/example-drf-library-api)
-- [Git Collaboration slide deck](https://slides.com/amy_nc/git-collaboration)
+- [CORS][cors]
+- [DRF Authentication][authentication]
+- [DRF Permissions][permissions]
+- [Advanced Git][git-collab]

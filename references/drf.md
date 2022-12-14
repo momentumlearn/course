@@ -73,3 +73,16 @@ layout: resource_list
 - [Built-in Permission Classes in DRF](https://testdriven.io/blog/built-in-permission-classes-drf/)
 - [Custom Permissions in DRF](https://testdriven.io/blog/custom-permission-classes-drf/)
 - [Pro Tip about DRF Permissions](https://www.revsys.com/tidbits/tip-about-drf-permissions/) _This shows how to combine permissions with logical operators like `and` and `or`_
+
+## CORS
+
+- [Django CORS Guide](https://www.stackhawk.com/blog/django-cors-guide/)
+- [`django-cors-headers`](https://github.com/adamchainz/django-cors-headers)
+
+## Authentication
+
+- [Djoser documentation](https://djoser.readthedocs.io/en/latest/)
+- [DRF docs: Token-based authentication](https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication)
+- [The Ultimate Tutorial for Django REST Framework: Login and Authentication](https://sunscrapers.com/blog/django-rest-framework-login-and-authentication/) _This uses the Djoser library._
+- 📺 [Finally Understand Auth in DRF - a Will Vincent talk](https://www.youtube.com/watch?v=pY-oje5b5Qk) -> Will isn't using the Djoser library but he does a great job of reviewing different auth strategies and why you would choose one or the other. Watch this for a better understanding and overview of authentication.
+- 📖 [Simple Is Better Than Complex: How to Implement Token Authentication in DRF](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html) _This does NOT use Djoser, but it's a great walkthrough of some of what Djoser does for you if you would like more detail._

@@ -15,3 +15,7 @@ layout: resource_list
 - [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer](https://gitexplorer.com/) -- this tool lets you look up commands by what you are trying to do
+
+### Advanced Git
+
+- [How to use Git as a Team](https://slides.com/amy_nc/git-collaboration)

@@ -8,4 +8,6 @@
 [drf-serializers]: {% link references/drf.md %}#serializers
 [drf-views]: {% link references/drf.md %}#views
 [drf-permissions]: {% link references/drf.md %}#permissions
+[drf-authentication]: {% link references/drf.md %}#authentication
 [cors]: {% link references/http.md %}#cors
+[git-collab]: {% link references/git-and-cli.md %}#advanced-git
