@@ -25,6 +25,7 @@ layout: resource_list
 - [Pretty Printed Django Videos](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf): Videos 1-10 are the ones specific to Django. There are other videos on related topics; they are useful but not relevant to the material we're covering right now.
 - [Curso de Django Desde Cero (Español)](https://youtu.be/vXR5CAcRv5w) Partes 1-3
 - [Django Chat Podcast: How to Learn Django](https://djangochat.com/episodes/how-to-learn-django)
+- [Pretty Printed Django: an Introduction for Beginners](https://www.youtube.com/watch?v=QVX-etwgvJ8)
 
 ### Getting Started with the Database in Django
 

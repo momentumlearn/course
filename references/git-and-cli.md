@@ -19,3 +19,7 @@ layout: resource_list
 ### Advanced Git
 
 - [How to use Git as a Team](https://slides.com/amy_nc/git-collaboration)
+- [GitHub Docs: Pull Requests](https://docs.github.com/en/pull-requests)
+- [Git Interactive Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index)
+- [Git Official Reference](https://git-scm.com/docs)
+- [Dangit, Git!?!](https://dangitgit.com/en) - recovering from mistakes

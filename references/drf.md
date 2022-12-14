@@ -91,6 +91,7 @@ layout: resource_list
 
 - [Django CORS Guide](https://www.stackhawk.com/blog/django-cors-guide/)
 - [`django-cors-headers`](https://github.com/adamchainz/django-cors-headers)
+- [Enabling CORS in Django](https://www.stackhawk.com/blog/django-cors-guide/)
 
 ## Authentication
 
