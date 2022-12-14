@@ -1,5 +1,5 @@
 ---
-title: Django Models & Queries
+title: Django Advanced Models & Queries
 category: python
 parent: References
 layout: resource_list
@@ -41,7 +41,7 @@ You can think of queries like questions you ask about your data, phrased in a wa
 - [Pretty Printed Video: How Model Queries Work in Django](https://youtu.be/WimXjp0ryOo)
 - [Pretty Printed Video: Querying One-to-Many Relationships in Django](https://youtu.be/iwNBwG8RBok )
 
-### Django QuerySets and Managers
+### QuerySets and Managers
 
 - [Django Docs: QuerySets](https://docs.djangoproject.com/en/4.1/topics/db/queries/#retrieving-objects)
 - [Django Docs: Model Managers](https://docs.djangoproject.com/en/4.1/topics/db/managers)
@@ -53,7 +53,7 @@ You can think of queries like questions you ask about your data, phrased in a wa
 - [Django Docs: model constraints](https://docs.djangoproject.com/en/4.1/ref/models/options/#constraints) -> this gives you the general format/syntax
 - [Django Docs: UniqueConstraint](https://docs.djangoproject.com/en/4.1/ref/models/constraints/#uniqueconstraint)
 
-### Aggregate & Annotate
+### Aggregate and Annotate
 
 - [PrettyPrinted Video: Basics of Django Aggregations](https://youtu.be/2MFAV-arSuI)
 - [Pretty Printed Video: How to Use Annotate in Django](https://youtu.be/KbwmdKl-QbI)
@@ -61,7 +61,9 @@ You can think of queries like questions you ask about your data, phrased in a wa
 - [Django docs: Combining Aggregations with other QuerySets](https://docs.djangoproject.com/en/4.1/topics/db/aggregation/#s-aggregations-and-other-queryset-clauses)
 - [Django Docs: Aggregation Functions](https://docs.djangoproject.com/en/4.1/ref/models/querysets/#aggregation-functions) (e.g., `Avg`, `Count`, `Min`, `Max`)
 
-### Using the shell (Django's interactive REPL, not pipenv shell and also not zsh)
+### Using the Django Shell
+
+This is about Django's interactive REPL, not pipenv shell, and also not zsh.
 
 - [Django Docs: Using the Django Shell](https://docs.djangoproject.com/en/4.1/ref/django-admin/#shell)
 - [How to use django-extensions `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)

@@ -38,5 +38,5 @@ python manage.py shell_plus --print-sql
 
 ## 🔖 References
 
-- [Models & Queries]({% link references/py-models-and-queries.md %})
+- [Models & Queries]({% link references/advanced-django-models-and-queries.md %})
 - [Databases]({% link references/databases.md %})

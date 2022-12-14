@@ -26,7 +26,6 @@ layout: resource_list
 - [Curso de Django Desde Cero (Español)](https://youtu.be/vXR5CAcRv5w) Partes 1-3
 - [Django Chat Podcast: How to Learn Django](https://djangochat.com/episodes/how-to-learn-django)
 
-
 ### Getting Started with the Database in Django
 
 - [What is a relational database?](https://www.techtarget.com/searchdatamanagement/definition/relational-database)
@@ -40,7 +39,7 @@ layout: resource_list
 - 📺 [Python Debugging with Pdb - Course on RealPython](https://realpython.com/courses/python-debugging-pdb/) - only the first three videos are free but they are useful!
 - 📺 [Damilare Onajole, Debugging Python](https://pyvideo.org/pycon-nigeria-2018/debugging-python-applications-for-profit.html)
 
-### Models & Queries
+### Models and Queries
 
 - [Django Docs: Models](https://docs.djangoproject.com/en/4.0/topics/db/models/)
 - ⭐ [Django Docs: Model Field Reference](https://docs.djangoproject.com/en/4.0/ref/models/fields/)
@@ -56,13 +55,13 @@ layout: resource_list
 ### Authentication, Registration, and the User Model in Django
 
 - [django-registration-redux](https://django-registration-redux.readthedocs.io/en/latest/index.html)
-  - We are using the [simple (one-step) backend](https://django-registration-redux.readthedocs.io/en/latest/simple-backend.html#the-simple-one-step-backend)
+    - We are using the [simple (one-step) backend](https://django-registration-redux.readthedocs.io/en/latest/simple-backend.html#the-simple-one-step-backend)
 - [Simple Is Better Than Complex: How to Extend the Django User Model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
-  - Clear comparison of the four choices you have, and when you would use each one.
+    - Clear comparison of the four choices you have, and when you would use each one.
 - [Django docs: User Authentication](https://docs.djangoproject.com/en/4.0/topics/auth/#user-authentication-in-django)
 - [Django docs: built-in User Model](https://docs.djangoproject.com/en/4.0/ref/contrib/auth/#user-model) -> _documentation for all the things you get for free with the User from Django_
 - [Django docs: Extending the built-in User Model with AbstractUser](https://docs.djangoproject.com/en/4.0/topics/auth/customizing/#extending-django-s-default-user)
-  - [Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model) -> _This tutorial is good to read for an overview, but you don't need to follow the instructions to implement the forms to create or change a user, since we are using the `django-registration-redux` package for that._
+    - [Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model) -> _This tutorial is good to read for an overview, but you don't need to follow the instructions to implement the forms to create or change a user, since we are using the `django-registration-redux` package for that._
 - [Django docs: Authentication in Web Requests](https://docs.djangoproject.com/en/4.0/topics/auth/default/#authentication-in-web-requests) -> _`django-registration-redux` handles some of this for us (giving us the login and logout urls, for instance) but it's helpful to see other ways you can use the authenticated user._
 - [The `login_required` decorator](https://docs.djangoproject.com/en/4.0/topics/auth/default/#the-login-required-decorator)
 - [Limiting access to logged-in users that pass a test](https://docs.djangoproject.com/en/4.0/topics/auth/default/#limiting-access-to-logged-in-users-that-pass-a-test)
@@ -100,5 +99,4 @@ layout: resource_list
 - [Form and field validation](https://docs.djangoproject.com/en/4.0/ref/forms/validation/)
 - [The Forms API](https://docs.djangoproject.com/en/4.0/ref/forms/api/) -> Details on form object attribute and methods (such as `as_p()`)
 - [Django's CSRF protection](https://docs.djangoproject.com/en/4.0/ref/csrf/)
-  - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
-
+    - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)

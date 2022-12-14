@@ -35,3 +35,12 @@ layout: resource_list
 - [Entity Relationship Diagrams (ERD), from Lucid Chart](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 - [What is an Entity Relationship Diagram?](https://www.lucidchart.com/pages/er-diagrams) - _The first video is especially good._
 - [Database Design Tutorial](https://learndjango.com/tutorials/database-design-tutorial-beginners) _This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships._
+
+### Database Normalization
+
+This is very much optional right now but important to learn about at some point if you're going to be working with data in your job.
+
+- [An Introduction to Database Normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+- [Video on the first normal form](https://youtu.be/K7vzLrGCV50)
+- [Video on the second normal form](https://youtu.be/A9sezRxNhWY)
+- [Video on the third normal form](https://youtu.be/GP_RcibUicQ)

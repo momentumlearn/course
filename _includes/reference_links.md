@@ -9,5 +9,13 @@
 [drf-views]: {% link references/drf.md %}#views
 [drf-permissions]: {% link references/drf.md %}#permissions
 [drf-authentication]: {% link references/drf.md %}#authentication
+[deep-drf]: {% link references/drf.md %}#drf-in-depth
+[drf-search]: {% link references/drf.md %}#search
+[drf-filtering]: {% link references/drf.md %}#filtering
+[drf-pagination]: {% link references/drf.md %}#pagination
+[file-upload]: {% link references/drf.md %}#file-upload
+[api-design]: {% link references/drf.md %}#rest-api-design
 [cors]: {% link references/http.md %}#cors
 [git-collab]: {% link references/git-and-cli.md %}#advanced-git
+[http-headers]: {% link references/http.md %}#headers
+[adv-queries]: {% link references/advanced-django-models-and-queries.md %}#queries-and-lookups

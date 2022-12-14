@@ -11,9 +11,7 @@ published: true
 ## 🗓️ Today's Topics
 
 - API project review
-- Follow up on yesterday's project planning
 - Token authentication in DRF with Djoser
-- CORS headers
 - Git Workflow for Teams
 
 ## 🎯 Collaborative Project

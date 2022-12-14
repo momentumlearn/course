@@ -23,4 +23,4 @@ There are examples for a lot of what you need to do in the Django Recipes codeba
 
 ## 🔖 References
 
-- [Models, Queries, and Databases]({% link references/py-models-and-queries.md %})
+- [Models, Queries, and Databases]({% link references/advanced-django-models-and-queries.md %})

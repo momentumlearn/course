@@ -21,3 +21,10 @@ layout: resource_list
 - [A Visual Guide to CORS by Lydia Hallie](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 - [Django CORS Guide](https://www.stackhawk.com/blog/django-cors-guide/)
 - [`django-cors-headers`](https://github.com/adamchainz/django-cors-headers)
+
+## Headers
+
+- [MDN Content-Type Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type)
+- [MDN MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+- [MDN Content-Disposition Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition)
+- [MDN Access-Control-Allow-Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin)
