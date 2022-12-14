@@ -5,7 +5,7 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Advanced Back End
 nav_order: 3
-published: false
+published: true
 ---
 
 ## Today's Topics
@@ -40,9 +40,3 @@ python manage.py shell_plus --print-sql
 
 - [Models & Queries]({% link references/py-models-and-queries.md %})
 - [Databases]({% link references/databases.md %})
-
-
-### 🦉 Code & Notes
-
-- [Django Model Queries CheatSheet](https://github.com/Momentum-Team-13/notes/blob/main/django-queries.md)
-- [Django Recipes App](https://github.com/Momentum-Team-13/example-django-recipes)

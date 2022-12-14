@@ -1,11 +1,11 @@
 ---
 layout: page
-title: HTTP, REST, and Django REST Framework
+title: HTTP and RESTful APIs
 topic: Python
 category: phase3-be
 parent: Phase 3 Advanced Back End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## 🗓️ Today's Topics
@@ -40,6 +40,6 @@ These references are also listed on the [DRF references page](% link references/
 
 - [Introduction to RESTful APIs][intro-apis]
 - [Django REST Framework Basics][drf-basics]
-- [HTTP][http]
+- [HTTP & REST]({% link references/http.md %})
 
 {% include reference_links.md %}

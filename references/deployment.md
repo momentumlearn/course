@@ -5,8 +5,6 @@ parent: References
 layout: resource_list
 ---
 
-
-
 ### Deployment
 
 - 📺 [Katie McLaughlin, What is Deployment, Anyway?](https://2021.djangocon.us/talks/what-is-deployment-anyway/)
@@ -21,3 +19,8 @@ layout: resource_list
 - [Using Postgres Locally](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
 - [Django Docs: Deployment Checklist](https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/)
 - [`django-environ`](https://django-environ.readthedocs.io/en/latest/)
+
+### The Ship-It Mindset
+
+- [About the Ship It Mindset](https://excid3.com/blog/finishing-is-all-that-matters)
+- [ship it squirrel](https://shipitsquirrel.github.io/)

@@ -152,13 +152,13 @@ hr {
 .resource-section {
   border-bottom: 1px solid $brand-sky-blue;
 
-  h3 {
+  h2, h3 {
     color: $brand-ruby-red;
     font-weight: bold;
   }
 }
 
-.resource-heading {
+h2.resource-heading {
   color: $brand-branch-green;
   font-weight: bold;
 }

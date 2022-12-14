@@ -5,4 +5,7 @@
 [advanced-databases]: {% link references/py-django.md %}#advanced-databases
 [intro-apis]: {% link references/drf.md %}#intro-to-rest-apis
 [drf-basics]: {% link references/drf.md %}#django-rest-framework-basics
-[http]: {% link references/drf.md %}#http
+[drf-serializers]: {% link references/drf.md %}#serializers
+[drf-views]: {% link references/drf.md %}#views
+[drf-permissions]: {% link references/drf.md %}#permissions
+[cors]: {% link references/http.md %}#cors

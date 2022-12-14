@@ -52,4 +52,3 @@ These are also listed under [Django references]({% link references/py-django.md 
 
 - [Deployment]({% link references/deployment.md %})
 - [Databases]({% link references/databases.md %})
-

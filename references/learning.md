@@ -11,8 +11,13 @@ layout: resource_list
 ## 💁 Asking Questions + Getting Help
 
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
-- [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
+- [Sasha Laundy, Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 - [Our Student Guidelines: Getting Help](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md#getting-help)
+
+## Debugging Techniques
+
+- [Julia Evans, A Debugging Manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
+- [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
 
 ## Tech Pros Have Good Advice for You
 
