@@ -13,13 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Momentum Team X Course Site
-team_name: "Team X"
+
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
 baseurl: '/course' # the subpath of your site, e.g. /blog
-url: 'https://momentumlearn.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
+
+# ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
+title: Momentum Team X Course Site
+team_name: "Team X"
+url: 'https://momentumlearn.github.io'
+team_github_org: 'https://github.com/momentum-team-x'
+team_notes_repo: 'https://github.com/momentum-team-x/notes'
+zoom_link: 'https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09'
+zoom_coworking_link: 'https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
