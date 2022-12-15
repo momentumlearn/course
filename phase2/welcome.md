@@ -14,7 +14,7 @@ Welcome to Phase 2, where we'll be learning about back end development. Topics w
 - Building web applications with Django
 - Working with a relational database
 
-## 🗓️ Today's topics
+## Objectives
 
 - Running Python
 - Syntax differences between JS and Python

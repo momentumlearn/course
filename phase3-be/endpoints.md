@@ -8,7 +8,7 @@ nav_order: 9
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - How are the projects coming along? 👀
 - Documenting and testing your API's endpoints with Insomnia

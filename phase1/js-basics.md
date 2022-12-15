@@ -7,7 +7,7 @@ parent: Phase 1 Front End
 nav_order: 5
 ---
 
-## 🗓️ Today's topics
+## Objectives
 
 - Basic programming concepts in JavaScript
 - Using variables, data types, conditionals, loops, and functions

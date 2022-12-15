@@ -8,7 +8,7 @@ nav_order: 11
 ---
 
 
-## 🗓️ Today's topics
+## Objectives
 
 - HTML forms
 - Working with form data in JavaScript

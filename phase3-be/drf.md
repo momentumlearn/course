@@ -8,7 +8,7 @@ nav_order: 5
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 Today we dive into Django REST Framework. 🤿
 

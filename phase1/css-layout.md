@@ -6,7 +6,7 @@ parent: Phase 1 Front End
 nav_order: 4
 ---
 
-## 🗓️ Today's topics
+## Objectives
 
 - CSS backgrounds
 - CSS layout with flexbox

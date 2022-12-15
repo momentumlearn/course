@@ -8,7 +8,7 @@ nav_order: 2
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - Designing your models
 - Deploying a Django app

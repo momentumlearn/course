@@ -10,7 +10,7 @@ nav_order: 6
 ---
 
 
-## 🗓️ Today's Topics
+## Objectives
 
 Today we develop our mental model of Django, understanding what it does and how it does it.
 

@@ -6,7 +6,7 @@ parent: Phase 1 Front End
 nav_order: 2
 ---
 
-## 🗓️ Today's topics
+## Objectives
 
 - Learn about HTML tags and elements
 - Create a page with HTML

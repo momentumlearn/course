@@ -7,7 +7,7 @@ parent: Phase 1 Front End
 nav_order: 6
 ---
 
-## 🗓️ Today's topics
+## Objectives
 
 - Using variables, data types, conditionals, loops, and functions
 

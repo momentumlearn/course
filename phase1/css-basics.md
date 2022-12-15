@@ -7,7 +7,7 @@ parent: Phase 1 Front End
 nav_order: 3
 ---
 
-## 🗓️ Today's topics
+## Objectives
 
 - Styling HTML with CSS
 - CSS syntax: selectors, properties, values; shorthand properties

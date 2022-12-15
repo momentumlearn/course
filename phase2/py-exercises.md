@@ -9,7 +9,7 @@ parent: Phase 2 Back End
 nav_order: 2
 ---
 
-## 🗓️ Today's topics
+## Objectives
 
 - Python
   - variables

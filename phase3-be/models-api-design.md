@@ -8,7 +8,7 @@ nav_order: 8
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - Models for your collaborative project
 - Designing the endpoints you need

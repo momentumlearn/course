@@ -8,7 +8,7 @@ nav_order: 11
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - Wrapping up the collaborative project
 - Implementing search, including Postgres full-text search

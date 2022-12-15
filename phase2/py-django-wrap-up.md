@@ -10,7 +10,7 @@ nav_order: 8
 ---
 
 
-## 🗓️ Today's Topics
+## Objectives
 
 - Preview of Collaboration for Phase 3
 - End-of-phase technical presentations

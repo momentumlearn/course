@@ -8,7 +8,7 @@ nav_order: 7
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - API project review
 - Token authentication in DRF with Djoser

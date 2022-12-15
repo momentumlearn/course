@@ -8,7 +8,7 @@ nav_order: 1
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - Using [PostgreSQL](https://www.postgresql.org/) with Django
 - Deploying Django applications to [Render](https://www.render.com/)

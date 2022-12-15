@@ -8,7 +8,7 @@ nav_order: 10
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - How to upload files with Django & DRF
 - How to configure storage for production uploads

@@ -8,7 +8,7 @@ nav_order: 4
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - HTTP requests and responses
 - REST APIs

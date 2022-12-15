@@ -8,7 +8,7 @@ nav_order: 6
 published: true
 ---
 
-## 🗓️ Today's Topics
+## Objectives
 
 - Views, Generic Views, and Viewsets
 - Nesting and customizing serializers

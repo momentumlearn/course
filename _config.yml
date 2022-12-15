@@ -57,6 +57,10 @@ collections:
     name: modules
     output: true
     nav_exclude: true
+  references:
+    name: references
+    output: true
+    nav_exclude: false
 
 
 # Default layouts for each collection type
