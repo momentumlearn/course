@@ -18,28 +18,31 @@ description: >-
 
 All meetings happen on Zoom. When your team isn't meeting with your instructor, you're welcome to use the room to work together.
 
-[Link to Zoom Team Meeting](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09){: .btn .btn-green}
+[Link to Zoom Team Meeting]({{ site.zoom_link }}){: .btn .btn-green}
 
-[Link to Zoom Co-Working](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09){:.btn .btn-purple}
+[Link to Zoom Co-Working]({{ site.zoom_coworking_link }}){:.btn .btn-purple}
 
 ## GitHub
 
-- [Team GitHub organization](https://github.com/momentum-team-13) -- all your assignment repos are located here
-- [Notes](https://github.com/momentum-team-13/notes)
+- [Team GitHub organization]({{ site.team_github_org }}) -- all your assignment repos are located here
+- [Notes]({{ site.team_notes_repo }})
 
 ## How to use this site
 
 - **Today**: Daily updates and announcements
-- **Topics by Date**: A list of topics by date, with links to resources relevant to that day and a link to the current project (usually a GitHub Classroom assignment link)
-- **Phases > Topics**: Curriculum topics with information about projects and references, also linked from Calendar
+- **Topics by Date**: A list of topics by date
+    - **CODE DEMO** is a link to the demo code from your instructor
+    - **PROJECT** is a link to the project for that day
+    - **POST** is a link to any information that your instructor has added to the day's material
+- **Phases > Topics**: Curriculum topics with information about projects and references
 - **References**: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic
 - **Weekly Schedule**: A visual of meeting and project times throughout the week
 - **Help & Info**: this page
-- **Search Bar**: (at the top of every page)
+- **Search Bar**: (at the top of every page) Search site content by keyword
 
 ## General References
 
-- [Foundations Course](https://foundations.momentumlearn.com/)
+- [Foundations Course on Thinkific](https://thinkific.momentumlearn.com/)
 - [Our Student Guidelines: Getting Help](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md#getting-help)
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)

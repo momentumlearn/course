@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Queries and Using the Shell
 topic: Python
 category: phase3-be

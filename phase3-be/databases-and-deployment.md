@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Databases and Deployment
 topic: Python
 category: phase3-be
@@ -16,6 +16,8 @@ published: true
 ## 🎯 Project: Habit Tracker
 
 You'll be working on Habit Tracker this week.
+
+[Habit Tracker GitHub Project Link]{{ page.project_url }}
 
 It's important to read the project requirements **thoroughly** and to start to think about how you would do this project.
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Endpoints
 topic: Python
 category: phase3-be

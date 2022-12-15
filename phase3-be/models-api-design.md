@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Models and API Design
 topic: Python
 category: phase3-be

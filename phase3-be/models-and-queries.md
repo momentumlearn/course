@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Models & Queries
 topic: Python
 category: phase3-be

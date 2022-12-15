@@ -9,4 +9,10 @@ layout: resource_list
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
 - [Tutorial on Using Slack](https://slack.com/references/using-slack/slack-tutorials)
 - [Momentum Slack guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
-- ⭐ [Setting up your computer](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-42f17179ea9c4c769833cf9dc7890e20)
+
+## Computer Setup
+
+Newer Apple laptops have an Apple Silicon chip. If you aren't sure, try the Apple Silicon instructions, which will show you how to confirm that you have that chip.
+
+- ⭐ [Instructions for computers with an Apple Silicon chip](https://momentumlearn.notion.site/Computer-Set-up-Instructions-M1-ec1d2bca911a467a97655127390e8209)
+- ⭐ [Instructions for computers with an Intel chip](https://momentumlearn.notion.site/Computer-Set-up-Instructions-Intel-2e0afcab98d14153b8d41160b0e93e11)

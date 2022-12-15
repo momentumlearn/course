@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: HTTP and RESTful APIs
 topic: Python
 category: phase3-be

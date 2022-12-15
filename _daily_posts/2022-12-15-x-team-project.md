@@ -8,9 +8,9 @@ published: true
 ---
 
 
-## 🗓️ Today's Topics
+## Objectives
 
-We will use all day today for plan for the collaborative project. Katie will open breakout rooms at 9:30 and at 2:00 for folks to meet with their teams and work on project planning. You will not need to write code today.
+- Discuss and plan the collaborative project with your team.
 
 ## 🎯 Collaborative Project
 
@@ -27,12 +27,12 @@ Choose the one that sounds more fun or interesting to you.
 #### Social ECards
 
 - [Project description](https://github.com/momentum-projects/group--social-cards/blob/main/README.md)
-- [Social ECards assignment invitation](https://classroom.github.com/a/Z0G2d6pz)
+- [Social ECards assignment invitation]({{ site.projects.social_e_cards.url}})
 
 #### QuestionBox
 
 - [Project description](https://github.com/momentum-projects/group--questionbox/blob/main/README.md)
-- [QuestionBox assignment invitation](https://classroom.github.com/a/1OeNw25N)
+- [QuestionBox assignment invitation]({{ site.projects.questionbox.url}})
 
 #### How to accept the assignment and create the repos on GitHub
 
@@ -42,7 +42,7 @@ The back end will work in their own repo and the front end will work in their ow
 
 **One front-end dev** should accept the assignment invitation and name the team something like "Team Yeti Front-end" (whatever your team name is!). Then the other front-end dev(s) should accept the assignment and choose the right team. All front-end folks on the team clone that same repo.
 
-Tomorrow (Tuesday) you will learn how to work with others in a shared repo. Today you should not need to commit or push any code since your main goal is **planning**.
+Tomorrow you will learn how to work with others in a shared repo. Today you should not need to commit or push any code since your main goal is **planning**.
 
 ⚠️ Note: If you run into trouble making the repos or getting access, we will sort this all out tomorrow. It should not be necessary to create a repo until you have done the planning, so don't worry if something goes sideways on the repos today. We'll fix it!
 
@@ -50,42 +50,25 @@ When you do start work in this repo, you should delete the README at the root so
 
 ### The Teams
 
-We've got some mentors joining one of the teams on this project to provide some balance for our many backend developers!
 
 #### Team Mongoose
 
-- Nick
-- Andrew
-- Hatice
-- Webster
-- Jon
-- Lucian
+- item1
 {:.list--team}
 
 #### Team Cheetah
 
-- Ray
-- Angelo
-- Marcus
-- Cameron P.
+- item1
 {:.list--team}
 
 #### Team Hyena
 
-- Scottie
-- Aaron
-- Jacob
-- Corey
-- Taylor
+- item1
 {:.list--team}
 
 #### Team Meerkat
 
-- Tim
-- Cameron G.
-- Chris
-- Rachel ⭐ _mentor_
-- Emily ⭐ _mentor_
+- item1
 {:.list--team}
 
 ### How to work as one team

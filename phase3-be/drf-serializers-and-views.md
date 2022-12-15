@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: DRF Views and Serializers
 topic: Python
 category: phase3-be

@@ -1,7 +1,9 @@
+---
+layout: default
+---
+
 <article class="topic pb4">
-  <h1 class="f2 pa3">{{ title }}</h1>
-
-  <p>Posted on {{ date | date_to_string: "ordinal", "US" }}</p>
-
+  <h2 class="fs-5 my-5 topic-heading" id={{ page.title | slugify }}>{{ page.title }}</h2>
   <div>{{ content }}</div>
 </article>
+

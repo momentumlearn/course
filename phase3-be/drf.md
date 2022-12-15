@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Django REST Framework
 topic: Python
 category: phase3-be

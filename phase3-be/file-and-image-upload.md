@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: File & Image Upload
 topic: Python
 category: phase3-be

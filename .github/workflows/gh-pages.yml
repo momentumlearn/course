@@ -31,6 +31,6 @@ jobs:
           # You can pass in multiple channels to post to by providing a comma-delimited list of channel IDs.
           channel-id: 'C04EE41SMP1'
           # For posting a simple plain text message
-          slack-message: "✨ ${{github.triggering_actor}} just pushed an update to ${{github.repository}}!\n${{ github.event.head_commit.message }}\n{{ github.repositoryUrl}}"
+          slack-message: "✨ ${{github.triggering_actor}} just pushed an update to ${{github.repository}}!\n${{ github.event.head_commit.message }}\n{{github.repository}}"
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}

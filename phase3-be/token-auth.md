@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Token Authentication
 topic: Python
 category: phase3-be

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: topic
 title: Postgres Full-Text Search
 topic: Python
 category: phase3-be
