@@ -24,13 +24,6 @@ By now you should have provided your front end with **documented and functional 
 
 You should have djoser installed so that your log in and log out endpoints are working. Make sure you are sharing the Djoser information with your front end. You should include the authentication endpoints in your API documentation or project README.
 
-## 📖 Read | 📺 Watch | 🎧 Listen
-
-- 📺 [Search from the Ground Up](https://www.youtube.com/watch?v=is3R8d420D4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2) -> DjangoCon 2019 video explaining search in detail
-- 📖 [Basic and Full-Text Search with Django and Postgres](https://testdriven.io/blog/django-search/)
-- 📖 [Blog post with more on full-text search](https://www.netlandish.com/blog/2020/06/22/full-text-search-django-postgresql/)
-- 📖 [If you want A LOT more detail about full-text search in Postgres and Django, this blog piece has you covered](https://pganalyze.com/blog/full-text-search-django-postgres)
-
 ## Creating a properly hashed password
 
 In order to save a properly hashed password when you create a new user in the Django Admin, make sure you are using `UserAdmin` in `admin.py` so that you have that option in the admin interface. If you don't do this and save an unhashed password, you will run into authentication errors.
