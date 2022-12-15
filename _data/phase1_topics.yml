@@ -2,63 +2,64 @@
   phase: 1
   date: 2022-05-16
   url: phase1/welcome.md
-  references_url: references/git-and-cli.md
+  project_name: Git-It
+  code_demo_url:
 # - title: HTML
 #   phase: 1
 #   date: 2022-05-17
 #   url: phase1/html.md
-#   project_url: https://classroom.github.com/a/1Pmra0Z1
-#   references_url: references/html.md
+#   project_name: small_business
+    # code_demo_url:
 # - title: CSS Basics
 #   phase: 1
 #   date: 2022-05-18
 #   url: phase1/css-basics.md
-#   project_url: https://classroom.github.com/a/XNxyGiQf
-#   references_url: references/css-basics.md
+#   project_name: dog_adoption
+    # code_demo_url:
 # - title: CSS Layout
 #   phase: 1
 #   date: 2022-05-19
-#   project_url: ''
-#   references_url: references/css-layout.md
+#   project_name: dog_adoption
+    # code_demo_url:
 # - title: JavaScript Basics
 #   phase: 1
 #   date: 2022-05-23
 #   url: phase1/js-basics.md
-#   project_url: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
-#   references_url: references/js-basics.md
+#   project_name:
+    # code_demo_url:
 # - title: JavaScript Loops & Functions
 #   phase: 1
 #   date: 2022-05-24
 #   url: phase1/js-loops-functions.md
-#   project_url: #
-#   references_url: references/js-basics.md
+#   project_name:
+    # code_demo_url:
 # - title: JavaScript Arrays
 #   phase: 1
 #   date: 2022-05-25
 #   url: phase1/js-arrays.md
-#   project_url: #
-#   references_url: references/js-arrays.md
+#   project_name:
+    # code_demo_url:
 # - title: JS & the DOM
 #   phase: 1
 #   date: 2022-05-26
 #   url: phase1/js-dom.md
-#   project_url: #
-#   references_url: references/js-dom.md
+#   project_name:
+    # code_demo_url:
 # - title: JavaScript Objects
 #   phase: 1
 #   date: 2022-05-31
 #   url: phase1/js-objects.md
-#   project_url: https://classroom.github.com/a/WP_QaM2I
-#   references_url: references/js-objects.md
+#   project_name:#
+    # code_demo_url:
 # - title: AJAX & APIs
 #   phase: 1
 #   date: 2022-06-01
 #   url: phase1/js-ajax.md
-#   project_url:
-#   references_url: references/js-ajax-and-apis.md
+#   project_name:
+    # code_demo_url:
 # - title: JS and Forms
 #   phase: 1
 #   date: 2022-06-06
 #   url: phase1/js-forms.md
-#   project_url: #
-#   references_url: references/js-forms.md
+#   project_name:
+    # code_demo_url:
