@@ -23,7 +23,8 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
 title: Momentum Team X Course Site
 team_name: "Team X"
 url: 'https://momentumlearn.github.io'
-team_github_org: 'https://github.com/momentum-team-x'
+team_github_org: &github_org
+    'https://github.com/momentum-team-x'
 team_notes_repo: 'https://github.com/momentum-team-x/notes'
 zoom_link: 'https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09'
 zoom_coworking_link: 'https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09'
@@ -36,7 +37,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   "GitHub":
-    - "//github.com/momentum-team-x" # not a typo; // ensures an external link
+    - *github_org
 aux_links_new_tab: true
 footer_content: "&copy;2022 Momentum"
 logo: "/assets/images/momentum__mark-digital-royal.png"
