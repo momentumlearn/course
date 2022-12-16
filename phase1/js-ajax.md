@@ -53,5 +53,5 @@ Fetch requests use JavaScript **promises** to handle responses. Promises are a _
 
 ## 🦉 Notes
 
-- [Notes on AJAX](https://github.com/Momentum-Team-13/notes/blob/main/js-ajax.md)
+- [Notes on AJAX]({{ site.team_notes_repo }}/blob/main/js-ajax.md)
 - [Starter code for the assignment: using fetch with the Github API](https://github.com/Momentum-Team-13/github-api-portfolio-rlconley)

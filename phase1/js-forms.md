@@ -68,5 +68,5 @@ Please post your video and share the url for it using [this form](https://forms.
 
 ## 🦉 Code & Notes
 
-- [Web forms notes](https://github.com/Momentum-Team-13/notes/blob/main/js-forms.md)
+- [Web forms notes]({{ site.team_notes_repo }}/blob/main/js-forms.md)
 - [Form example](https://codepen.io/rlconley/pen/mdXjLdL)

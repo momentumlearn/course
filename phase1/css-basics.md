@@ -57,6 +57,6 @@ This assignment is due on **Monday, May 23**, at 9:00 am.
 
 ## 🦉 Code & Notes
 
-- [CSS Basics notes](https://github.com/Momentum-Team-12/notes/blob/main/css-basics.md)
+- [CSS Basics notes]({{ site.team_notes_repo }}/blob/main/css-basics.md)
 - [Example from class: bear site with CSS](https://github.com/Momentum-Team-12/example--html)
 

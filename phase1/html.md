@@ -60,6 +60,6 @@ You submit this assignment by pushing your code to your assignment repo on GitHu
 
 ## 🦉 Code & Notes
 
-- [HTML notes](https://github.com/Momentum-Team-13/notes/blob/main/html.md)
+- [HTML notes]({{ site.team_notes_repo }}/blob/main/html.md)
 - [HTML example]()
 

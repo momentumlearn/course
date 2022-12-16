@@ -56,6 +56,6 @@ This is due on **Tuesday**.
 
 ## 🦉 Code & Notes
 
-- [Team 13 Diagram of Django](https://github.com/Momentum-Team-13/notes/blob/main/django-map.md)
-- [Django shell notes](https://github.com/Momentum-Team-13/notes/blob/main/django-shell.md)
+- [Team 13 Diagram of Django]({{ site.team_notes_repo }}/blob/main/django-map.md)
+- [Django shell notes]({{ site.team_notes_repo }}/blob/main/django-shell.md)
 - [Django Uptact, with finished tasks](https://github.com/Momentum-Team-13/django-uptact-complete-features)

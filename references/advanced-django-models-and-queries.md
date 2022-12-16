@@ -33,7 +33,7 @@ layout: resource_list
 
 You can think of queries like questions you ask about your data, phrased in a way that the database can answer. Django has a built-in library (the Django ORM) that lets us do all the CRUD actions we need for our application, and more.
 
-- [Django Model Queries CheatSheet](https://github.com/Momentum-Team-13/notes/blob/main/django-queries.md)
+- [Django Model Queries CheatSheet]({{ site.team_notes_repo }}/blob/main/django-queries.md)
 - [Django Docs: Retrieving Objects](https://docs.djangoproject.com/en/4.1/topics/db/queries/#retrieving-objects)
 - [Django Docs: Field lookups](https://docs.djangoproject.com/en/4.1/topics/db/queries/#field-lookups)
 - [Django Docs: Lookups that span relationships](https://docs.djangoproject.com/en/4.1/topics/db/queries/#lookups-that-span-relationships)

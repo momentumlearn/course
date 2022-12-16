@@ -45,7 +45,7 @@ layout: resource_list
 - [Django Docs: Models](https://docs.djangoproject.com/en/4.0/topics/db/models/)
 - ⭐ [Django Docs: Model Field Reference](https://docs.djangoproject.com/en/4.0/ref/models/fields/)
 - [Django Docs Model Relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#relationships)
-- [What are Primary Keys & Foreign Keys?](https://github.com/Momentum-Team-13/notes/blob/main/pks_and_fks.md)
+- [What are Primary Keys & Foreign Keys?]({{ site.team_notes_repo }}/blob/main/pks_and_fks.md)
 - [Django Docs Making Queries (using the ORM)](https://docs.djangoproject.com/en/4.0/topics/db/queries/)
 - [Model field `null=True`](https://docs.djangoproject.com/en/4.0/ref/models/fields/#null) -> relevant for database storage
 - [Model field `blank=True`](https://docs.djangoproject.com/en/4.0/ref/models/fields/#blank) -> relevant for model object validation

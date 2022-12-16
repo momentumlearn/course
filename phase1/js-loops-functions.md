@@ -29,5 +29,5 @@ Español:
 
 ## 🦉 Notes
 
-- [Intro to JS Notes/Slides](https://github.com/Momentum-Team-13/notes/blob/main/intro-js.md)
+- [Intro to JS Notes/Slides]({{ site.team_notes_repo }}/blob/main/intro-js.md)
 - [Radius Example Code Pen](https://codepen.io/rlconley/pen/MWQEZwL)

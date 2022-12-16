@@ -33,7 +33,7 @@ nav_order: 7
 
 ## 🦉 Code, Notes & Video
 
-- [JavaScript Arrays notes](https://github.com/Momentum-Team-13/notes/blob/main/js-arrays.md)
+- [JavaScript Arrays notes]({{ site.team_notes_repo }}/blob/main/js-arrays.md)
 - [Array examples from notes codepen](https://codepen.io/rlconley/pen/eYVeyJx)
 - [Rebecca's video on for loops & while loops](https://vimeo.com/426872183)
 - [Rebecca's video on for of loops](https://vimeo.com/426872217)

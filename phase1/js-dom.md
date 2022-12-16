@@ -24,7 +24,7 @@ If you complete part 1, continue to part 2.
 part 2 [here](https://github.com/Momentum-Team-13/js-calculator-part-2).
 
 ##  🐈 Events 🐶
-- Use the [notes](https://github.com/Momentum-Team-13/notes/blob/main/js-dom.md)) and the [example from class](https://codepen.io/rlconley/pen/KKQZPmP) as a guide.
+- Use the [notes]({{ site.team_notes_repo }}/blob/main/js-dom.md)) and the [example from class](https://codepen.io/rlconley/pen/KKQZPmP) as a guide.
 
 
 ## 🔖 Resources to use as reference

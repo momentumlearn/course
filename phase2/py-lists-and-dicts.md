@@ -42,5 +42,5 @@ At _minimum_ you should be able to count words and print that count, even if the
 
 - [NBA Scores Example](https://replit.com/@rlconley/Python-Dictionaries#main.py)
 - [What does `if __name__ == "__main__"` do?](https://github.com/momentumlearn/student-resources/blob/main/articles/pymain.md)
-- [Notes: Lists, Dicts, and Tuples](https://github.com/Momentum-Team-13/notes/blob/main/py-lists-dicts-tuples.md)
+- [Notes: Lists, Dicts, and Tuples]({{ site.team_notes_repo }}/blob/main/py-lists-dicts-tuples.md)
 - [Intro to Python notebooks](https://github.com/Momentum-Team-13/python-notebooks) (**Notebooks 7 & 9 especially**)
