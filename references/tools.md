@@ -61,3 +61,7 @@ It's important that the application you use to take notes can properly format co
     - [BoostNote](https://boostnote.io/)
     - [Notion](https://www.notion.so/)
     - [Typora](https://typora.io/)
+
+### Pair Programming
+
+- [Tuple Pair Programming Template](https://tuple.app/pair-programming-guide/template)

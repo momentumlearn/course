@@ -1,5 +1,5 @@
 ---
-title: Deployment
+title: Django Deployment
 category: python
 parent: References
 layout: resource_list

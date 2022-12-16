@@ -17,7 +17,7 @@ published: true
 
 ## 🎯 Project: Freeshelf | Slideshow
 
-Today, you'll start on your first React app without a tutorial. This is **due next Monday**.
+Today, you'll start on your first React app without a tutorial. This is **due on {{ site.data.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
 
 [React Freeshelf]({{ site.data.projects.react_freeshelf.url }})
 
@@ -37,9 +37,9 @@ This should be challenging for a React beginner, but if you finish it early, ple
 ## 🔖 References
 
 - [JS for React][js-syntax]
-- [Managing State][react-state]
 - [React Concepts][react-concepts]
-- [All the Docs][react-basics]
+- [React Docs for Getting Started][react-basics]
+- [Managing State][react-state]
 - [Lightweight CSS Libraries][css-libraries]
 
 {% include reference_links.md %}

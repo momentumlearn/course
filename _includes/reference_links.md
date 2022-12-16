@@ -26,6 +26,8 @@
 <!-- phase 3 react -->
 [npm]: {% link references/js-for-react.md %}#npm-and-node
 [eslint]: {% link references/js-for-react.md %}#eslint
+[css-libraries]: {% link references/css-extra.md %}#css-libraries
+[ship-it]: {% link references/react.md %}#the-ship-it-mindset
 [js-syntax]: {% link references/js-for-react.md %}#js-syntax-for-react
 [react-tutorials]: {% link references/react.md %}#tutorials
 [react-basics]: {% link references/react.md %}#getting-started
@@ -34,4 +36,13 @@
 [react-ajax]: {% link references/react.md %}#ajax-in-react
 [react-use-effect]: {% link references/react.md %}#useeffect
 [react-conditional-render]: {% link references/react.md %}#conditional-rendering
-[css-libraries]: {% link references/css-extra.md %}#css-libraries
+[react-deploy]: {% link references/react.md %}#deployment
+[react-events]: {% link references/react.md %}#events
+[react-local-storage]: {% link references/react.md %}#local-storage-and-state
+[react-forms]: {% link references/react.md %}#forms
+[react-file-structure]: {% link references/react.md %}#file-structure
+[react-router]: {% link references/react.md %}#react-router
+[file-upload]: {% link references/react.md %}#file-upload
+[react-useref]: {% link references/react.md %}#useref
+[react-search]: {% link references/react.md %}#search
+[react-custom-hooks]: {% link references/react.md %}#custom-hooks

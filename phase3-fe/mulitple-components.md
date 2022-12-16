@@ -10,13 +10,12 @@ published: true
 
 ## Objectives
 
-- Getting data on the page with AJAX
 - Troubleshooting AJAX requests
 - Using multiple components and conditional rendering to create multiple views of your application
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
-Re-visit anything from yesterday's Read|Watch|Listen that you didn't get to, and:
+Re-visit anything from yesterday's reading/watching/listening that you didn't get to, and:
 
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page, so it includes examples with older React sytax using JavaScript classes for components. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
@@ -40,16 +39,11 @@ Goals in the order you should tackle them:
 
 If you read a goal and don't know how to do it, break it down into smaller goals. You may find that you need to do this a few times to break tasks down into smaller and smaller bits. This is more than OK: it's a smart way to work, and [all developers do it](https://www.developerway.com/posts/prison-break-solving-life-as-a-developer).
 
-**By Thursday you should have the first three goals done**, or at least the first two and the third in progress.
+**By the end of the week you should have the first three goals done**, or at least the first two and the third in progress.
 
-## 🔖 Resources
+## 🔖 References
 
-- [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
-- [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
-- [React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
-- [5 Ways to Implement Conditional Rendering in React](https://blog.bitsrc.io/5-ways-to-implement-conditional-rendering-in-react-64730323b434)
+- [Conditional Rendering in React][react-conditional-render]
+- [Managing State in React][react-state]
 
-## 👾 Code
-
-- [Example React Dog Adoption](https://github.com/Momentum-Team-15/example-react-dog-adoption)
-- [Example React Dog Adoption: AJAX branch](https://github.com/Momentum-Team-15/example-react-dog-adoption/tree/ajax)
+{% include reference_links.md %}

@@ -17,7 +17,7 @@ published: true
 
 ## 🎯 Project: React Trivia
 
-This project is due on {{ site.data.projects.react_trivia.due_date }}.
+This extended project is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}. You'll request data from the [Open Trivia API](https://opentdb.com/) to power your application.
 
 [React Trivia]({{ site.data.projects.react_trivia.url}})
 
@@ -40,6 +40,7 @@ This project is due on {{ site.data.projects.react_trivia.due_date }}.
 - [AJAX in React][react-ajax]
 - [The useEffect hook][react-use-effect]
 - [Events in React][react-events]
-- [Conditional Rendering Techniques][react-conditional-rendering]
+- [Conditional Rendering Techniques][react-conditional-render]
+- [React Concepts][react-concepts]
 
 {% include reference_links.md %}
