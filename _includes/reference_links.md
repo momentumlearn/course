@@ -1,9 +1,30 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- phase 1 front end -->
+[vs-code]: {% link references/learning.md %}#using-vs-code
+[help]: {% link references/learning.md %}#asking-question-+-getting-help
+[mindset]: {% link references/learning.md %}#mindset
+[prettier]: {% link references/tools.md %}#front-end-code-formatting
+
+[css-selectors-and-properties]: {% link references/css-basics.md %}#selectors-and-properties
+[css-start]: {% link references/css-basics.md %}#getting-started-with-css
+[css-box-model]: {% link references/css-basics.md %}#the-box-model
+[css-general]: {% link references/css-basics.md %}#css-general
+[ajax-fetch]: {% link references/js-ajax-and-apis.md %}#ajax-and-fetch
+[apis]: {% link references/js-ajax-and-apis.md %}#apis
+[js-truthy-falsy]: {% link references/js-basics.md %}#truthy-and-falsy
+[js-dates]: {% link references/js-misc.md %}#working-with-dates
+
+
 <!-- tools -->
 [markdown]: {% link references/tools.md %}#markdown
 [note-taking]: {% link references/tools.md %}#taking-notes-as-a-developer
 [time]: {% link references/tools.md %}#time-management
 [git-collab]: {% link references/git-and-cli.md %}#advanced-git
+[computer-setup]: {% link references/orientation.md %}#computer-setup
+[orientation]: {% link references/orientation.md %}#first-day-orientation
+
+
 
 <!-- phase 3 django -->
 [advanced-databases]: {% link references/py-django.md %}#advanced-databases

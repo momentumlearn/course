@@ -2,20 +2,20 @@
   phase: 1
   date: 2022-05-16
   url: phase1/welcome.md
-  project_name: Git-It
+  project_name: git-it
   code_demo_url:
 # - title: HTML
 #   phase: 1
 #   date: 2022-05-17
 #   url: phase1/html.md
 #   project_name: small_business
-    # code_demo_url:
+#   code_demo: example-html
 # - title: CSS Basics
 #   phase: 1
 #   date: 2022-05-18
 #   url: phase1/css-basics.md
 #   project_name: dog_adoption
-    # code_demo_url:
+#   code_demo:
 # - title: CSS Layout
 #   phase: 1
 #   date: 2022-05-19
@@ -32,7 +32,7 @@
 #   date: 2022-05-24
 #   url: phase1/js-loops-functions.md
 #   project_name:
-    # code_demo_url:
+    # code_demo:  radius_example_codepen
 # - title: JavaScript Arrays
 #   phase: 1
 #   date: 2022-05-25

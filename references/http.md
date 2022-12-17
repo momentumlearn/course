@@ -11,6 +11,7 @@ layout: resource_list
 - [An overview of HTTP - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [HTTP Messages - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
 - [How HTTP works and why it's important - Free Code Camp](https://www.freecodecamp.org/news/how-the-internet-works/)
+- [Response Codes With Cats](https://http.cat/)
 
 ## CORS
 

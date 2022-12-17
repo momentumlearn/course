@@ -2,12 +2,12 @@
 layout: post
 title: Getting Data Using APIs with JS and Fetch
 tags: phase-1 javascript js fetch api json ajax
-date: 2022-06-01
 parent: Phase 1 Front End
 nav_order: 10
+published: true
 ---
 
-## Today's topics
+## Objectives
 
 - Today's first goal is to complete the customer database.
 - The next task is to prepare to start working with fetch and AJAX.
@@ -18,40 +18,16 @@ nav_order: 10
 
 ## 🎯 Project: Choose Your Own Adventure
 
-Your assignment is to do _one_ of the following assignments. Whichever you choose, it will be due on Monday morning.
+Your assignment is to do _one_ of the following assignments. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date }}.
 
-- 🌶 [AJAX GitHub profile](https://classroom.github.com/a/TwznLlWw)
-- 🌶🌶 [AJAX Currency Converter](https://classroom.github.com/a/HFS8gTsM)
+- 🌶 [AJAX GitHub profile]({{ site.data.projects.ajax_github_profile.url }})
+- 🌶🌶 [AJAX Currency Converter]({{ site.data.projects.ajax_currency_converter.url }})
 
-## 🔖 Resources
+## 🔖 References
 
-### HTTP
-
-- [MDN: HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-- [Response Codes With Cats](https://http.cat/)
-
-### APIs
-
-- [Illustrated Dev: Meet the Robowaiter APIs Serving Us Data](https://maggieappleton.com/api)
-- [Insomnia client](https://support.insomnia.rest/article/11-getting-started)
-- [GitHub API Docs](https://developer.github.com/v3/)
-
-### AJAX, Fetch, & JSON
-- [MDN AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-- [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [MDN fetch() method](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
-- [CSS-Tricks article on using Fetch](https://css-tricks.com/using-fetch/)
-- [MDN Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-- [Code Academy Lesson on Fetch](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/js-requests-with-fetch-api/exercises/js-requests-with-fetch-api-intro)
-- [AJAX explained by analogy](https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/)
-
-### ⭐ EXTRA/TMI
-
-Fetch requests use JavaScript **promises** to handle responses. Promises are a _much_ bigger topic than we will get into right now, but if you want to know more about what a promise is and how to use it beyond the context of AJAX requests, you can start with the MDN documentation about it.
-
-- [MDN JS Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-
-## 🦉 Notes
-
+- [HTTP]({% link references/http.md %})
+- [APIs][apis]
+- [AJAX, Fetch, and JSON][ajax-fetch]
 - [Notes on AJAX]({{ site.team_notes_repo }}/blob/main/js-ajax.md)
-- [Starter code for the assignment: using fetch with the Github API](https://github.com/Momentum-Team-13/github-api-portfolio-rlconley)
+
+{% include reference_links.md %}

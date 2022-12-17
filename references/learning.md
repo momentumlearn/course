@@ -5,14 +5,24 @@ parent: References
 layout: resource_list
 ---
 
+## Mindset
+
 - [So You Want to Be a Wizard](https://jvns.ca/wizard-zine.pdf)
 - [Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek](https://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek/)
 
 ## 💁 Asking Questions + Getting Help
 
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
-- [Sasha Laundy, Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+- [Sasha Laundy, Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) This talk from PyCon 2015 is super useful and relevant. Worth 30 minutes of your time.
 - [Our Student Guidelines: Getting Help](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md#getting-help)
+
+## Using VS Code
+
+Writing code requires a special editor -- you can't use Google Docs or MS Word. VS Code, the code editor we use at Momentum, is widely used in the industry.
+
+- [Getting Started with VS Code, video](https://code.visualstudio.com/docs/introvideos/basics)
+- [How to use VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
+- [VS Code LiveShare Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 ## Debugging Techniques
 

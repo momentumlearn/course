@@ -1,9 +1,9 @@
 ---
 layout: post
 title: HTML
-date: 2022-05-17
 parent: Phase 1 Front End
 nav_order: 2
+published: true
 ---
 
 ## Objectives
@@ -17,9 +17,9 @@ We are using a tool called GitHub classroom during this course. For each assignm
 
 Each day we will share an assignment invitation here on this page. Clicking on the link will take you to a page where you will see a message that looks something like this:
 
-![](/assets/img/gh-classroom-screenshot.jpg)
+![]({{ 'assets/images/gh-classroom-screenshot.png' | relative_url }}){:.img--post}
 
-You'll see your github username as part of the repo name instead of `rlconley`. When you accept the assignment, GitHub will create your homework repo and, when it is done, give you a link to it (from now on, this is the link you will use to see your project on GitHub, NOT the assignment invitation link). Go to that newly created repo and click on the green button to "Clone or download" your repo. This will copy the repo's url to your clipboard. If you aren't sure how to do this, there is a link to a video demo below.
+You'll see your github username as part of the repo name instead of `your-github-username`. When you accept the assignment, GitHub will create your homework repo and, when it is done, give you a link to it (from now on, this is the link you will use to see your project on GitHub, NOT the assignment invitation link). Go to that newly created repo and click on the green button to "Clone or download" your repo. This will copy the repo's url to your clipboard. If you aren't sure how to do this, there is a link to a video demo below.
 
 In your terminal, navigate to the folder where you intend to keep your projects. When you are in the directory you want to be in (check with `pwd`!), type `git clone url-for-your-repo`, but in place of `url-for-your-repo`, paste in the url you copied from GitHub. You'll see output indicating the repo is being cloned. When it's done, make sure you `cd` into it and type `git status` to see that you are in a git repo. Open this repo in VS Code (an easy way to do this is to type `code .` when you are in the assignment repo) and do your work here. Add and commit in the terminal as you work.
 
@@ -31,35 +31,18 @@ See [Getting Started with VS Code](https://code.visualstudio.com/docs/introvideo
 
 ## 🎯 Project: Build a small business website
 
-You submit this assignment by pushing your code to your assignment repo on GitHub. Please get as far as you can before class on Wednesday.
+You submit this assignment by pushing your code to your assignment repo on GitHub. Please get as far as you can before our next meeting.
 
-- [Link to the assignment invitation](https://classroom.github.com/a/1Pmra0Z1)
+- [Link to the assignment invitation]({{ site.data.projects.html_small_business.url }})
 - [Quick video showing how to clone your assignment repo](https://www.loom.com/share/c7871fa5f80f4cbda3dbcce36db68dab)
 
-## 🔖 Resources
+## 🔖 References
 
-### Accessibility Chrome Extensions
-
-- [Beeline Reader](https://chrome.google.com/webstore/detail/beeline-reader/ifjafammaookpiajfbedmacfldaiamgg?hl=en)
-- [Speech to Text](https://chrome.google.com/webstore/detail/speech-to-text-voice-reco/kcgloaobfaiejoiahlhnfaolfcifjjho?hl=en)
-- [Text to Speech](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
-- [Dyslexia- Friendly VS Code Theme](https://marketplace.visualstudio.com/items?itemName=httpsterio.henna)
-
-### HTML
-
-- [MDN Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-- [MDN HTML Resources Page](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-### Tools & Technical Help
-
-- [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s) This talk from PyCon 2015 is super useful and relevant. Worth 30 minutes of your time.
-- [Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics)
-- [How to use VS Code LiveShare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
-- [VS Code LiveShare Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-
-## 🦉 Code & Notes
-
+- [Accessibility (a11y)]({% link references/a11y.md %})
+- [HTML]({% link references/html.md %})
+- [Asking Questions and Getting Help][help]
+- [Using Visual Studio Code][vs-code]
 - [HTML notes]({{ site.team_notes_repo }}/blob/main/html.md)
-- [HTML example]()
+- [Git and Command Line]({% link references/git-and-cli.md %})
 
+{% include reference_links.md %}

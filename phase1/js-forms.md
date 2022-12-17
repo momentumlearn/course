@@ -2,9 +2,9 @@
 layout: post
 title: JavaScript and Forms
 tags: phase-1 javascript js forms validation
-date: 2022-06-06
 parent: Phase 1 Front End
 nav_order: 11
+published: true
 ---
 
 
@@ -46,27 +46,13 @@ Please post your video and share the url for it using [this form](https://forms.
 
 ## 🎯 Project
 
-- We will work on this project in pairs in class in addition to it being homework.
+- We will work on this project together during our team meeting, in addition to the other time you'll spend working on the project.
 - Everyone needs to turn in code.
 - [Assignment Invitation Link](https://classroom.github.com/a/9UqyoVCu)
 
-## 🔖 Resources
+## 🔖 References
 
-- [MDN Client-Side Form Validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-- [MDN HTML5 Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
-- [MDN Forms Guide](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-- [MDN HTML form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-- [MDN HTMLFormElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/elements)
-- [MDN HTML input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
-- [MDN HTML label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-- [MDN submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
-- [MDN Event.preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
-
-### ⭐️ EXTRA/TMI
-
-- [Form Fields in Eloquent JavaScript, Chapter 18](https://eloquentjavascript.net/18_http.html#h_H222GOgM6T)
-
-## 🦉 Code & Notes
-
+- [Forms and Client-Side Validation](({% link references/forms.md %}))
 - [Web forms notes]({{ site.team_notes_repo }}/blob/main/js-forms.md)
-- [Form example](https://codepen.io/rlconley/pen/mdXjLdL)
+
+{% include reference_links.md %}
