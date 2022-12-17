@@ -100,7 +100,7 @@ Remember to **read the README carefully**.
         - What permissions will need to be in place?
 - **WRITE YOUR PLANS DOWN.** You can use any tools you like as long as the content you create is shareable. Some tools that might be useful: Trello, Google Docs, Excalidraw, Miro. Make sure everyone on your team has access to this documentation.
 - You are encouraged to work with other front or back end devs on other teams to share ideas, solutions, and resources.
-- Come to your front- or back-end class meeting prepared to give progress reports and ask for help on what you're working on.
+- Come to your front- or back-end meeting prepared to give progress reports and ask for help on what you're working on.
 
 We haven't yet covered everything you'll need to be able to do this project, so that will be our task this week and next.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Phase 3 Advanced Back End
-description: Topics in Advanced Back End Development
+title: Phase 3 Back End
+description: Advanced Topics in Back End Development
 has_children: true
 has_toc: true
 toc_ol: true
