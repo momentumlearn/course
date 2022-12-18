@@ -5,7 +5,6 @@
 @import 'daily_post';
 @import 'module';
 @import 'schedule';
-@import 'staffer';
 
 // Momentum
 @import '../color_schemes/mmntm';
@@ -258,14 +257,17 @@ ul#markdown-toc > li::before {
 
 .code-demo-label {
   @extend .label-mmntm-blue;
+  border-radius: $border-radius
 }
 
 .project-label {
   @extend .label-mmntm-lt-blue;
+  border-radius: $border-radius
 }
 
 .post-label {
   @extend .label-mmntm-green;
+  border-radius: $border-radius;
 }
 
 .home-posts-headline {

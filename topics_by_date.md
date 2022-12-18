@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topics By Date
+title: Topics by Date
 description: Listing of course topics by date.
 permalink: index.html
 has_toc: false

@@ -1,14 +1,11 @@
 ---
 layout: home
-title: News
+title: Posts
 permalink: daily-update
 nav_order: 2
 ---
 
-## News & Announcements
-
-_See also [**list of topics by date**]({% link calendar.md %})._
-
+## Posts & Announcements
 
 {: .pt-3 .home-posts-headline }
 

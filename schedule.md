@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Schedule
+title: Schedule
 description: The weekly event schedule.
 permalink: schedule
 nav_order: 8

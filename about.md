@@ -22,12 +22,12 @@ All meetings happen on Zoom. When your team isn't meeting with your instructor, 
 
 ## How to use this site
 
-- **Today**: Daily updates and announcements
-- **Topics by Date**: A list of topics by date
-    - **CODE DEMO** is a link to the demo code from your instructor
-    - **PROJECT** is a link to the project for that day
-    - **POST** is a link to any information that your instructor has added to the day's material
-- **Phases > Topics**: Curriculum topics with information about projects and references
+- **Posts & News**: This page is for occasional posts by your instructors to supplement the planned topics for each day. See also the [**list of topics by date**]({% link topics_by_date.md %}) for information about the material you'll be working on.
+- **Topics by Date**: A listing by date of the topic you will be working on with your instructor.
+: **CODE DEMO**{: .label .code-demo-label} is a link to the demo code from your instructor
+: **PROJECT**{: .label .project-label} is a link to the project for that day
+: **POST**{: .label .post-label} is a link to any additional information that your instructor has added to supplement the day's material. There may not be one every day.
+- **Phases > Topics**: Detailed context, project, and reference information about a curriculum topic.
 - **References**: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic
 - **Weekly Schedule**: A visual of meeting and project times throughout the week
 - **Help & Info**: this page
