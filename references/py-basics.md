@@ -5,6 +5,8 @@ parent: References
 layout: resource_list
 ---
 
+{% include summary_toc.html %}
+
 ### Set Up Your Python Dev Environment
 
 - 🛠 [Follow these instructions to install Python and other tools you'll need](https://momentumlearn.notion.site/Setting-up-your-Python-Development-Environment-91c5006b5a504844ad4e6abf5d209928)

@@ -3,7 +3,7 @@ layout: topic
 title: DRF Views and Serializers
 topic: Python
 category: phase3-be
-parent: Phase 3 Advanced Back End
+parent: Phase 3 Back End
 nav_order: 6
 published: true
 ---

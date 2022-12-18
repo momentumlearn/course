@@ -3,7 +3,7 @@ layout: topic
 title: Queries and Using the Shell
 topic: Python
 category: phase3-be
-parent: Phase 3 Advanced Back End
+parent: Phase 3 Back End
 nav_order: 3
 published: true
 ---

@@ -3,7 +3,7 @@ layout: topic
 title: Token Authentication
 topic: Python
 category: phase3-be
-parent: Phase 3 Advanced Back End
+parent: Phase 3 Back End
 nav_order: 7
 published: true
 ---

@@ -5,15 +5,7 @@ parent: References
 layout: resource_list
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
+{% include summary_toc.html %}
 
 - [CSS-Tricks: What Is the DOM?](https://css-tricks.com/dom/)
 

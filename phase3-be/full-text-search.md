@@ -3,7 +3,7 @@ layout: topic
 title: Postgres Full-Text Search
 topic: Python
 category: phase3-be
-parent: Phase 3 Advanced Back End
+parent: Phase 3 Back End
 nav_order: 11
 published: true
 ---

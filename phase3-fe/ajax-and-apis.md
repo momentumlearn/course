@@ -3,7 +3,7 @@ layout: topic
 title: AJAX & APIs
 topic: JavaScript
 category: phase3-fe
-parent: Phase 3 Advanced Front End
+parent: Phase 3 Front End
 nav_order: 4
 published: true
 ---

@@ -141,7 +141,7 @@ layout: table_wrappers
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
           <h2 class="text-delta">Table of contents</h2>
-          {% if page.toc_ol %}
+          {% if page.toc_ol != false %}
             <ol>
           {% else %}
             <ul>
@@ -152,8 +152,8 @@ layout: table_wrappers
                 <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
               </li>
             {% endfor %}
-          {% if page.toc_ol %}
-            <ol>
+          {% if page.toc_ol != false %}
+            </ol>
           {% else %}
             </ul>
           {% endif %}

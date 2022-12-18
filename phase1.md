@@ -8,5 +8,3 @@ nav_order: 3
 ---
 
 # Intro to Front End Development
-
-

@@ -5,14 +5,7 @@ description: >-
   Information about how to make the most of what's here
 ---
 
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
----
+{% include summary_toc.html %}
 
 ## Zoom
 
