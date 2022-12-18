@@ -23,9 +23,9 @@ You won't be able to do all of it at once. *Start with the html*, adding in clas
 
 ## 🎯 Weekend Project: Build a Dog Adoption website
 
-[Link to the assignment invitation]({{ site.data.projects.css-dog-adoption.url }})
+[Link to the project invitation]({{ site.data.projects.css-dog-adoption.url }})
 
-This assignment is due on {{ site.data.projects.css-dog-adoption.due_date }}.
+This project is due on {{ site.data.projects.css-dog-adoption.due_date }}.
 
 ## 🔖 References
 

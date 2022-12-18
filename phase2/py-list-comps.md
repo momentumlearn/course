@@ -9,9 +9,6 @@ parent: Phase 2 Back End
 nav_order: 4
 ---
 
-
-Today, we'll continue applying what we've learned about Python in an assignment to work on in class and outside of class.
-
 ## Today's topics
 
 - List Comprehensions

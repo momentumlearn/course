@@ -20,7 +20,7 @@ Complete [the official Django REST Framework tutorial](https://www.django-rest-f
 
 Will Vincent uses the exact same code and follows the same sequence, but his approach is much more beginner-friendly. He also uses `pipenv` for the virtual environment like we do. Will's tutorial stops short of the last step, [step 6](https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/), in the official tutorial. If you finish step 5 and want to keep going, you can [continue with the official tutorial](https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/), but this is not required.
 
-You should complete the tutorial **by tomorrow**. [This assignment link](https://classroom.github.com/a/PCSYIWU6) generates an empty repo that you can use to push your completed tutorial to.
+You should complete the tutorial **by tomorrow**. [This project link](https://classroom.github.com/a/PCSYIWU6) generates an empty repo that you can use to push your completed tutorial to.
 
 ⛔ **Do not copy & paste the code**. You'll get a lot more out of the tutorial if you type it out yourself.
 

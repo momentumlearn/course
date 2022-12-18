@@ -17,7 +17,7 @@ published: true
 
 ## 🎯 Project: JavaScript Calculator
 
-This assignment is due {{ js_calculator_1.due_date }}.
+This project is due {{ js_calculator_1.due_date }}.
 
 If you complete part 1, continue to part 2.
 **Continue in the same repository as part 1, nothing additional to clone.** You can read the instructions for

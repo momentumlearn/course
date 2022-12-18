@@ -73,7 +73,7 @@ Your instructors will assess the work you’ve done and determine whether you wi
 
 The criteria for passing a phase are:
 
-- Your project is complete (it meets most, if not all, criteria in the original assignment).
+- Your project is complete (it meets most, if not all, criteria in the original project README).
 - You can explain how your code works. Instructors may ask you about any portion of it and you can give a reasonable explanation.
 
 You might be asked to repeat the phase if:

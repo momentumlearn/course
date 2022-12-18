@@ -36,7 +36,7 @@ Git-it will tell you to install Github Desktop. You do not have to install this,
 
 The first time you run Git-it, you may get a notice that the application is from an unknown developer. If you do, right-click on the application and then choose "Open." You will be presented with a dialog -- choose to run the application.
 
-Once the application is running, read the instructions and complete the tasks in Git-it. Completion of the assignment is the link to the pull request that you will make in the second-to-last Git-It task.
+Once the application is running, read the instructions and complete the tasks in Git-it. Completion of the project is the link to the pull request that you will make in the second-to-last Git-It task.
 
 Your link should look similar to this, with a different number at the end: `https://github.com/jlord/patchwork/pull/37062`
 

@@ -27,20 +27,20 @@ Choose the one that sounds more fun or interesting to you.
 #### Social ECards
 
 - [Project description](https://github.com/momentum-projects/group--social-cards/blob/main/README.md)
-- [Social ECards assignment invitation]({{ site.projects.social_e_cards.url}})
+- [Social ECards project invitation]({{ site.projects.social_e_cards.url}})
 
 #### QuestionBox
 
 - [Project description](https://github.com/momentum-projects/group--questionbox/blob/main/README.md)
-- [QuestionBox assignment invitation]({{ site.projects.questionbox.url}})
+- [QuestionBox project invitation]({{ site.projects.questionbox.url}})
 
-#### How to accept the assignment and create the repos on GitHub
+#### How to accept the project and create the repos on GitHub
 
 The back end will work in their own repo and the front end will work in their own repo, so for the same project each team will have _two_ repos.
 
-**One back-end dev** should accept the assignment invitation and name the team something like "Team Yeti Back-end" (whatever your team name is!). Then the other back-end dev(s) should accept the assignment and choose the right team. All back-end folks on the team clone that same repo.
+**One back-end dev** should accept the project invitation and name the team something like "Team Yeti Back-end" (whatever your team name is!). Then the other back-end dev(s) should accept the project and choose the right team. All back-end folks on the team clone that same repo.
 
-**One front-end dev** should accept the assignment invitation and name the team something like "Team Yeti Front-end" (whatever your team name is!). Then the other front-end dev(s) should accept the assignment and choose the right team. All front-end folks on the team clone that same repo.
+**One front-end dev** should accept the project invitation and name the team something like "Team Yeti Front-end" (whatever your team name is!). Then the other front-end dev(s) should accept the project and choose the right team. All front-end folks on the team clone that same repo.
 
 Tomorrow you will learn how to work with others in a shared repo. Today you should not need to commit or push any code since your main goal is **planning**.
 
@@ -76,7 +76,7 @@ When you do start work in this repo, you should delete the README at the root so
 
 Even though you have two separate codebases and separate applications, you're working together to ship a single product on time. You can make product decisions together even though you will implement features separately.
 
-We'll check in on the projects in class; front and back end teams will continue to meet separately.
+We'll check in on the projects during the team meeting; front and back end teams will continue to meet separately.
 
 Remember to **read the README carefully**.
 
@@ -120,6 +120,6 @@ We haven't yet covered everything you'll need to be able to do this project, so 
 
 ### Git Workflow
 
-Working with other developers in a shared codebase means that the workflow you've been using so far will have to change. **We will cover this in class together on Tuesday.** If you want to get a head start, here are the slides for reference.
+Working with other developers in a shared codebase means that the workflow you've been using so far will have to change. **We will cover this at our meeting on Tuesday.** If you want to get a head start, here are the slides for reference.
 
 #### [Git Collaboration slide deck](https://slides.com/amy_nc/git-collaboration)

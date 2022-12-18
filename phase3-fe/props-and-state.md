@@ -21,7 +21,7 @@ Today, you'll start on your first React app without a tutorial. This is **due on
 
 [React Freeshelf]({{ site.data.projects.react_freeshelf.url }})
 
-This should be challenging for a React beginner, but if you finish it early, please do this additional assignment:
+This should be challenging for a React beginner, but if you finish it early, please do this additional project:
 
 [React Slideshow]({{ site.data.projects.react_slideshow.url }})
 

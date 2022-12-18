@@ -18,7 +18,7 @@ published: true
 
 ## 🎯 Project: Choose Your Own Adventure
 
-Your assignment is to do _one_ of the following assignments. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date }}.
+Your project is to do _one_ of the following projects. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date }}.
 
 - 🌶 [AJAX GitHub profile]({{ site.data.projects.ajax_github_profile.url }})
 - 🌶🌶 [AJAX Currency Converter]({{ site.data.projects.ajax_currency_converter.url }})

@@ -13,15 +13,15 @@ published: true
 
 ## Intro to GitHub Classroom
 
-We are using a tool called GitHub classroom during this course. For each assignment, GitHub classroom will generate a repository (repo) on GitHub for each person to work in.
+We are using a tool called GitHub classroom during this course. For each project, GitHub classroom will generate a repository (repo) on GitHub for each person to work in.
 
-Each day we will share an assignment invitation here on this page. Clicking on the link will take you to a page where you will see a message that looks something like this:
+Each day we will share an project invitation here on this page. Clicking on the link will take you to a page where you will see a message that looks something like this:
 
 ![]({{ 'assets/images/gh-classroom-screenshot.png' | relative_url }}){:.img--post}
 
-You'll see your github username as part of the repo name instead of `your-github-username`. When you accept the assignment, GitHub will create your homework repo and, when it is done, give you a link to it (from now on, this is the link you will use to see your project on GitHub, NOT the assignment invitation link). Go to that newly created repo and click on the green button to "Clone or download" your repo. This will copy the repo's url to your clipboard. If you aren't sure how to do this, there is a link to a video demo below.
+You'll see your github username as part of the repo name instead of `your-github-username`. When you accept the project, GitHub will create your homework repo and, when it is done, give you a link to it (from now on, this is the link you will use to see your project on GitHub, NOT the project invitation link). Go to that newly created repo and click on the green button to "Clone or download" your repo. This will copy the repo's url to your clipboard. If you aren't sure how to do this, there is a link to a video demo below.
 
-In your terminal, navigate to the folder where you intend to keep your projects. When you are in the directory you want to be in (check with `pwd`!), type `git clone url-for-your-repo`, but in place of `url-for-your-repo`, paste in the url you copied from GitHub. You'll see output indicating the repo is being cloned. When it's done, make sure you `cd` into it and type `git status` to see that you are in a git repo. Open this repo in VS Code (an easy way to do this is to type `code .` when you are in the assignment repo) and do your work here. Add and commit in the terminal as you work.
+In your terminal, navigate to the folder where you intend to keep your projects. When you are in the directory you want to be in (check with `pwd`!), type `git clone url-for-your-repo`, but in place of `url-for-your-repo`, paste in the url you copied from GitHub. You'll see output indicating the repo is being cloned. When it's done, make sure you `cd` into it and type `git status` to see that you are in a git repo. Open this repo in VS Code (an easy way to do this is to type `code .` when you are in the project repo) and do your work here. Add and commit in the terminal as you work.
 
 ## Using VS Code
 
@@ -31,10 +31,10 @@ See [Getting Started with VS Code](https://code.visualstudio.com/docs/introvideo
 
 ## 🎯 Project: Build a small business website
 
-You submit this assignment by pushing your code to your assignment repo on GitHub. Please get as far as you can before our next meeting.
+You submit this project by pushing your code to your project repo on GitHub. Please get as far as you can before our next meeting.
 
-- [Link to the assignment invitation]({{ site.data.projects.html_small_business.url }})
-- [Quick video showing how to clone your assignment repo](https://www.loom.com/share/c7871fa5f80f4cbda3dbcce36db68dab)
+- [Link to the project invitation]({{ site.data.projects.html_small_business.url }})
+- [Quick video showing how to clone your project repo](https://www.loom.com/share/c7871fa5f80f4cbda3dbcce36db68dab)
 
 ## 🔖 References
 

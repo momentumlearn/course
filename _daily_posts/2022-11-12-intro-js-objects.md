@@ -11,7 +11,7 @@ __This is an example of content that should be included in daily posts separate 
 
 
 - Start HTML and get at least one customer rendered on the page
-- Preview the next topic, **Asynchronous JavaScript and the Fetch API**, by completing this section in [Thinkific](https://momentumlearn.thinkific.com/courses/take/phase-one/texts/31121293-learning-objectives). You will need to make an account if you have not yet. When questions or observations come up, you can use the "DISCUSSION" button to record them or to respond to classmates.
+- Preview the next topic, **Asynchronous JavaScript and the Fetch API**, by completing this section in [Thinkific](https://momentumlearn.thinkific.com/courses/take/phase-one/texts/31121293-learning-objectives). You will need to make an account if you have not yet. When questions or observations come up, you can use the "DISCUSSION" button to record them or to respond to teammates.
 
 ### Examples
 

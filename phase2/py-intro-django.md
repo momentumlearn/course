@@ -25,9 +25,9 @@ When you start your first dev job, you will see a lot of code all at once and wi
 
 In this project you will do just that: modify existing code to augment its functionality. This is **due Wednesday morning**.
 
-Each person should accept the assignment invitation and work in their own repo, but **please work on this assignment with your assigned buddies.** Buddy groups are welcome to combine and unite forces. The point is: nobody should struggle alone.
+Each person should accept the project invitation and work in their own repo, but **please work on this project with your assigned buddies.** Buddy groups are welcome to combine and unite forces. The point is: nobody should struggle alone.
 
-For each part of the assignment, talk over with your buddies how you each think you can accomplish the tasks. **Be willing to try things your buddy suggests even if you aren't sure it's right!** You will learn a lot by seeing what happens (and what doesn't) when you make changes.
+For each part of the project, talk over with your buddies how you each think you can accomplish the tasks. **Be willing to try things your buddy suggests even if you aren't sure it's right!** You will learn a lot by seeing what happens (and what doesn't) when you make changes.
 
 Talking it through will help clarify your understanding of how Django works, and having a buddy around will be helpful when you inevitably run into errors.
 

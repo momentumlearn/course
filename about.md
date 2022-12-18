@@ -24,7 +24,7 @@ All meetings happen on Zoom. When your team isn't meeting with your instructor, 
 
 ## GitHub
 
-- [Team GitHub organization]({{ site.team_github_org }}) -- all your assignment repos are located here
+- [Team GitHub organization]({{ site.team_github_org }}) -- all your project repos are located here
 - [Notes]({{ site.team_notes_repo }})
 
 ## How to use this site

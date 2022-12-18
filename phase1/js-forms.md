@@ -39,7 +39,7 @@ Please post your video and share the url for it using [this form](https://forms.
 ## ✅ Requirements for passing the phase
 
 1. The code you chose to illustrate runs without errors.
-2. The code you illustrate meets the (non-spicy) requirements of the assignment.
+2. The code you illustrate meets the (non-spicy) requirements of the project.
 3. You can explain how your code works.
 4. Your presentation includes JavaScript.
 5. You turn in a video.
@@ -48,7 +48,7 @@ Please post your video and share the url for it using [this form](https://forms.
 
 - We will work on this project together during our team meeting, in addition to the other time you'll spend working on the project.
 - Everyone needs to turn in code.
-- [Assignment Invitation Link](https://classroom.github.com/a/9UqyoVCu)
+- [Project Invitation Link](https://classroom.github.com/a/9UqyoVCu)
 
 ## 🔖 References
 
