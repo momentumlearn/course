@@ -31,7 +31,7 @@ layout: resource_list
 
 ### Database Normalization
 
-This is very much optional right now but important to learn about at some point if you're going to be working with data in your job.
+This is very much optional at this early stage of your learning but important to learn about at some point if you're going to be working with data in your job.
 
 - [An Introduction to Database Normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
 - [Video on the first normal form](https://youtu.be/K7vzLrGCV50)

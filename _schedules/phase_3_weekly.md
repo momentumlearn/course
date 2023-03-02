@@ -1,6 +1,6 @@
 ---
 headline: 'Phase 3 Weekly Schedule'
-nav_order: 1
+nav_order: 2
 timeline:
   - '9:00 AM'
   - '9:30 AM'

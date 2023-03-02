@@ -11,7 +11,7 @@ layout: resource_list
 
 - [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/).
 - [Kent C. Dodds, The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [The Official React tutorial](https://reactjs.org/tutorial/tutorial.html) - classic, official. Uses class-based components, which are a bit older, but still widely used
+- [The official (beta) React tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe) - classic, official.
 - [Dave Ceddia, React Tutorial](https://daveceddia.com/react-getting-started-tutorial/)
 
 ## Getting Started
@@ -34,7 +34,7 @@ layout: resource_list
 
 ## Props and State
 
-- [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/)
+- [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/) ⚠️ _This post references the older class syntax of React. The basic concepts are the same, though._
 - [Using State vs Props in React - video](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 - [Props & State Re-explained](https://learnreact.design/posts/props-state-reexplained)
 
@@ -93,12 +93,21 @@ layout: resource_list
 - [More custom hooks](https://github.com/streamich/react-use)
 - [Official React docs on custom hooks](https://reactjs.org/docs/hooks-custom.html)
 
+### Custom hooks for local storage
+
+- [Persisting React State in localstorage](https://www.joshwcomeau.com/react/persisting-react-state-in-localstorage/) _This blog post explains why you'd use a custom hook for this purpose as well as how you'd write it from scratch._
+- [useLocalStorageState](https://github.com/astoilkov/use-local-storage-state) _This npm package gives you a custom hook to do what the above article walks you through doing._
+
 ## Forms
 
-- [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React but be aware that the code examples use the older class syntax instead of function components with hooks._
-- [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
+_See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
+
+- [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
 - [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
+- [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
 - [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
+- [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks._
+- [Data Binding in React (Using different form fields and keeping values in sync with state)](https://www.joshwcomeau.com/react/data-binding/)
 
 ## File Upload
 
@@ -142,6 +151,15 @@ For starters, here are two good takes on how to organize your files.
 
 ## React Router
 
+### Basics
+
+- [React Router Overview: What It Does and Why We Need It](https://reactrouter.com/en/main/start/overview#feature-overview)
+- [React Router Official Tutorial](https://reactrouter.com/en/main/start/tutorial)
+- [How to Set Up React Router and Route to Other Components](https://www.freecodecamp.org/news/how-to-use-react-router-version-6/)
+- [Learn React Router v6 in 45 minutes](https://youtu.be/Ul3y1LXxzdU)
+
+### General
+
 - [React Router docs](https://reactrouter.com/en/main)
 - [React Router Main Concepts](https://reactrouter.com/en/main/start/concepts) _This is pretty in-depth, and you may not need it, but it's helpful if you want more explanation._
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/) _really comprehensive, really good_
@@ -158,3 +176,5 @@ You could also perform a search without making an AJAX request, by filtering dat
 
 - [Create a search bar from scratch](https://blog.logrocket.com/create-search-bar-react-from-scratch/)
 - [How to Build a Search Bar in React](https://www.emgoto.com/react-search-bar/)
+
+{% include reference_links.md %}

@@ -1,10 +1,12 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- markdownlint-disable link-image-reference-definitions first-line-heading -->
 
 <!-- phase 1 front end -->
 [vs-code]: {% link references/learning.md %}#using-vs-code
 [help]: {% link references/learning.md %}#asking-question-+-getting-help
 [mindset]: {% link references/learning.md %}#mindset
-[prettier]: {% link references/tools.md %}#front-end-code-formatting
+[prettier]: {% link references/tools.md %}#general-front-end-code-formatting
+[html-forms]: {% link references/forms.md %}#html-forms
 
 [css-selectors-and-properties]: {% link references/css-basics.md %}#selectors-and-properties
 [css-start]: {% link references/css-basics.md %}#getting-started-with-css
@@ -14,7 +16,7 @@
 [apis]: {% link references/js-ajax-and-apis.md %}#apis
 [js-truthy-falsy]: {% link references/js-basics.md %}#truthy-and-falsy
 [js-dates]: {% link references/js-misc.md %}#working-with-dates
-
+[js-forms]: {% link references/js-forms.md %}
 
 <!-- tools -->
 [markdown]: {% link references/tools.md %}#markdown
@@ -23,8 +25,6 @@
 [git-collab]: {% link references/git-and-cli.md %}#advanced-git
 [computer-setup]: {% link references/orientation.md %}#computer-setup
 [orientation]: {% link references/orientation.md %}#first-day-orientation
-
-
 
 <!-- phase 3 django -->
 [advanced-databases]: {% link references/py-django.md %}#advanced-databases
@@ -47,6 +47,7 @@
 <!-- phase 3 react -->
 [npm]: {% link references/js-for-react.md %}#npm-and-node
 [eslint]: {% link references/js-for-react.md %}#eslint
+[linting-and-formatting]: {% link references/js-for-react.md %}#linting-and-formatting
 [css-libraries]: {% link references/css-extra.md %}#css-libraries
 [ship-it]: {% link references/react.md %}#the-ship-it-mindset
 [js-syntax]: {% link references/js-for-react.md %}#js-syntax-for-react
@@ -67,3 +68,17 @@
 [react-useref]: {% link references/react.md %}#useref
 [react-search]: {% link references/react.md %}#search
 [react-custom-hooks]: {% link references/react.md %}#custom-hooks
+
+<!-- phase 4 Agile Development -->
+[agile-101]: {% link references/agile-development.md %}#intro-to-agile-development
+[agile-practices]: {% link references/agile-development.md %}#agile-practices
+[time-management]: {% link references/agile-development.md %}#time-management
+[team-charter]: {% link references/agile-development.md %}#team-charter
+[idea-generation]: {% link references/agile-development.md %}#idea-generation
+[agile-development]: {% link references/agile-development.md %}#agile-development
+[software-business]:{% link references/agile-development.md %}#the-business-of-making-software
+[slides]: {% link references/agile-development.md %}#slides
+[user-stories]: {% link references/agile-development.md %}#user-stories
+[user-personas]: {% link references/agile-development.md %}#user-personas
+[user-flows]: {% link references/agile-development.md %}#user-flows
+[tasks]:{% link references/agile-development.md %}#going-from-user-stories-to-tasks

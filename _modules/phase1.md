@@ -1,13 +1,15 @@
 ---
-title: Phase 1 Front End
+title: Phase 1
 phase: 1
+published: false
 ---
 
-{% assign topics = site.data.phase1_topics | reverse %}
-{% assign projects =  site.data.projects %}
+{% assign topics = site.data.phase1.topics | reverse | where: "published", "true" %}
+{% assign projects = site.data.phase1.projects %}
+{% assign demos = site.data.phase1.demos %}
 
 {% for topic in topics %}
 {{ topic.date | date: "%B %-d" }}
 : {% if topic.url %} [{{ topic.title }}]({% link {{topic.url}} %}){% else %} {{topic.title}} {% endif %}
-: [Project]({{ projects[topic.project_name].url }}){:target="_blank"}{:rel="noopener noreferrer"}{: .label .project-label } {% if topic.code_demo_url %} [Code Demo]({{ topic.code_demo_url }}){:target="_blank"}{:rel="noopener noreferrer"}{: .label .code-demo-label } {% endif %}
+: [Project]({{ projects[topic.project_name].url }}){:target="_blank"}{:rel="noopener noreferrer"}{: .label .project-label } {% if topic.code_demo %} [Demo]({{ demos[topic.code_demo].url }}){:target="_blank"}{:rel="noopener noreferrer"}{: .label .code-demo-label } {% endif %}
 {% endfor %}

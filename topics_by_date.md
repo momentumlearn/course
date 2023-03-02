@@ -11,7 +11,7 @@ nav_order: 1
 
 _Topics are listed by date, newest to oldest. New entries are added daily._
 
-{% assign modules = site.modules | sort: "phase" | reverse %}
+{% assign modules = site.modules | sort: "phase" | reverse | where: "published", "true"%}
 
 {% for module in modules %}
 {{ module }}

@@ -7,5 +7,5 @@ has_toc: true
 toc_ol: true
 nav_order: 6
 ---
-
-# Advanced Front End with React
+<!-- markdownlint-disable single-h1 -->
+# Advanced Front End: React

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 🐍 Welcome to Python! 🐍
-date: 2022-06-13
+title: Welcome to Python!
 topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 1
+published: false
 ---
 
 Welcome to Phase 2, where we'll be learning about back end development. Topics we'll cover include:

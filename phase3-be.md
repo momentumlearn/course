@@ -7,5 +7,5 @@ has_toc: true
 toc_ol: true
 nav_order: 5
 ---
-
-# Advanced Back End with Django and Django REST Framework
+<!-- markdownlint-disable single-h1 -->
+# Advanced Back End: Django and REST APIs

@@ -2,27 +2,27 @@
 layout: post
 title: Django CRUD
 tags: phase-2 python list-comprehensions dictionaries
-date: 2022-07-01
 topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 7
+published: false
 ---
 
 
+## 🎯 Learning Objectives
 
-For this weekend project, keep working with your code buddies from this week. You are welcome to combine groups and join forces if you want to!
 
-## 🎯 Project: Django Music
+## 🏗️ Project: Django Music
 
 Build a CRUD application from scratch. This app should let you catalog your music collection.
+
 - Create
 - Read
 - Update
 - Delete
 
 This is due on **Tuesday**.
-
 
 [Django Music](https://classroom.github.com/a/W3eUzsYy)
 
@@ -42,7 +42,6 @@ This is due on **Tuesday**.
 - [Foreign Key to built-in User from DjangoGirls](https://tutorial.djangogirls.org/en/django_models/#creating-a-blog-post-model)
 - [Extending the User model (preferred, used in Uptact)](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 - [Uploading Images](https://djangocentral.com/uploading-images-with-django/)
-
 
 ### Forms
 

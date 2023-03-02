@@ -2,11 +2,11 @@
 layout: post
 title: Getting Used to Working in Django
 tags: phase-2 python list-comprehensions dictionaries
-date: 2022-06-27
 topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 6
+published: false
 ---
 
 

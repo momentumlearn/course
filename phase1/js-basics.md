@@ -4,7 +4,7 @@ title: JavaScript Basics
 tags: phase-1 javascript js programming-basics
 parent: Phase 1 Front End
 nav_order: 5
-published: true
+published: false
 ---
 
 ## Objectives

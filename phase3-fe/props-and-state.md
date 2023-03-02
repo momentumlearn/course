@@ -5,17 +5,17 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 3
-published: true
+published: false
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Review first impressions of React
-- Build a small React app together in class
+- Build a small React app together
 - Components and JSX
 - Handling data in React with props and state
 
-## 🎯 Project: Freeshelf | Slideshow
+## 🏗️ Project: Freeshelf | Slideshow
 
 Today, you'll start on your first React app without a tutorial. This is **due on {{ site.data.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
 
@@ -30,7 +30,8 @@ This should be challenging for a React beginner, but if you finish it early, ple
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
 - 📖 [What is React? A Visual Introduction for Beginners](https://learnreact.design/posts/what-is-react)
-- 📖 [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
+- 📖 [Thinking in React](https://beta.reactjs.org/learn/thinking-in-react)
+- 📖 [React Mental Model: Cutting Holes in HTML](https://learnreact.design/posts/react-mental-model-cut-holes-in-html-template)
 - 📖 [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
 - 🎧 [Podcast: Advice for New Devs](https://syntax.fm/show/382/advice-for-new-devs) If you haven't listened to this yet, don't miss it.
 

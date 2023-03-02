@@ -255,6 +255,11 @@ ul#markdown-toc > li::before {
   background-color: $brand-ruby-red;
 }
 
+.tag-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .code-demo-label {
   @extend .label-mmntm-blue;
   border-radius: $border-radius

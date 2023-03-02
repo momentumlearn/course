@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 1
-published: true
+published: false
 post_today: true
 ---
 
@@ -21,7 +21,7 @@ post_today: true
 _These are required readings, videos, and/or podcasts. Read, watch, or listen, and **take notes**._
 
 - ⭐ 📖 [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) -> This is essential for context.
-- 📖 [State of JS 2021 Survey Results](https://2021.stateofjs.com/en-US/) -> This is actually data collected in 2022. Skim for an overview of current trends in the JS ecosystem.
+- 📖 [State of JS 2022 Survey Results](https://2022.stateofjs.com/en-US/) Skim for an overview of current trends in the JS ecosystem.
 - 📺 [ES6 tutorial for beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - 📺 [Modern JavaScript for Django Developers](https://2021.djangocon.us/talks/modern-javascript-for-django-developers/)
 - 📖 [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/) - this is the blog post version of the above talk. **Read the first two parts only**:
@@ -32,7 +32,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, a
 
 1. Review the code in [JavaScript You Need to Know for React]({{ site.team_notes_repo}}/blob/main/js-for-react.md). You'll need to be able to read and use the JS in these notes to work with React effectively. **It would be valuable practice to type out the examples and run them yourself.**
 
-2. Complete **at least two exercises** from this list on [Exercism.io JavaScript Track](https://exercism.org/tracks/javascript). You're encouraged to work together!
+2. Complete **at least three exercises** from this list on [Exercism.io JavaScript Track](https://exercism.org/tracks/javascript). You're encouraged to work together!
 
 - Isogram
 - Scrabble Score
@@ -50,7 +50,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, a
 - When you run the tests, only focus on ONE test at a time. Write code that will get that test -- and ONLY that test -- passing. Then, when you have one passing test, look at the next failing test. Again, just that one! Write code to pass this test. This may require you to _rewrite_ the code you just wrote to pass the first test. That's ok. Writing code like this is called Test-Driven Development (TDD) and it's a useful skill to practice. **One test at a time, try to keep previously tests passing, read the test results each time _carefully_, and _be patient_.**
 - If you get through two, keep going! More practice is better.
 
-Please come to the front-end team meeting with either/both of the following:
+**Please come to the front-end team meeting with either/both of the following**:
 
 - a solution you got working
 - a question about something that blocked your progress

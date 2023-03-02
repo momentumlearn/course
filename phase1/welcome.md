@@ -5,6 +5,7 @@ topic: The Command Line and Git
 category: phase1
 parent: Phase 1 Front End
 nav_order: 1
+published: false
 ---
 
 ## Today's topics

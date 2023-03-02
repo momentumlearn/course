@@ -2,11 +2,11 @@
 layout: post
 title: Python Conditionals and Loops
 tags: phase-2 python list-comprehensions dictionaries
-date: 2022-06-14
 topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 2
+published: false
 ---
 
 ## Objectives

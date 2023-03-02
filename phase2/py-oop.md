@@ -2,11 +2,11 @@
 layout: post
 title: Object-Oriented Programming in Python
 tags: phase-2 python list-comprehensions dictionaries
-date: 2022-06-22
 topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 5
+published: false
 ---
 
 Today, we'll take a brief survey of classes and objects in Python to get us ready to take on Django.

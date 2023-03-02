@@ -17,17 +17,17 @@
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
 baseurl: '/course' # the subpath of your site, e.g. /blog
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache", ".github"]
 
 # ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
 title: Momentum Team X Course Site
 team_name: "Team X"
-url: 'https://momentumlearn.github.io'
+url: 'https://momentum-team-X.github.io'
 team_github_org: &github_org
-    'https://github.com/momentum-team-x'
-team_notes_repo: 'https://github.com/momentum-team-x/notes'
-zoom_link: 'https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09'
-zoom_coworking_link: 'https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09'
+    'https://github.com/momentum-team-X'
+team_notes_repo: 'https://github.com/momentum-team-X/notes'
+zoom_link: 'https://us02web.zoom.us/j/81070622688'
+zoom_coworking_link: 'https://us02web.zoom.us/j/705824048'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
@@ -36,12 +36,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  "GitHub":
+  "Team X on GitHub":
     - *github_org
 aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top ⌃"
-footer_content: "&copy;2022 Momentum"
+footer_content: "&copy;2023 Momentum"
 logo: "/assets/images/momentum__mark-digital-royal.png"
 
 

@@ -7,7 +7,7 @@ layout: resource_list
 
 {% include summary_toc.html %}
 
-## Front End Code Formatting
+## General Front End Code Formatting
 
 - [Prettier Code Formatter](https://prettier.io/) This is information about the extenstion that you can (and should) install in VS Code.
 - [How to format code with Prettier](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)
@@ -15,7 +15,7 @@ layout: resource_list
 ## Back End Tools
 
 - [🐛 Debugging Python For Fun & Profit (video)](https://www.youtube.com/watch?v=rMCZgYfEJJI)
-- [Code Style Checks in Python](https://julien.danjou.info/code-style-checks-in-python/) _We installed `flake8` on the first day of this phase. This post gives you some detail about what it's for and why you need it._
+- [Code Style Checks in Python](https://julien.danjou.info/code-style-checks-in-python/) _This post gives you some detail about what flake8 for and why you need it._
 - [DB Browser for SQLite](https://sqlitebrowser.org/) - a GUI for your sqlite database
 
 ## Collaboration
@@ -50,10 +50,11 @@ The `.md` extension indicates a Markdown file. The pages for this site and every
 ### Tools for Taking Notes
 
 It's important that the application you use to take notes can properly format code blocks. Here are some options.
-    - [VS Code](https://helgeklein.com/blog/2020/10/vs-code-as-markdown-note-taking-app/) (with this option you could create a simple git repo with markdown files)
-    - [BoostNote](https://boostnote.io/)
-    - [Notion](https://www.notion.so/)
-    - [Typora](https://typora.io/)
+
+- [VS Code](https://helgeklein.com/blog/2020/10/vs-code-as-markdown-note-taking-app/) (with this option you could create a simple git repo with markdown files)
+- [BoostNote](https://boostnote.io/)
+- [Notion](https://www.notion.so/)
+- [Typora](https://typora.io/)
 
 ### Pair Programming
 

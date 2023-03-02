@@ -2,11 +2,11 @@
 layout: post
 title: Python Lists and Dictionaries
 tags: phase-2 python list-comprehensions dictionaries
-date: 2022-06-15
 topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 3
+published: false
 ---
 
 ## Objectives

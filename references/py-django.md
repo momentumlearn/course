@@ -45,6 +45,7 @@ layout: resource_list
 - [🍕 Tips for using Django's Many-to-Many Field](https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/)
 - [What is an Entity Relationship Diagram?](https://www.lucidchart.com/pages/er-diagrams) - _The first video is especially good._
 - [Less Obvious Things to Do with the Django ORM](https://markusholtermann.eu/2019/03/less-obvious-things-to-do-with-djangos-orm/)
+- [Django Migrations: How To Add Non-Nullable Fields Without A Default Value](https://ctrlzblog.com/django-migrations-how-to-add-non-nullable-fields-without-compromising-your-database/)
 
 ### Authentication, Registration, and the User Model in Django
 
@@ -94,3 +95,8 @@ layout: resource_list
 - [The Forms API](https://docs.djangoproject.com/en/4.0/ref/forms/api/) -> Details on form object attribute and methods (such as `as_p()`)
 - [Django's CSRF protection](https://docs.djangoproject.com/en/4.0/ref/csrf/)
     - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
+### Custom Management Commands
+
+- [How to create custom django-admin commands (django docs)](https://docs.djangoproject.com/en/4.1/howto/custom-management-commands/)
+- [How to Create Custom Django Management Commands - Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/tutorial/2018/08/27/how-to-create-custom-django-management-commands.html)
