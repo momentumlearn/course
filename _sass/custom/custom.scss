@@ -291,3 +291,10 @@ ul#markdown-toc > li::before {
 strong {
   color: $grey-dk-300;
 }
+
+.callout {
+  width: 100%;
+  border-radius: 3px;
+  background-color: lighten($brand-violet, 40%);
+  padding: 16px 16px 16px 12px;
+}

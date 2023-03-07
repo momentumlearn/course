@@ -29,6 +29,11 @@ team_notes_repo: 'https://github.com/momentum-team-X/notes'
 zoom_link: 'https://us02web.zoom.us/j/81070622688'
 zoom_coworking_link: 'https://us02web.zoom.us/j/705824048'
 
+# content settings
+latest_mac_os_name: 'Ventura'
+latest_mac_os_num: '13'
+latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: mmntm
