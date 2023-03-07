@@ -23,8 +23,7 @@
 [note-taking]: {% link references/tools.md %}#taking-notes-as-a-developer
 [time]: {% link references/tools.md %}#time-management
 [git-collab]: {% link references/git-and-cli.md %}#advanced-git
-[computer-setup]: {% link references/orientation.md %}#computer-setup
-[orientation]: {% link references/orientation.md %}#first-day-orientation
+
 
 <!-- phase 3 django -->
 [advanced-databases]: {% link references/py-django.md %}#advanced-databases
