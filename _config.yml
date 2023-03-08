@@ -31,6 +31,7 @@ zoom_link: 'https://us02web.zoom.us/j/81070622688'
 zoom_coworking_link: 'https://us02web.zoom.us/j/705824048'
 
 # content settings
+# these are used in references/computer-setup-apple-silicon.md and references/computer-setup-intel.md
 latest_mac_os_name: 'Ventura'
 latest_mac_os_num: '13'
 latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
