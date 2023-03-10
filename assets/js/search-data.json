@@ -1,0 +1,1500 @@
+{"0": {
+    "doc": "Accessibility",
+    "title": "Accessibility Chrome Extensions",
+    "content": ". | Beeline Reader | Speech to Text | Text to Speech | Dyslexia- Friendly VS Code Theme | . ",
+    "url": "/course/references/a11y/#accessibility-chrome-extensions",
+    
+    "relUrl": "/references/a11y/#accessibility-chrome-extensions"
+  },"1": {
+    "doc": "Accessibility",
+    "title": "Learn about Accessibility",
+    "content": ". | Google web.dev Learn Accessibility | MDN Accessibility | MDN CSS and JS Accessibility Best Practices | . ",
+    "url": "/course/references/a11y/#learn-about-accessibility",
+    
+    "relUrl": "/references/a11y/#learn-about-accessibility"
+  },"2": {
+    "doc": "Accessibility",
+    "title": "Improving the Accessibility of Your Website",
+    "content": ". | Random Color Picker to Choose Colors with the Right Amount of Contrast | Quick Accessibility Tests (YT playlist) | Lighthouse Developer Tools | . ",
+    "url": "/course/references/a11y/#improving-the-accessibility-of-your-website",
+    
+    "relUrl": "/references/a11y/#improving-the-accessibility-of-your-website"
+  },"3": {
+    "doc": "Accessibility",
+    "title": "Accessibility",
+    "content": " ",
+    "url": "/course/references/a11y/",
+    
+    "relUrl": "/references/a11y/"
+  },"4": {
+    "doc": "Help & Info",
+    "title": "Zoom",
+    "content": "All meetings happen on Zoom. When your team isn’t meeting with your instructor, you’re welcome to use the room to work together. Link to Zoom Team Meeting . Link to Zoom Co-Working . ",
+    "url": "/course/about/#zoom",
+    
+    "relUrl": "/about/#zoom"
+  },"5": {
+    "doc": "Help & Info",
+    "title": "GitHub",
+    "content": ". | Team GitHub organization – all your project repos are located here | Notes | . ",
+    "url": "/course/about/#github",
+    
+    "relUrl": "/about/#github"
+  },"6": {
+    "doc": "Help & Info",
+    "title": "How to use this site",
+    "content": ". | Posts: This section is for occasional posts by your instructors to supplement the planned topics for each day. See also the list of topics by date for information about the material you’ll be working on. | Topics by Date: A listing by date of the topic you will be working on with your instructor. CODE DEMOis a link to the demo code from your instructor. PROJECTis a link to the project you’re working on. POSTis a link to any supplemental info from your instructor. There may not be one every day. | Phases &gt; Topics: Detailed context, project, and reference information about a curriculum topic. These are added daily. | References: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic. | Weekly Schedule: A visual of meeting and project times throughout the week. | Help &amp; Info: This page. | Search Bar: (header) Search site content by keyword. | . ",
+    "url": "/course/about/#how-to-use-this-site",
+    
+    "relUrl": "/about/#how-to-use-this-site"
+  },"7": {
+    "doc": "Help & Info",
+    "title": "General References",
+    "content": ". | Foundations Course on Thinkific | Momentum Community Guidelines | Asking technical questions: Your Brain’s API | Julia Evans, How To Ask Good Questions | Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck | Tutorial on Using Slack | Momentum Community Slack Guidelines | . ",
+    "url": "/course/about/#general-references",
+    
+    "relUrl": "/about/#general-references"
+  },"8": {
+    "doc": "Help & Info",
+    "title": "Course Topic Outline",
+    "content": "Topics include, but are not limited to, the following. Your instructors may adjust the curriculum to include or exclude additional topics as necessary. Phase 1: Front-end development . | Version control with Git and using GitHub | HTML &amp; CSS | Responsive web design | Programming basics and introduction to JavaScript | Using JavaScript in the browser | Forms on the web | Debugging in JavaScript | JavaScript objects | AJAX and using APIs | HTTP requests and methods | . Phase 2: Back-end development . | Python basics | Lists and tuples; dictionaries; functions | List comprehensions | Objects, classes and inheritance | Working with files | Django basics | Django models and migrations | Django views | Templates &amp; context variables | Users and authorization | Forms in Django | Using JavaScript &amp; AJAX with Django | Debugging in Django | . Phase 3: Advanced Back-end . | Using a Postgres database | Deploying a Django app | Models, relationships &amp; data design | Advanced queries | Class-based views and overrides | REST API design | Django REST Framework | Views in DRF | Serializing data | Authentication | Filtering &amp; search | Permissions | Pagination | File Uploads | . Phase 3: Advanced Front-end . | JS review | Modern JS landscape &amp; frameworks | What is React and why do we use it | React fundamentals | React hooks | How React handles data | Using AJAX with React | Composing an application with React components | Conditional rendering in React | Deployment | Forms in React (review of web forms) | Authentication in a React app | Routing in React | Using local storage | Debugging React applications | Uploading files | . Phase 4: Agile Development . You’ll work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You’ll be working independently under the close supervision of your instructor to meet tight deadlines. To complete the program, you will present your project to members of the tech community. ",
+    "url": "/course/about/#course-topic-outline",
+    
+    "relUrl": "/about/#course-topic-outline"
+  },"9": {
+    "doc": "Help & Info",
+    "title": "Help & Info",
+    "content": "Contents . | Zoom | GitHub | How to use this site | General References | Course Topic Outline . | Phase 1: Front-end development | Phase 2: Back-end development | Phase 3: Advanced Back-end | Phase 3: Advanced Front-end | Phase 4: Agile Development | . | . ",
+    "url": "/course/about/",
+    
+    "relUrl": "/about/"
+  },"10": {
+    "doc": "Django Advanced Models & Queries",
+    "title": "Django Advanced Models & Queries",
+    "content": "Contents . | Models and Relationships | Managers and QuerySets | Queries and Lookups | QuerySets and Managers | Constraints | Aggregate and Annotate | Using the Django Shell | SQL | . Models and Relationships . | List of all Django Reference content related to Models | Don’t forget! Django Best Practices: Custom User Model | Django Docs: Saving Model Instances | Less Obvious Things to Do with the Django ORM | 🍕 Tips for using Django’s Many-to-Many Field | Django Docs: Related Objects Reference | . Managers and QuerySets . | Django Docs: Model Managers | Django Docs: Related Objects Reference | Django Docs: QuerySets | . Queries and Lookups . You can think of queries like questions you ask about your data, phrased in a way that the database can answer. Django has a built-in library (the Django ORM) that lets us do all the CRUD actions we need for our application, and more. | Django Model Queries CheatSheet | Django Docs: Retrieving Objects | Django Docs: Field lookups | Django Docs: Lookups that span relationships | Django Docs: Lookups with Related objects | Pretty Printed Video: How Model Queries Work in Django | Pretty Printed Video: Querying One-to-Many Relationships in Django | . QuerySets and Managers . | Django Docs: QuerySets | Django Docs: Model Managers | Django Docs: Complex lookups with Q | Django Docs: Database expressions with F objects | . Constraints . | Django Docs: model constraints -&gt; this gives you the general format/syntax | Django Docs: UniqueConstraint | . Aggregate and Annotate . | PrettyPrinted Video: Basics of Django Aggregations | Pretty Printed Video: How to Use Annotate in Django | Django docs: Aggregate &amp; Annotate | Django docs: Combining Aggregations with other QuerySets | Django Docs: Aggregation Functions (e.g., Avg, Count, Min, Max) | . Using the Django Shell . This is about Django’s interactive REPL, not pipenv shell, and also not zsh. | Django Docs: Using the Django Shell | How to use django-extensions shell_plus | . SQL . Links in this section are really more information than you need right now, but it’s relevant and interesting. Things included here are good to know but ok to save for later. | What is SQL? | SQL Basics: Learn X in Y minutes -&gt; this is a helpful reference for SQL syntax when you run into it. You do not need to write SQL for Django because the Django ORM does it for you, and it does it well. The Django docs often illustrate queries made by the ORM using SQL syntax, however, and you will find it helpful in your job to know the basics. | . ",
+    "url": "/course/references/advanced-django-models-and-queries/",
+    
+    "relUrl": "/references/advanced-django-models-and-queries/"
+  },"11": {
+    "doc": "Agile Development",
+    "title": "Team Charter",
+    "content": ". | Create a Team Agreement | A good overview of what a team charter is and how to create one | Here are three team charter template examples, all from Miro. | . ",
+    "url": "/course/references/agile-development/#team-charter",
+    
+    "relUrl": "/references/agile-development/#team-charter"
+  },"12": {
+    "doc": "Agile Development",
+    "title": "Time Management ⌛",
+    "content": ". | 💫 Common Time Management Problems &amp; Solutions | The Pomodoro Technique for Time Management &amp; Productivity . | Zapier’s list of Pomodoro Apps | . | Time Blocking | . Productivity Timers ⏲️ . | Cuckoo The one we use in our meetings | Pomofocus Pomodoro Timer | Marinara Pomodoro Timer Chrome Extension | . ",
+    "url": "/course/references/agile-development/#time-management-",
+    
+    "relUrl": "/references/agile-development/#time-management-"
+  },"13": {
+    "doc": "Agile Development",
+    "title": "Idea Generation",
+    "content": "Inspiration on the Technical Side 👾 . | awesome repos Repos labeled “awesome-something” are community-sourced collections of links to resources, projects, and generally relevant stuff on a specific topic. A few interesting ones are listed here, but there are lots of others to browse. | awesome-react | awesome-javascript | awesome-django | awesome-python | public apis | data is plural | JavaScript game engines . | awesome-jsgames Examples of games made with JS | . | GitHub Collections The link above for JS game engines is one GitHub collection, but there are many others you can browse through for ideas. | project ideas and resources | . Exploring Ideas with Mind Mapping 💡 . | Short video series on mind mapping techniques | MindMeister: online Mind Mapping Tool | MindNode: mind mapping app available in the App store | Miro: collaborative tool for mindmapping, planning, wireframing | Whimsical: a little more streamlined than Miro; collaborative tool for mindmapping, planning, wireframing | . ",
+    "url": "/course/references/agile-development/#idea-generation",
+    
+    "relUrl": "/references/agile-development/#idea-generation"
+  },"14": {
+    "doc": "Agile Development",
+    "title": "Intro to Agile Development",
+    "content": ". | Jamie Howard, Huddle on Agile, Aug 2022 | Beginner’s Guide to Scrum and Agile | 12 principles from the Agile Manifesto | The Power in Agile, a talk by Sarah Mei A critical look at the power dynamics implicit in Agile methods. | Agile 101: Glossary | . ",
+    "url": "/course/references/agile-development/#intro-to-agile-development",
+    
+    "relUrl": "/references/agile-development/#intro-to-agile-development"
+  },"15": {
+    "doc": "Agile Development",
+    "title": "Agile Practices 🛹",
+    "content": ". | Forming, Storming, Norming and Performing for Agile teams | Making sense of MVP Video that explores the skateboard diagram in detail | Acceptance Criteria | What is a definition of done and why do you need it? Written by Jamie Howard, a Durham, NC tech leader who has hired our grads. | . ",
+    "url": "/course/references/agile-development/#agile-practices-",
+    
+    "relUrl": "/references/agile-development/#agile-practices-"
+  },"16": {
+    "doc": "Agile Development",
+    "title": "User Personas",
+    "content": ". | Getting the Most Out of Personas | Creating Personas | Four persona examples for UI/UX design | . ",
+    "url": "/course/references/agile-development/#user-personas",
+    
+    "relUrl": "/references/agile-development/#user-personas"
+  },"17": {
+    "doc": "Agile Development",
+    "title": "User Stories",
+    "content": ". | Atlassian: Writing User Stories | FreeCodeCamp Video: How and Why to Write User Stories | Goat User Stories on Twitter | How to Write the Best User Stories with Story Cards | Story Mapping | . ",
+    "url": "/course/references/agile-development/#user-stories",
+    
+    "relUrl": "/references/agile-development/#user-stories"
+  },"18": {
+    "doc": "Agile Development",
+    "title": "User Flows",
+    "content": ". | User Flows | . | Designing User Flows | . | A shorthand for designing UI flows | Creating Perfect User Flows for Smooth UX | . ",
+    "url": "/course/references/agile-development/#user-flows",
+    
+    "relUrl": "/references/agile-development/#user-flows"
+  },"19": {
+    "doc": "Agile Development",
+    "title": "Going from User Stories to Tasks",
+    "content": ". | Breaking down user stories into tasks | Composing Meaningful Tasks | . ",
+    "url": "/course/references/agile-development/#going-from-user-stories-to-tasks",
+    
+    "relUrl": "/references/agile-development/#going-from-user-stories-to-tasks"
+  },"20": {
+    "doc": "Agile Development",
+    "title": "The Business of Making Software",
+    "content": ". | How we use “ship small” to rapidly build new features at GitHub | Command Line Heroes Podcast Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software from the last 40-ish years or so. Season 1 has an episode about the origin of Agile Development. The whole series is really well done. If you enjoy understanding history, you will like this podcast! | What is Code? by Paul Ford Read this for the stakeholder perspective – really long but extremely well written and produced. | Stack Overflow Podcast: Building a web app | CodeNewbie Podcast: What does it mean to be a part of the software development life cycle | . ",
+    "url": "/course/references/agile-development/#the-business-of-making-software",
+    
+    "relUrl": "/references/agile-development/#the-business-of-making-software"
+  },"21": {
+    "doc": "Agile Development",
+    "title": "📽️ Slides",
+    "content": ". | Phase Overview slides | Agile slides | Idea slides | Product Roadmap Slides | Personas &amp; User Stories Slides | Trello &amp; Tasks Slides | . ",
+    "url": "/course/references/agile-development/#%EF%B8%8F-slides",
+    
+    "relUrl": "/references/agile-development/#️-slides"
+  },"22": {
+    "doc": "Agile Development",
+    "title": "Agile Development",
+    "content": "Contents . | Team Charter | Time Management ⌛ . | Productivity Timers ⏲️ | . | Idea Generation . | Inspiration on the Technical Side 👾 | Exploring Ideas with Mind Mapping 💡 | . | Intro to Agile Development | Agile Practices 🛹 | User Personas | User Stories | User Flows | Going from User Stories to Tasks | The Business of Making Software | 📽️ Slides | . ",
+    "url": "/course/references/agile-development/",
+    
+    "relUrl": "/references/agile-development/"
+  },"23": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Set up your Development Environment",
+    "content": "Contents . | Set up your Development Environment . | These instructions assume that you are setting up a Mac that has an Apple Silicon (M1 or M2) chip running macOS 13+ (Ventura or later). | . | ⚠️ Check to confirm which chip your computer uses . | You have an Apple Silicon chip if… | . | Update your operating system | Security Settings | iTerm2: The Terminal | Homebrew . | Installing Homebrew | Run the following to complete the installation | Check to see if installation was successful | . | Homebrew for installing developer tools and utilities | XCode Command Line Tools | Git . | Configuring Git . | Configure defaults | . | Configure files to exclude from Git | . | GitHub . | 👉 Go to the GitHub homepage and sign up for an account. | Set up a secure way to store your credentials | . | Customizing the Command Line . | Install the necessary files for zsh-autosuggestions | Add Git information in your prompt, command auto-complete, and command syntax highlighting | Install a font that works well for code | . | Node.js | Install Desktop Apps . | Visual Studio Code for writing code | Google Chrome for a web browser | Rectangle for managing the windows on your screen | Slack for communicating with teammates | Zoom for video meetings | . | 🎉 Done! | . Getting your tools right is an important step in becoming a developer. This guide will walk you through every step you need to take to be ready to write code at Momentum. There are multiple options for setting up your computer. This guide is opinionated about those options. Our guidelines are: . | When possible, use what you already have instead of installing something new. | Use the most common development tool unless it is deficient. | Less setup is better. | . These instructions assume that you are setting up a Mac that has an Apple Silicon (M1 or M2) chip running macOS 13+ (Ventura or later). Please read carefully and do all the steps. ",
+    "url": "/course/references/computer-setup-apple-silicon/#set-up-your-development-environment",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#set-up-your-development-environment"
+  },"24": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "⚠️ Check to confirm which chip your computer uses",
+    "content": "Go to the Apple Menu in the upper left corner of your screen.  &gt; About This Mac . You have an Apple Silicon chip if… . ✅  You see Chip listed below the name of your computer model (it may not be exactly the same chip as you see in the screenshot below, but it should still be listed as Chip). 🚫  If you see Processor or Intel listed, your computer is not using an Apple Silicon chip. Use the setup instructions for an Intel Macbook instead. ",
+    "url": "/course/references/computer-setup-apple-silicon/#%EF%B8%8Fcheck-to-confirm-which-chip-your-computer-uses",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#️check-to-confirm-which-chip-your-computer-uses"
+  },"25": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Update your operating system",
+    "content": "Before we start installing the necessary tools, you should update your operating system. You can do this by going to the Apple Menu &gt; About This Mac &gt; Software Update. If you are unsure whether your computer can run the latest operating system (Ventura), check this list from Apple Support. ",
+    "url": "/course/references/computer-setup-apple-silicon/#update-your-operating-system",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#update-your-operating-system"
+  },"26": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Security Settings",
+    "content": "🔒 If you are planning on using your computer in a public setting, we recommend the following security measures to protect the data on your computer. You may not need to take these steps if you are using your computer exclusively in private settings. It's up to you! These security settings have no impact on the coding you do on your computer. Open Apple Menu &gt; System Preferences &gt; Security &amp; Privacy and set the following: . | Under General, set require a password after sleep or screen saver begins to immediately. | Under General, set disable automatic login. | Click Advanced… and select Require an administrator password to access system-wide preferences. | Under Firewall, click Turn On Firewall. | Under FileVault, click Turn On FileVault. This will encrypt your disk. Without it, anyone with a bootable USB drive can get full access to your computer. | . ",
+    "url": "/course/references/computer-setup-apple-silicon/#security-settings",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#security-settings"
+  },"27": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "iTerm2: The Terminal",
+    "content": "iTerm2 is an open source replacement for Apple’s Terminal. It is highly customizable and comes with a lot of useful features. We’ll install this first, since we are going to use it in all the rest of the steps. Download iTerm2 from the iTerm2 downloads page. Make sure to select the latest stable release . When the download finishes, move it from your Downloads folder to your Applications folder. 💁🏻 If you’re new to Mac, here’s Apple documentation on the Finder, which is where you can see windows containing your files, folders, and applications. Start iTerm now by double-clicking on the application icon in the Applications folder. This will open a new window. This window is the terminal! . 💁🏻 When we ask you to run something in the terminal or “on the command line”, that means to type the command into an iTerm terminal window and press return or enter on your keyboard. We will often just tell you to “run” something, with a command beneath, like this: . $ cd ~ . ⚠️ When you see these commands, do not paste or type the $. The dollar sign is only there to indicate the terminal prompt, where you start typing. “Run” means that you type the command and press the return or enter key. ",
+    "url": "/course/references/computer-setup-apple-silicon/#iterm2-the-terminal",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#iterm2-the-terminal"
+  },"28": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Homebrew",
+    "content": "Homebrew calls itself the missing package manager for macOS. It allows you to install tools you will use to work with code and is an essential tool for developers who work on Macs. Installing Homebrew . To install Homebrew, paste the command below into your terminal, hit return or enter, and follow the steps you will see on the screen. /bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" . If you are asked to enter a password, this will be your Mac user password. You won’t see the characters when you type — this is ok, just keep typing and then press enter. You will see output like the following: . ==&gt; This script will install: /opt/homebrew/bin/brew /opt/homebrew/share/doc/homebrew /opt/homebrew/share/man/man1/brew.1 /opt/homebrew/share/zsh/site-functions/_brew /opt/homebrew/etc/bash_completion.d/brew /opt/homebrew ==&gt; The following new directories will be created: /opt/homebrew/bin /opt/homebrew/etc /opt/homebrew/include /opt/homebrew/lib /opt/homebrew/sbin /opt/homebrew/share /opt/homebrew/var /opt/homebrew/opt /opt/homebrew/share/zsh /opt/homebrew/share/zsh/site-functions /opt/homebrew/var/homebrew /opt/homebrew/var/homebrew/linked /opt/homebrew/Cellar /opt/homebrew/Caskroom /opt/homebrew/Frameworks ==&gt; The Xcode Command Line Tools will be installed. Press RETURN/ENTER to continue or any other key to abort: . Follow the instructions and press RETURN . Homebrew will start the installation process, which will take a few minutes or more depending on your connection speed. As it installs, Homebrew will check to see if you have Apple’s Command Line Tools for Xcode, and will download and install them for you if not. We need those tools, so this is 👍. You’ll see output in your terminal that looks something like this: . ==&gt; Installing Command Line Tools for Xcode-14.0 ==&gt; /usr/bin/sudo /usr/sbin/softwareupdate -i Command\\ Line\\ Tools\\ for\\ Xcode-14.0 Software Update Tool Finding available software Downloading Command Line Tools for Xcode Downloaded Command Line Tools for Xcode Installing Command Line Tools for Xcode Done with Command Line Tools for Xcode Done. ==&gt; /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools ==&gt; /usr/bin/sudo /bin/rm -f /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress . After this, installation for Homebrew will continue. Eventually you should see a message like ==&gt; Installation successful! . Run the following to complete the installation . echo 'eval \"$(/opt/homebrew/bin/brew shellenv)\"' &gt;&gt; ~/.zprofile eval \"$(/opt/homebrew/bin/brew shellenv)\" . Check to see if installation was successful . To be able to use Homebrew you need to start a new terminal session. Do this by opening a new terminal tab with ⌘T (you should also close the old one), then run the following command to make sure everything is working: . $ brew doctor . 👍 You should see a message that says Your system is ready to brew. 👎 If you don’t see that, read what you do see. Follow any instructions you see there. If installation is still unsuccessful, go back to the first install step. ",
+    "url": "/course/references/computer-setup-apple-silicon/#homebrew",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#homebrew"
+  },"29": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Homebrew for installing developer tools and utilities",
+    "content": "To install a package (or formula in Homebrew vocabulary), you need to know its name. To install something with Homebrew, you run brew install &lt;formula-name&gt; , replacing that last part with the name of whatever formula you want to install. First we need to make sure that Homebrew’s directory of formulae that can be installed is up to date, so run: . $ brew update . You can always see what you have installed through brew, with their version numbers, by running: . $ brew list --versions . ",
+    "url": "/course/references/computer-setup-apple-silicon/#homebrew-for-installing-developer-tools-and-utilities",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#homebrew-for-installing-developer-tools-and-utilities"
+  },"30": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "XCode Command Line Tools",
+    "content": "These tools should have been installed automatically when you installed Homebrew. We need them to be able to run commands using the terminal. To check to see if they were installed correctly, run . $ xcode-select -p . You should see: . /Library/Developer/CommandLineTools . 🆘 If you see a message that XCode is not installed, you can install it manually by running $ xcode-select --install . ",
+    "url": "/course/references/computer-setup-apple-silicon/#xcode-command-line-tools",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#xcode-command-line-tools"
+  },"31": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Git",
+    "content": "Git is the version control tool developers use to manage and track changes to code. You’ll learn how to use it on Day One at Momentum, and we will use it every day. We can install it using Homebrew. Run: . $ brew install git . You can make sure it is installed by running the following. The expected output is shown beneath the command: . $ git --version git version 2.39.2 # Note! Your version doesn't have to be the same. $ which git /opt/homebrew/bin/git . If the output you see when you run which git says /usr/bin/git and not /opt/homebrew/bin/git, try closing and reopening the terminal window, and re-run the command. 💡 You can check to see if you have other command line tools installed using the name of the command followed by --version (or sometimes -v). Configuring Git . Git has a configuration file called .gitconfig that is located in your home directory (~/.gitconfig). It’s a “dotfile” which means its name starts with a . , it’s intended for configuration settings, and it is invisible using the Finder window on your mac. On your first day at Momentum, you will learn more about interacting with your computer’s file system in the terminal. We need to configure Git to define your user (this should be the same username and email you use for GitHub, so replace the placeholder values below with that information): . $ git config --global user.name \"Your Name Here\" $ git config --global user.email \"your_email@youremail.com\" . No output is expected after you run these commands, so don’t worry if you don’t see confirmation of success. To check that these settings were successful, you can run: . $ git config -l # If your configuration above succeeded, you should see the following output: user.email=your_email@youremail.com user.name=Your Name Here . Configure defaults . Code lives in “repositories” in Git, and is organized in “branches.” We need to tell git what to call the default branch it makes for any new repository. We’ll give it the conventional name “main”. $ git config --global init.defaultBranch main . Set a default merge strategy for git. This setting tells git to combine branches without overwriting anything. $ git config --global pull.rebase false . ⚡ To check that all of these Git settings are configured correctly, you can use the git config -l command to see the values that you set. If anything looks wrong, just run the same config command from above again with the correct value. Configure files to exclude from Git . It is important to tell Git not to include irrelevant files in its tracking system. For instance, there are files that are only needed by macOS and are not relevant to our code. We also want to exclude any other automatically created files that are not necessary for our code but only for those locally installed programs. To configure Git to always exclude certain files, we create a global exclude list. The conventional name for this file is the .gitignore file. Specify a global exclusion list: . $ git config --global core.excludesfile ~/.gitignore_global . Add Mac-specific files to the global exclusion list: . $ curl https://raw.githubusercontent.com/github/gitignore/main/Global/macOS.gitignore -o ~/.gitignore_global . And exclude settings files generated by our code editor: . $ echo .vscode &gt;&gt; ~/.gitignore_global . You won’t see any output from these commands. ",
+    "url": "/course/references/computer-setup-apple-silicon/#git",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#git"
+  },"32": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "GitHub",
+    "content": "GitHub works with Git to allow us to share code with other people. We will use GitHub every day, and you’ll use it throughout your career as a developer. 👉 Go to the GitHub homepage and sign up for an account. Make a note of your password, because you will need it again when you connect to GitHub through your terminal. 🥸 Employers will definitely look at your GitHub account, so keep that in mind when you’re choosing a username. Once you have an account you can configure Git to store your GitHub username by running: . $ git config --global user.username \"your GitHub account username\" . Set up a secure way to store your credentials . To use GitHub from the terminal, you need to connect to your own GitHub account. To make this easier, we’ll store your credentials on your computer so you won’t have to enter them every time. We’ll use Git Credential Manager to handle this for us. Run these Homebrew commands to install it: . $ brew tap microsoft/git $ brew install --cask git-credential-manager-core . You’ll be asked to enter the password for your computer to complete the installation process. You don’t need to do anything else right now. The first time you connect to GitHub from the command line, you’ll be guided through a process to enter your credentials. They’ll be stored securely on your machine, and you won’t have to enter them again after that, unless you change them. 💁🏻 If you see a message in the terminal about creating a personal access token, you should repeat these steps. You should not need a token if your credential manager is set up correctly. ",
+    "url": "/course/references/computer-setup-apple-silicon/#github",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#github"
+  },"33": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Customizing the Command Line",
+    "content": "Developers routinely interact with their computer through text commands in the terminal. iTerm2 gives us a terminal that is customizable to suit whatever kind of work you’re doing and whatever your personal preferences are. You’ll be spending a lot of time in the terminal. We want to set a few important things at first, but you will likely customize it further as you become more familiar with what your terminal can do and develop your own preferences for it. Install the necessary files for zsh-autosuggestions . Copy and run the following: . $ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions . Add Git information in your prompt, command auto-complete, and command syntax highlighting . It’s important to run all of these lines in this order. You will have better results if you copy and paste instead of trying to type these lines out. Remember not to include the dollar sign if you copy and paste! . $ brew install zsh-completions zsh-autosuggestions zsh-syntax-highlighting starship $ echo 'FPATH=$(brew --prefix)/share/zsh-completions:$FPATH' &gt;&gt; ~/.zshrc $ echo 'autoload -U compinit &amp;&amp; compinit' &gt;&gt; ~/.zshrc $ echo 'eval \"$(starship init zsh)\"' &gt;&gt; ~/.zshrc $ echo 'source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' &gt;&gt; ~/.zshrc $ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' &gt;&gt; ~/.zshrc . Close the terminal window and open a new one. Your command line should now look like this: . ~ &gt; . ⚡ The prompt’s appearance changed because of a program we just installed called starship. The documentation will help you understand the git information that is included in your prompt — which will make more sense when you learn about Git.{:.callout} . Install a font that works well for code . A font is the digital version of a typeface. For code we need a monospaced font, and for the Starship prompt we need a font that has icons included in its character set. Run the following commands to install the monospaced Hack Nerd Font. brew tap homebrew/cask-fonts brew install --cask font-hack-nerd-font . When it’s done installing, go to iTerm2 &gt; Preferences &gt; Profiles &gt; Text &gt; Font. On that panel, select Hack Nerd Font Mono under the Font menu. You can set any other preferences you like here (iTerm2 preferences documentation). 🤓 You can choose any monospaced font you like. Check out Nerd Fonts for lots of options. ",
+    "url": "/course/references/computer-setup-apple-silicon/#customizing-the-command-line",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#customizing-the-command-line"
+  },"34": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Node.js",
+    "content": "When we work with JavaScript, we will often need to use tools written with Node.js. To install Node, run: . $ brew install node . Once this is done, you should have Node.js and the package manager that we’ll use with it, npm, installed (npm is included with the Node.js installation). Run the following commands to check that you successfully installed Node and npm: . $ node --version v19.7.0 $ npm --version 9.5.0 . The exact versions you see may be different, but Node should be v16 or above and npm should be v7 or above. ",
+    "url": "/course/references/computer-setup-apple-silicon/#nodejs",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#nodejs"
+  },"35": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Install Desktop Apps",
+    "content": "We will use Homebrew to install these, but don’t worry if you have already downloaded these desktop apps from their websites. Visual Studio Code for writing code . Every developer needs a good text editor to write code. There are a lot of different ones you could use, but the one we will teach you to use is an industry standard used by many professionals today. Visual Studio Code (or VS Code) is a free and open source program made by Microsoft. To install it, run: . $ brew install --cask visual-studio-code . Once you have this installed, we’ll configure Git to use VS Code as your default text editor when Git requires you to type in a message. $ git config --global core.editor \"code --wait\" . Google Chrome for a web browser . Google Chrome is the browser we will use in the course to run our front-end code. To install it, run: . $ brew install --cask google-chrome . Rectangle for managing the windows on your screen . This free tool will make it easier to resize and move the windows you have open on your screen. After you install it, you will see its icon at the top right of your screen. $ brew install --cask rectangle . When this is done you should see the Rectangle icon in your Applications folder. The first time you run it, follow the prompts to grant it permission to control your windows under Accessibility settings. You should see the Rectangle icon in the menu bar at the top right of your screen. Slack for communicating with teammates . We use Slack for communicating with each other at Momentum. It’s a live chat tool that allows us to send and receive real-time messages. brew install --cask slack . When this is done you’ll see the Slack icon in your Applications folder. Zoom for video meetings . You can get a free account for Zoom and run video meetings using the desktop app. brew install --cask zoom . When this is done you’ll see the Zoom icon in your Applications folder. When you start Zoom for the first time, you will need to follow the prompts to give permission for it to access the Camera, Microphone, and Screen Recording under Security &amp; Privacy settings. ",
+    "url": "/course/references/computer-setup-apple-silicon/#install-desktop-apps",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#install-desktop-apps"
+  },"36": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "🎉 Done!",
+    "content": "Your computer is set up and ready to go. ",
+    "url": "/course/references/computer-setup-apple-silicon/#-done",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/#-done"
+  },"37": {
+    "doc": "Computer Setup: Apple Silicon",
+    "title": "Computer Setup: Apple Silicon",
+    "content": " ",
+    "url": "/course/references/computer-setup-apple-silicon/",
+    
+    "relUrl": "/references/computer-setup-apple-silicon/"
+  },"38": {
+    "doc": "Computer Setup: Intel",
+    "title": "Set Up Your Development Environment",
+    "content": "Contents . | Set Up Your Development Environment . | These instructions assume that you are setting up a Mac that has an Intel chip running macOS 13+ (Ventura or later). | . | ⚠️ Confirm which chip your computer has . | You have an Intel chip if… | . | Update your operating system . | Security Settings | . | iTerm2: The Terminal . | Homebrew . | Installing Homebrew | Check to see if installation was successful | . | Homebrew for installing developer tools and utilities | XCode Command Line Tools | Git . | Configuring Git . | Configure defaults | . | Configure files to exclude from Git | . | GitHub . | 👉 Go to the GitHub homepage and sign up for an account. | Set up a secure way to store your credentials | . | Customizing the Command Line . | Install the necessary files for zsh-autosuggestions | Add Git information in your prompt, command auto-complete and command syntax highlighting | Install a font that works well for code | . | Node.js | Install Desktop Apps . | Visual Studio Code for writing code | Google Chrome for a web browser | Rectangle for managing the windows on your screen | Slack for communicating with teammates | Zoom for video meetings | . | . | 🎉 Done! | . Getting your tools right is an important step in becoming a developer. This guide will walk you through every step you need to take to be ready to write code at Momentum. There are multiple options for setting up your computer. This guide is opinionated about those options. Our guidelines are: . | When possible, use what you already have instead of installing something new. | Use the most common development tool unless it is deficient. | Less setup is better. | . These instructions assume that you are setting up a Mac that has an Intel chip running macOS 13+ (Ventura or later). Please read carefully and do all the steps. ",
+    "url": "/course/references/computer-setup-intel/#set-up-your-development-environment",
+    
+    "relUrl": "/references/computer-setup-intel/#set-up-your-development-environment"
+  },"39": {
+    "doc": "Computer Setup: Intel",
+    "title": "⚠️ Confirm which chip your computer has",
+    "content": "Go to the Apple Menu in the upper left corner of your screen.  &gt; About This Mac . You have an Intel chip if… . ✅  You see Processor listed below the name of your computer model (it may not be exactly the same as the one you see in the screenshot below, but it should still be listed as Processor). 🚫 If you see Chip or Apple listed, your computer is not using an Intel chip. Use the setup instructions for an Apple Silicon Macbook instead. ",
+    "url": "/course/references/computer-setup-intel/#%EF%B8%8Fconfirm-which-chip-your-computer-has",
+    
+    "relUrl": "/references/computer-setup-intel/#️confirm-which-chip-your-computer-has"
+  },"40": {
+    "doc": "Computer Setup: Intel",
+    "title": "Update your operating system",
+    "content": "Before we start installing the necessary tools, you should update your operating system. You can do this by going to the Apple Menu &gt; About This Mac &gt; Software Update. If you are unsure whether your computer can run the latest operating system (Ventura), check this list from Apple Support. ",
+    "url": "/course/references/computer-setup-intel/#update-your-operating-system",
+    
+    "relUrl": "/references/computer-setup-intel/#update-your-operating-system"
+  },"41": {
+    "doc": "Computer Setup: Intel",
+    "title": "Security Settings",
+    "content": "🔒 If you are planning on using your computer in a public setting, we recommend the following security measures to protect the data on your computer. If you are using your computer exclusively in private settings, you may not need to take these steps. It's up to you! These security settings have no impact on the coding you do on your computer. Open Apple Menu &gt; System Preferences &gt; Security &amp; Privacy and set the following: . | Under General, set require a password after sleep or screen saver begins to immediately. | Under General, set disable automatic login. | Click Advanced… and select Require an administrator password to access system-wide preferences. | Under Firewall, click Turn On Firewall. | Under FileVault, click Turn On FileVault. This will encrypt your disk. Without it, anyone with a bootable USB drive can get full access to your computer. | . ",
+    "url": "/course/references/computer-setup-intel/#security-settings",
+    
+    "relUrl": "/references/computer-setup-intel/#security-settings"
+  },"42": {
+    "doc": "Computer Setup: Intel",
+    "title": "iTerm2: The Terminal",
+    "content": "iTerm2 is an open source replacement for Apple’s Terminal. It is highly customizable and comes with a lot of useful features. We’ll install this first, since we are going to use it in all the rest of the steps. Download iTerm2 from the iTerm2 downloads page. Make sure to select the latest stable release . When the download finishes, move it from your Downloads folder to your Applications folder. 💁🏻 If you’re new to Mac, here’s Apple documentation on the Finder, which is where you can see windows containing your files, folders, and applications. Start iTerm now by double-clicking on the application icon in the Applications folder. This will open a new window. This window is the terminal! . 💁 When we ask you to run something in the terminal or “on the command line”, that means to type the command into an iTerm terminal window and press return or enter on your keyboard. We will often just tell you to “run” something, with a command beneath, like this: . $ cd ~ . ⚠️ When you see these commands, do not paste or type the $. The dollar sign is only there to indicate the terminal prompt, where you start typing. “Run” means that you type the command and press the return or enter key. ",
+    "url": "/course/references/computer-setup-intel/#iterm2-the-terminal",
+    
+    "relUrl": "/references/computer-setup-intel/#iterm2-the-terminal"
+  },"43": {
+    "doc": "Computer Setup: Intel",
+    "title": "Homebrew",
+    "content": "Homebrew calls itself the missing package manager for macOS. It allows you to install tools you will use to work with code and is an essential tool for developers who work on Macs. Installing Homebrew . To install Homebrew, paste the command below into your terminal, hit return or enter, and follow the steps you will see on the screen. /bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" . If you are asked to enter a password, this will be your Mac user password. You won’t see the characters when you type — this is ok, just keep typing and then press enter. You’ll see output like the following: . ==&gt; This script will install: /usr/local/bin/brew /usr/local/share/doc/homebrew /usr/local/share/man/man1/brew.1 /usr/local/share/zsh/site-functions/_brew /usr/local/etc/bash_completion.d/brew /usr/local ==&gt; The following new directories will be created: /usr/local/bin /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/share /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Frameworks ==&gt; The Xcode Command Line Tools will be installed. Press RETURN/ENTER to continue or any other key to abort: . Follow the instructions on your screen and press RETURN. Homebrew will start the installation process, which will take a few minutes or more depending on your connection speed. As it installs, Homebrew will check to see if you have Apple’s Command Line Tools for Xcode, and will download and install them for you if not. We need those tools, so this is 👍. You should see output in your terminal that looks something like this: . ==&gt; Installing Command Line Tools for Xcode-14.0 ==&gt; /usr/bin/sudo /usr/sbin/softwareupdate -i Command\\ Line\\ Tools\\ for\\ Xcode-14.0 Software Update Tool Finding available software Downloading Command Line Tools for Xcode Downloaded Command Line Tools for Xcode Installing Command Line Tools for Xcode Done with Command Line Tools for Xcode Done. ==&gt; /usr/bin/sudo /usr/bin/xcode-select --switch /Library/Developer/CommandLineTools ==&gt; /usr/bin/sudo /bin/rm -f /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress . After this, installation for Homebrew will continue. Eventually you should see a message like ==&gt; Installation successful! . Check to see if installation was successful . To be able to use Homebrew you need to start a new terminal session. Do this by opening a new terminal tab with ⌘T (you should also close the old one), then run the following command to make sure everything is working: . $ brew doctor . 👍 You should see a message that says Your system is ready to brew. 👎 If you don’t see that, read what you do see. Follow any instructions you see there. ",
+    "url": "/course/references/computer-setup-intel/#homebrew",
+    
+    "relUrl": "/references/computer-setup-intel/#homebrew"
+  },"44": {
+    "doc": "Computer Setup: Intel",
+    "title": "Homebrew for installing developer tools and utilities",
+    "content": "To install a package (or formula in Homebrew vocabulary), you need to know its name. To install something with Homebrew, you run brew install &lt;formula-name&gt; , replacing that last part with the name of whatever formula you want to install. First we need to make sure that Homebrew’s directory of formulae that can be installed is up to date, so run: . $ brew update . You can always see what you have installed through brew, with their version numbers, by running: . $ brew list --versions . ",
+    "url": "/course/references/computer-setup-intel/#homebrew-for-installing-developer-tools-and-utilities",
+    
+    "relUrl": "/references/computer-setup-intel/#homebrew-for-installing-developer-tools-and-utilities"
+  },"45": {
+    "doc": "Computer Setup: Intel",
+    "title": "XCode Command Line Tools",
+    "content": "These tools should have been installed automatically when you installed Homebrew. We need them to be able to run commands using the terminal. To check to see if they were installed correctly, run . $ xcode-select -p . You should see: . /Library/Developer/CommandLineTools . 🆘 If you see a message that XCode is not installed, you can install it manually by running $ xcode-select --install . ",
+    "url": "/course/references/computer-setup-intel/#xcode-command-line-tools",
+    
+    "relUrl": "/references/computer-setup-intel/#xcode-command-line-tools"
+  },"46": {
+    "doc": "Computer Setup: Intel",
+    "title": "Git",
+    "content": "Git is the version control tool developers use to manage and track changes to code. You’ll learn how to use it on Day One at Momentum, and we will use it every day. We can install it using Homebrew. Run: . $ brew install git . You can make sure it is installed by running the following. The expected output is shown beneath the command: . $ git --version git version 2.39.2 # Note! Your version doesn't have to be the same. $ which git /opt/homebrew/bin/git . If the output you see when you run which git says usr/bin/git and not homebrew, try closing and reopening the terminal window, and re-run the command. 💡 You can check to see if you have other command line tools installed using the name of the command followed by --version (or sometimes -v). Configuring Git . Git has a configuration file called .gitconfig that is located in your home directory (~/.gitconfig). It’s a “dotfile” which means its name starts with a . , it’s intended for configuration settings, and it is invisible using the Finder window on your mac. On your first day at Momentum, you will learn more about interacting with your computer’s file system in the terminal. We need to configure Git to define your user (this should be the same username and email you use for GitHub, so replace the placeholder values below with that information): . $ git config --global user.name \"Your Name Here\" $ git config --global user.email \"your_email@youremail.com\" . No output is expected after you run these commands, so don’t worry if you don’t see confirmation of success. To check that these settings were successful, you can run: . $ git config -l # If your configuration above succeeded, you should see the following output: user.email=your_email@youremail.com user.name=Your Name Here . Configure defaults . Code lives in “repositories” in Git, and is organized in “branches.” We need to tell git what to call the default branch it makes for any new repository. We’ll give it the conventional name “main”. $ git config --global init.defaultBranch main . Set a default merge strategy for git. This setting tells git to combine branches without overwriting anything. $ git config --global pull.rebase false . ⚡ To check that all of these Git settings are configured correctly, you can use the git config -l command to see the values that you set. If anything looks wrong, just run the same config command from above again with the correct value. Configure files to exclude from Git . It is important to tell Git not to include irrelevant files in its tracking system. For instance, there are files that are only needed by macOS and are not relevant to our code. We also want to exclude any other automatically created files that are not necessary for our code but only for those locally installed programs. To configure Git to always exclude certain files, we create a global exclude list. The conventional name for this file is the .gitignore file. Specify a global exclusion list: . $ git config --global core.excludesfile ~/.gitignore_global . Add Mac-specific files to the global exclusion list: . $ curl https://raw.githubusercontent.com/github/gitignore/main/Global/macOS.gitignore -o ~/.gitignore_global . And exclude settings files generated by our code editor: . $ echo .vscode &gt;&gt; ~/.gitignore_global . You won’t see any output from these commands. ",
+    "url": "/course/references/computer-setup-intel/#git",
+    
+    "relUrl": "/references/computer-setup-intel/#git"
+  },"47": {
+    "doc": "Computer Setup: Intel",
+    "title": "GitHub",
+    "content": "GitHub works with Git to allow us to share code with other people. We will use GitHub every day, and you’ll use it throughout your career as a developer. 👉 Go to the GitHub homepage and sign up for an account. Make a note of your password, because you will need it again when you connect to GitHub through your terminal. 🥸 Employers will definitely look at your GitHub account, so keep that in mind when you’re choosing a username. Once you have an account you can configure Git to store your GitHub username by running: . $ git config --global user.username \"your GitHub account username\" . Set up a secure way to store your credentials . To use GitHub from the terminal, you need to connect to your own GitHub account. To make this easier, we’ll store your credentials on your computer so you won’t have to enter them every time. We’ll use Git Credential Manager to handle this for us. Run these Homebrew commands to install it: . $ brew tap microsoft/git $ brew install --cask git-credential-manager-core . You’ll be asked to enter the password for your computer to complete the installation process. You don’t need to do anything else right now. The first time you connect to GitHub from the command line, you’ll be guided through a process to enter your credentials. They’ll be stored securely on your machine, and you won’t have to enter them again after that, unless you change them. 💁🏻 If you see a message in the terminal about creating a personal access token, you should repeat these steps. You should not need a token if your credential manager is set up correctly. ",
+    "url": "/course/references/computer-setup-intel/#github",
+    
+    "relUrl": "/references/computer-setup-intel/#github"
+  },"48": {
+    "doc": "Computer Setup: Intel",
+    "title": "Customizing the Command Line",
+    "content": "Developers routinely interact with their computer through text commands in the terminal. iTerm2 gives us a terminal that is customizable to suit whatever kind of work you’re doing and whatever your personal preferences are. You’ll be spending a lot of time in the terminal. We want to set a few important things at first, but you will likely customize it further as you become more familiar with what your terminal can do and develop your own preferences for it. Install the necessary files for zsh-autosuggestions . Copy and run the following: . $ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions . Add Git information in your prompt, command auto-complete and command syntax highlighting . It’s important to run all of these lines in this order. You will have better results if you copy and paste instead of trying to type these lines out. Remember not to include the dollar sign if you copy and paste! . $ brew install zsh-completions zsh-autosuggestions zsh-syntax-highlighting starship $ echo 'FPATH=$(brew --prefix)/share/zsh-completions:$FPATH' &gt;&gt; ~/.zshrc $ echo 'autoload -U compinit &amp;&amp; compinit -u' &gt;&gt; ~/.zshrc $ echo 'eval \"$(starship init zsh)\"' &gt;&gt; ~/.zshrc $ echo 'source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' &gt;&gt; ~/.zshrc $ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' &gt;&gt; ~/.zshrc . Close the terminal window and open a new one. Your command line should now look like this: . ~ &gt; . ⚡ The prompt’s appearance changed because of a program we just installed called starship. The documentation will help you understand the git information that is included in your prompt, which will make more sense when you learn about Git.{:.callout} . Install a font that works well for code . A font is the digital version of a typeface. For code we need a monospaced font, and for the Starship prompt we need a font that has icons included in its character set. Run the following commands to install the monospaced Hack Nerd Font. brew tap homebrew/cask-fonts brew install --cask font-hack-nerd-font . When it’s done installing, go to iTerm2 &gt; Preferences &gt; Profiles &gt; Text &gt; Font. On that panel, select Hack Nerd Font Mono under the Font menu. You can set any other preferences you like here (iTerm2 preferences documentation). 🤓 You can choose any monospaced font you like. Check out Nerd Fonts for lots of options. ",
+    "url": "/course/references/computer-setup-intel/#customizing-the-command-line",
+    
+    "relUrl": "/references/computer-setup-intel/#customizing-the-command-line"
+  },"49": {
+    "doc": "Computer Setup: Intel",
+    "title": "Node.js",
+    "content": "When we work with JavaScript, we will often need to use tools written with Node.js. To install Node, run: . $ brew install node . Once this is done, you should have Node.js and the package manager that we’ll use with it, npm, installed (npm is included with the Node.js installation). Run the following commands to check that you successfully installed Node and npm: . $ node --version v19.7.0 $ npm --version 9.5.0 . The exact versions you see may be different, but Node should be v16 or above and npm should be v7 or above. ",
+    "url": "/course/references/computer-setup-intel/#nodejs",
+    
+    "relUrl": "/references/computer-setup-intel/#nodejs"
+  },"50": {
+    "doc": "Computer Setup: Intel",
+    "title": "Install Desktop Apps",
+    "content": "We will use Homebrew to install these, but don’t worry if you have already downloaded these desktop apps from their websites. Visual Studio Code for writing code . Every developer needs a good text editor to write code. There are a lot of different ones you could use, but the one we will teach you to use is an industry standard used by many professionals today. Visual Studio Code (or VS Code) is a free and open source program made by Microsoft. To install it, run: . $ brew install --cask visual-studio-code . Once you have this installed, we’ll configure Git to use VS Code as your default text editor when Git requires you to type in a message. $ git config --global core.editor \"code --wait\" . Google Chrome for a web browser . Google Chrome is the browser we will use in the course to run our front-end code. To install it, run: . $ brew install --cask google-chrome . Rectangle for managing the windows on your screen . This free tool will make it easier to resize and move the windows you have open on your screen. After you install it, you will see its icon at the top right of your screen. $ brew install --cask rectangle . When this is done you should see the Rectangle icon in your Applications folder. The first time you run it, follow the prompts to grant it permission to control your windows under Accessibility settings. You should see the Rectangle icon in the menu bar at the top right of your screen. Slack for communicating with teammates . We use Slack for communicating with each other at Momentum. It’s a live chat tool that allows us to send and receive real-time messages. brew install --cask slack . When this is done you’ll see the Slack icon in your Applications folder. Zoom for video meetings . You can get a free account for Zoom and run video meetings using the desktop app. brew install --cask zoom . When this is done you’ll see the Zoom icon in your Applications folder. When you start Zoom for the first time, you will need to follow the prompts to give permission for it to access the Camera, Microphone, and Screen Recording under Security &amp; Privacy settings. ",
+    "url": "/course/references/computer-setup-intel/#install-desktop-apps",
+    
+    "relUrl": "/references/computer-setup-intel/#install-desktop-apps"
+  },"51": {
+    "doc": "Computer Setup: Intel",
+    "title": "🎉 Done!",
+    "content": "Your computer is set up and ready to go. ",
+    "url": "/course/references/computer-setup-intel/#-done",
+    
+    "relUrl": "/references/computer-setup-intel/#-done"
+  },"52": {
+    "doc": "Computer Setup: Intel",
+    "title": "Computer Setup: Intel",
+    "content": " ",
+    "url": "/course/references/computer-setup-intel/",
+    
+    "relUrl": "/references/computer-setup-intel/"
+  },"53": {
+    "doc": "CSS Basics",
+    "title": "Getting Started with CSS",
+    "content": ". | MDN CSS Basics | CSS-Tricks Getting Started with HTML &amp; CSS | Rachel Andrew: How to Learn CSS | . ",
+    "url": "/course/references/css-basics/#getting-started-with-css",
+    
+    "relUrl": "/references/css-basics/#getting-started-with-css"
+  },"54": {
+    "doc": "CSS Basics",
+    "title": "Selectors and Properties",
+    "content": ". | CSS Diner -&gt; This goes into a LOT of depth. | MDN CSS Selectors | MDN CSS Reference for Property Names | . ",
+    "url": "/course/references/css-basics/#selectors-and-properties",
+    
+    "relUrl": "/references/css-basics/#selectors-and-properties"
+  },"55": {
+    "doc": "CSS Basics",
+    "title": "Specificity",
+    "content": ". | CSS SpeciFISHity with Plankton, Fish and Sharks, Estelle Weyl | MDN Specificity | Hacks for dealing with specificity | . ",
+    "url": "/course/references/css-basics/#specificity",
+    
+    "relUrl": "/references/css-basics/#specificity"
+  },"56": {
+    "doc": "CSS Basics",
+    "title": "The Box Model",
+    "content": ". | The Box Model in CSS | How Box Sizing Works | . ",
+    "url": "/course/references/css-basics/#the-box-model",
+    
+    "relUrl": "/references/css-basics/#the-box-model"
+  },"57": {
+    "doc": "CSS Basics",
+    "title": "General CSS",
+    "content": ". | A Look Back at the History of CSS | 58 bytes of css to look great nearly everywhere | Coolors Color Palette Generator | . ",
+    "url": "/course/references/css-basics/#general-css",
+    
+    "relUrl": "/references/css-basics/#general-css"
+  },"58": {
+    "doc": "CSS Basics",
+    "title": "CSS Basics",
+    "content": " ",
+    "url": "/course/references/css-basics/",
+    
+    "relUrl": "/references/css-basics/"
+  },"59": {
+    "doc": "UI/UX and Design",
+    "title": "UI/UX and Design",
+    "content": ". | 10 Cheat Codes for designing user interfaces | 7 Rules for Creating Gorgeous UIs | 7 Rules Part Two | Practical Color Theory for People Who Code | Typography for Developers | . ",
+    "url": "/course/references/css-design/",
+    
+    "relUrl": "/references/css-design/"
+  },"60": {
+    "doc": "CSS Extra Stuff",
+    "title": "CSS Libraries",
+    "content": "We care about the look and feel of the UI, but that doesn’t always mean we have to write custom CSS. Sometimes (like now when you focusing on learning other things!) it makes sense to rely on a library for most or all of your styling. There are a range of libraries from the very comprehensive to the very minimal. Here are some lighter-weight ones that you could check out: . | SmolCSS - minimal snippets You can just copy and paste these styles as needed. 😎 | Bulma | Tachyons | Materialize | . ",
+    "url": "/course/references/css-extra/#css-libraries",
+    
+    "relUrl": "/references/css-extra/#css-libraries"
+  },"61": {
+    "doc": "CSS Extra Stuff",
+    "title": "CSS Extra Stuff",
+    "content": ". | A Look Back at the History of CSS | 58 bytes of css to look great nearly everywhere | Coolors Color Palette Generator | . ",
+    "url": "/course/references/css-extra/",
+    
+    "relUrl": "/references/css-extra/"
+  },"62": {
+    "doc": "CSS Layout",
+    "title": "General",
+    "content": ". | CSS-Tricks Guide to Centering Things | CSS-Tricks Tinted Images with Multiple Backgrounds | MDN: Use CSS to solve common problems | . ",
+    "url": "/course/references/css-layout/#general",
+    
+    "relUrl": "/references/css-layout/#general"
+  },"63": {
+    "doc": "CSS Layout",
+    "title": "Flexbox",
+    "content": ". | CSS-Tricks A Complete Guide to Flexbox | Flexbox Froggy | How Flexbox Works with gifs | More Flexbox with gifs | CSS-Tricks Flexbox Layout Thought Process | CSS-Tricks flex property | demo flexbox nav menu with adjustable property values | . ",
+    "url": "/course/references/css-layout/#flexbox",
+    
+    "relUrl": "/references/css-layout/#flexbox"
+  },"64": {
+    "doc": "CSS Layout",
+    "title": "Responsive CSS",
+    "content": ". | MDN Using Media Queries | How to use media queries alongside Grid and Flexbox | . Design . | 10 Cheat Codes for designing user interfaces | 7 Rules for Creating Gorgeous UIs | 7 Rules Part Two | Practical Color Theory for People Who Code | Typography for Developers | . ",
+    "url": "/course/references/css-layout/#responsive-css",
+    
+    "relUrl": "/references/css-layout/#responsive-css"
+  },"65": {
+    "doc": "CSS Layout",
+    "title": "Extra",
+    "content": "Layout techniques for CSS include a lot of options other than flexbox. This reference summarizes them and gives you a good sense of other things you might see. | MDN: CSS Layout Reference | . A popular alternative to flexbox for layout is called “grid”, also built into CSS. With flexbox you choose to line up your boxes either vertically or horizontally, but with grid you can specify both horizontal and vertical arrangement in the same box. | CSS-Tricks Complete Guide to Grid | Grid Garden (from the makers of Flexbox Froggy) | . Jen Simmons is a former Mozilla developer and educator with a great series on YouTube to teach you css layout best practices using grid and flexbox. | Jen Simmons: Layout Land | . Before we had flexbox or grid built into CSS, we relied on floats for layout. You should not be using floats to lay out your pages, but you may still see them in other people’s code. Because of that, you may want to familiarize yourself at some point. | Floats 101 Demo | Simple float example | CSS-Tricks All About Floats | . ",
+    "url": "/course/references/css-layout/#extra",
+    
+    "relUrl": "/references/css-layout/#extra"
+  },"66": {
+    "doc": "CSS Layout",
+    "title": "CSS Layout",
+    "content": " ",
+    "url": "/course/references/css-layout/",
+    
+    "relUrl": "/references/css-layout/"
+  },"67": {
+    "doc": "Responsive CSS",
+    "title": "Responsive CSS",
+    "content": ". | MDN Using Media Queries | How to use media queries alongside Grid and Flexbox | . ",
+    "url": "/course/references/css-responsive/",
+    
+    "relUrl": "/references/css-responsive/"
+  },"68": {
+    "doc": "Databases",
+    "title": "Databases",
+    "content": "Contents . | Database GUIs | Advanced Databases | Data Modeling | Database Normalization | . Database GUIs . | DB Browser for SQLite | Postico for Postgres | DBeaver - Universal Database Tool - This is much more complex than you may need but it is interesting. | . Advanced Databases . | 📖 Full Stack Python: Databases | 📖 Full Stack Python: ORMs | What is a relational database? | 📖 Writing Safe Database Migrations in Django | Using Postgres Locally | Digging Deeper Into Migrations | . Data Modeling . | Class-Responsibility-Collaborator Model (CRC) | Entity Relationship Diagrams (ERD), from Lucid Chart | What is an Entity Relationship Diagram? - The first video is especially good. | Database Design Tutorial This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships. | . Database Normalization . This is very much optional at this early stage of your learning but important to learn about at some point if you’re going to be working with data in your job. | An Introduction to Database Normalization | Video on the first normal form | Video on the second normal form | Video on the third normal form | . ",
+    "url": "/course/references/databases/",
+    
+    "relUrl": "/references/databases/"
+  },"69": {
+    "doc": "Django Deployment",
+    "title": "Django Deployment",
+    "content": "Deployment . | 📺 Katie McLaughlin, What is Deployment, Anyway? | 📖 Full Stack Python: Deployment | 🎧 Deploying and Running Django Web Apps in 2021 | The Essential Django Deployment Guide Big picture of all your options and considerations, very thorough. | . Deployment-Related How-Tos . | 🚀 Deploying a Django App to Render | Render Official Docs on Deploying Django - these instructions use a different package manager called poetry instead of pipenv | Render Postgres | Using Postgres Locally | Django Docs: Deployment Checklist | django-environ | . The Ship-It Mindset . | About the Ship It Mindset | ship it squirrel | . ",
+    "url": "/course/references/deployment/",
+    
+    "relUrl": "/references/deployment/"
+  },"70": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Intro to REST APIs",
+    "content": ". | Notes: REST APIs 101 | RESTful APIs Read up through the “Standard Methods” subsection of the section on “Methods”. You can read more if you want to but it gets pretty deep. | Safia Abdullah, You and Me Learn All About HTTP | Web APIs Explained By Selling Goods From Your Farm | What is a REST API? | A Beginner’s Guide to REST | REST APIs: How They Work and What You Need to Know | . ",
+    "url": "/course/references/drf/#intro-to-rest-apis",
+    
+    "relUrl": "/references/drf/#intro-to-rest-apis"
+  },"71": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "REST API Design",
+    "content": ". | REST Resource Naming Guide This resource may be helpful in thinking about how to structure your urls. | A Long (Mostly Helpful) List of Things to Keep In Mind When You’re Building an API Many of these best practices you get for free with DRF; some are included with packages we use; and some of this is advice for the choices you have to make in the code you write. | Overview of creating an API Nothing much new in this article, but it is a good summary and high-level overview of how to go about creating an API with DRF. | . ",
+    "url": "/course/references/drf/#rest-api-design",
+    
+    "relUrl": "/references/drf/#rest-api-design"
+  },"72": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Django REST Framework Basics",
+    "content": ". | Django REST Framework Documentation | Installation | Django Chat: Django REST Framework | Django REST Framework: An Introduction - RealPython | . ",
+    "url": "/course/references/drf/#django-rest-framework-basics",
+    
+    "relUrl": "/references/drf/#django-rest-framework-basics"
+  },"73": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Serializers",
+    "content": ". | DRF Docs: Serializers | DRF Docs: ModelSerializer | DRF Docs: Serializer SlugRelatedField | Using Different Read and Write Serializers in DRF | How to Save Extra Data to a DRF Serializer For example, when you need to associate a user with an object that you are creating | Effectively using DRF Serializers | . ",
+    "url": "/course/references/drf/#serializers",
+    
+    "relUrl": "/references/drf/#serializers"
+  },"74": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Views",
+    "content": "Class-based Views . | Django docs: Introduction to class-based views This refers to class-based views in Django but it explains the concept, which you see applied in DRF. | Class-based vs. function-based views This is about Django views in general, not specific to DRF. | DRF Docs: Class-based views This talks about APIView. | . Generic Views . | DjangoCon 2019: Generic View? What Is That and Why Would I Use It?, Felipe Lee Again about class-based views in Django but the explanation is relevant to what you will see in DRF. | Article on DRF Generic Views | . ",
+    "url": "/course/references/drf/#views",
+    
+    "relUrl": "/references/drf/#views"
+  },"75": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Viewsets",
+    "content": ". | What You Should Know About DRF, Lacey Williams Henschel, PyCascades 2021 | What You Should Know About DRF, Part 1: ModelViewSet attributes and methods | What You Should Know About DRF, Part 2: Customizing built-in methods | What You Should Know About DRF, Part 3: Adding custom endpoints | . @action decorator in ViewSets . | DRF Docs: Marking extra actions for routing with the @action decorator | DRF Docs: Routing for extra actions | . ",
+    "url": "/course/references/drf/#viewsets",
+    
+    "relUrl": "/references/drf/#viewsets"
+  },"76": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "DRF in Depth",
+    "content": ". | 💜 Classy Django REST Framework This is exceptionally useful for working with classes in DRF. | ⭐ How to Save Extra Data to a DRF Serializer This is essential for adding in extra info that is not included in your serializer, like the user (from request.user) that is associated with the object you want to create. | DRF Recipes | DRF docs: Pagination | Django Docs: Changing a password | . ",
+    "url": "/course/references/drf/#drf-in-depth",
+    
+    "relUrl": "/references/drf/#drf-in-depth"
+  },"77": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Permissions",
+    "content": ". | DRF Docs: Permissions | DRF Permissions | Built-in Permission Classes in DRF | Custom Permissions in DRF | Pro Tip about DRF Permissions This shows how to combine permissions with logical operators like and and or | . ",
+    "url": "/course/references/drf/#permissions",
+    
+    "relUrl": "/references/drf/#permissions"
+  },"78": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Setting CORS Headers",
+    "content": "See also HTTP: CORS . | Django CORS Guide | django-cors-headers | Enabling CORS in Django | . ",
+    "url": "/course/references/drf/#setting-cors-headers",
+    
+    "relUrl": "/references/drf/#setting-cors-headers"
+  },"79": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Authentication",
+    "content": ". | Djoser documentation . | Base Endpoint Guide for Djoser Includes endpoint to create a new user and other useful stuff | Token Authentication Endpoint Guide for Djoser Details on the token auth endpoints | . | DRF docs: Token-based authentication | The Ultimate Tutorial for Django REST Framework: Login and Authentication This uses the Djoser library. | 📺 Finally Understand Auth in DRF - a Will Vincent talk Will isn’t using the Djoser library but he does a great job of reviewing different auth strategies and why you would choose one or the other. Watch this for a better understanding and overview of authentication. | 📖 Simple Is Better Than Complex: How to Implement Token Authentication in DRF This does NOT use Djoser, but it’s a great walkthrough of some of what Djoser does for you if you would like more detail. | . ",
+    "url": "/course/references/drf/#authentication",
+    
+    "relUrl": "/references/drf/#authentication"
+  },"80": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Pagination",
+    "content": ". | DRF docs: Pagination | Classy DRF: PageNumberPagination | . ",
+    "url": "/course/references/drf/#pagination",
+    
+    "relUrl": "/references/drf/#pagination"
+  },"81": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Search",
+    "content": ". | Search from the Ground Up DjangoCon 2019 video explaining search in detail | Django Docs: Search overview | Basic and Full-Text Search with Django and Postgres | Blog post with more on full-text search | If you want A LOT more detail about full-text search in Postgres and Django, this blog piece has you covered | Pretty Printed: How to Perform Full Text Searches in Django with Postgres | Full Text Search with Django and PostgreSQL: More Facets, Less Dependencies Team 11 Momentum grad Jason Judkins is a co-presenter of this talk given at DjangoCon in October 2022! 🤩 | . Filtering . | DRF - Filtering Pretty useful reference. Includes how to filter your output based on GET parameters, which you will want to do for using search terms. | Django Docs: full-text search &amp; the search lookup | Django Docs: SearchVector You’ll need this if you want to search against more than a single field. | . ",
+    "url": "/course/references/drf/#search",
+    
+    "relUrl": "/references/drf/#search"
+  },"82": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "File Upload",
+    "content": ". | Django File (and Image) Uploads Tutorial Another solid post from Will Vincent; he does not include all the necessary info to make file uploads work in production but otherwise it’s a good overview about how to configure Django to accept uploads. | File Upload with DRF | Success with Static Files | Django Docs: ImageField | Django Docs: FileField | Pillow: Python Imaging Library . | django-imagekit If you want to resize images when they are uploaded, or do any kind of image processing, you will need this. Don’t add it unless you know you need it. | . | django-storages | DRF Docs: FileUploadParser Without this you will get errors about unsupported media types | . AWS S3 . | What is Amazon S3? This is Amazon’s documentation and it gets really in-depth. | Introduction to S3 Also from Amazon | . | How to Set Up Amazon S3 . | AWS S3 Free Tier Info | . | Storing Django Static and Media files on AWS S3 | . ",
+    "url": "/course/references/drf/#file-upload",
+    
+    "relUrl": "/references/drf/#file-upload"
+  },"83": {
+    "doc": "Django REST Framework and Building APIs",
+    "title": "Django REST Framework and Building APIs",
+    "content": "Contents . | Intro to REST APIs | REST API Design | Django REST Framework Basics | Serializers | Views . | Class-based Views | Generic Views | . | Viewsets . | @action decorator in ViewSets | . | DRF in Depth | Permissions | Setting CORS Headers | Authentication | Pagination | Search . | Filtering | . | File Upload . | AWS S3 | . | . ",
+    "url": "/course/references/drf/",
+    
+    "relUrl": "/references/drf/"
+  },"84": {
+    "doc": "Forms and Client-Side Validation",
+    "title": "HTML Forms",
+    "content": ". | MDN Forms Guide | MDN HTML form element | MDN HTMLFormElement | MDN HTML input element | MDN HTML label element | MDN Using FormData Objects | . ",
+    "url": "/course/references/forms/#html-forms",
+    
+    "relUrl": "/references/forms/#html-forms"
+  },"85": {
+    "doc": "Forms and Client-Side Validation",
+    "title": "Submitting",
+    "content": ". | MDN submit event | MDN Event.preventDefault | . ",
+    "url": "/course/references/forms/#submitting",
+    
+    "relUrl": "/references/forms/#submitting"
+  },"86": {
+    "doc": "Forms and Client-Side Validation",
+    "title": "Validation",
+    "content": ". | MDN Client-Side Form Validation | MDN HTML5 Constraint Validation | . ",
+    "url": "/course/references/forms/#validation",
+    
+    "relUrl": "/references/forms/#validation"
+  },"87": {
+    "doc": "Forms and Client-Side Validation",
+    "title": "Extra",
+    "content": ". | Form Fields in Eloquent JavaScript, Chapter 18 | . ",
+    "url": "/course/references/forms/#extra",
+    
+    "relUrl": "/references/forms/#extra"
+  },"88": {
+    "doc": "Forms and Client-Side Validation",
+    "title": "Forms and Client-Side Validation",
+    "content": " ",
+    "url": "/course/references/forms/",
+    
+    "relUrl": "/references/forms/"
+  },"89": {
+    "doc": "Git and Command Line",
+    "title": "Command Line",
+    "content": ". | Really friendly command-line intro | . ",
+    "url": "/course/references/git-and-cli/#command-line",
+    
+    "relUrl": "/references/git-and-cli/#command-line"
+  },"90": {
+    "doc": "Git and Command Line",
+    "title": "Git",
+    "content": ". | Really friendly Git intro | Git Cheat Sheet PDF | Git handbook from GitHub | Git Command Explorer – this tool lets you look up commands by what you are trying to do | Quick video showing how to clone your project repo | . ",
+    "url": "/course/references/git-and-cli/#git",
+    
+    "relUrl": "/references/git-and-cli/#git"
+  },"91": {
+    "doc": "Git and Command Line",
+    "title": "Advanced Git",
+    "content": ". | How to use Git as a Team | GitHub Docs: Pull Requests | Git Interactive Cheatsheet | Git Official Reference | Dangit, Git!?! - recovering from mistakes | . ",
+    "url": "/course/references/git-and-cli/#advanced-git",
+    
+    "relUrl": "/references/git-and-cli/#advanced-git"
+  },"92": {
+    "doc": "Git and Command Line",
+    "title": "Git and Command Line",
+    "content": " ",
+    "url": "/course/references/git-and-cli/",
+    
+    "relUrl": "/references/git-and-cli/"
+  },"93": {
+    "doc": "Goals Reflection Exercise",
+    "title": "You’re halfway through! 🎉",
+    "content": "This is a good opportunity to pause and remember why you set out to learn to code in the first place. Examine what you have been doing so far that’s been working well, and ask yourself if you have some habits or practices that have not served you very well. A renewed focus on your goals will help you get through the challenges of the next 8 weeks! . ",
+    "url": "/course/halfway-goals#youre-halfway-through-",
+    
+    "relUrl": "/halfway-goals#youre-halfway-through-"
+  },"94": {
+    "doc": "Goals Reflection Exercise",
+    "title": "Reflection &amp; goal setting",
+    "content": "For each of these questions, spend no more than 2-3 minutes free writing* an answer. This is for yourself only, not to turn in. * Free writing means to write without stopping, whatever you think of, without worrying about grammar or spelling. Just get it out of your brain and onto paper (or onto the screen). It’s not meant to be read by anyone. The process of doing it is what’s important. Free Write: Career Goals . When you think about getting a job as a developer, what kind of work do you see yourself doing and enjoying? Describe the kind of day you’d like to have. Is there a particular focus that interests you at this point? A particular type of company? . Free Write: Technical Skills . | What are your biggest technical successes so far? What have you built that you are proud of? | What have been your biggest technical challenges or obstacles? What has been the hardest thing for you to learn so far? | What are your top 3 technical goals for yourself at this point? What do you want to accomplish in the second half of the program? | . Free Write: Start/Stop/Continue . Reflect on things that you have been doing so far in your work at Momentum. Have your choices and actions been serving your goals? . | What do you want to START doing that you have not been doing? | What do you want to STOP doing this phase (something that has not been working for you)? | What do you want to CONTINUE doing that has been serving you well? | . ",
+    "url": "/course/halfway-goals#reflection--goal-setting",
+    
+    "relUrl": "/halfway-goals#reflection--goal-setting"
+  },"95": {
+    "doc": "Goals Reflection Exercise",
+    "title": "Sharing",
+    "content": "If you have any tips for things that have been helping you, please share in our team Slack! Likewise, if you could use some advice on how to deal with something that’s been hard for you, let folks know. Your colleagues are often your best resource. ",
+    "url": "/course/halfway-goals#sharing",
+    
+    "relUrl": "/halfway-goals#sharing"
+  },"96": {
+    "doc": "Goals Reflection Exercise",
+    "title": "Goals Reflection Exercise",
+    "content": " ",
+    "url": "/course/halfway-goals",
+    
+    "relUrl": "/halfway-goals"
+  },"97": {
+    "doc": "HTML",
+    "title": "HTML",
+    "content": ". | MDN Getting Started with HTML | MDN HTML Resources Page | MDN HTML Element Reference | . ",
+    "url": "/course/references/html/",
+    
+    "relUrl": "/references/html/"
+  },"98": {
+    "doc": "HTTP",
+    "title": "HTTP",
+    "content": ". | Web Applications 101 | An overview of HTTP - MDN | HTTP Messages - MDN | How HTTP works and why it’s important - Free Code Camp | Response Codes With Cats | . ",
+    "url": "/course/references/http/",
+    
+    "relUrl": "/references/http/"
+  },"99": {
+    "doc": "HTTP",
+    "title": "CORS",
+    "content": ". | MDN CORS . | MDN Access-Control-Allow-Origin Header | . | Julia Evans comic explaining CORS better than MDN does | More Julia Evans on the Same Origin Policy | A Visual Guide to CORS by Lydia Hallie | Django CORS Guide | django-cors-headers | . ",
+    "url": "/course/references/http/#cors",
+    
+    "relUrl": "/references/http/#cors"
+  },"100": {
+    "doc": "HTTP",
+    "title": "Headers",
+    "content": ". | MDN Content-Type Header | MDN MIME types | MDN Content-Disposition Header | MDN Access-Control-Allow-Origin | . ",
+    "url": "/course/references/http/#headers",
+    
+    "relUrl": "/references/http/#headers"
+  },"101": {
+    "doc": "AJAX & APIs",
+    "title": "APIs",
+    "content": ". | Illustrated Dev: Meet the Robowaiter APIs Serving Us Data | Insomnia client | GitHub API Docs | . ",
+    "url": "/course/references/js-ajax-and-apis/#apis",
+    
+    "relUrl": "/references/js-ajax-and-apis/#apis"
+  },"102": {
+    "doc": "AJAX & APIs",
+    "title": "AJAX and Fetch",
+    "content": ". | MDN AJAX | MDN Fetch API | MDN fetch() method | CSS-Tricks article on using Fetch | MDN Working with JSON | Code Academy Lesson on Fetch | AJAX explained by analogy | . ",
+    "url": "/course/references/js-ajax-and-apis/#ajax-and-fetch",
+    
+    "relUrl": "/references/js-ajax-and-apis/#ajax-and-fetch"
+  },"103": {
+    "doc": "AJAX & APIs",
+    "title": "Promises",
+    "content": "Fetch requests use JavaScript promises to handle responses. Promises are a much bigger topic than we will get into right now, but if you want to know more about what a promise is and how to use it beyond the context of AJAX requests, you can start with the MDN documentation about it. | MDN JS Promise | . ",
+    "url": "/course/references/js-ajax-and-apis/#promises",
+    
+    "relUrl": "/references/js-ajax-and-apis/#promises"
+  },"104": {
+    "doc": "AJAX & APIs",
+    "title": "AJAX & APIs",
+    "content": " ",
+    "url": "/course/references/js-ajax-and-apis/",
+    
+    "relUrl": "/references/js-ajax-and-apis/"
+  },"105": {
+    "doc": "JavaScript Arrays",
+    "title": "Map, Filter, and Reduce",
+    "content": ". | A pretty good explanation of map, filter, and reduce | map, filter, and reduce in a tweet | A Visualization of What Reduce Does | . ",
+    "url": "/course/references/js-arrays/#map-filter-and-reduce",
+    
+    "relUrl": "/references/js-arrays/#map-filter-and-reduce"
+  },"106": {
+    "doc": "JavaScript Arrays",
+    "title": "Extra",
+    "content": ". | Eloquent JavaScript Chapter 5: Higher Order Functions - This is a pretty intense read but it includes examples of map, filter, and reduce. | . ",
+    "url": "/course/references/js-arrays/#extra",
+    
+    "relUrl": "/references/js-arrays/#extra"
+  },"107": {
+    "doc": "JavaScript Arrays",
+    "title": "JavaScript Arrays",
+    "content": ". | MDN Loops and Iteration | MDN Array | MDN Bucles e iteración, Arrays en español | . ",
+    "url": "/course/references/js-arrays/",
+    
+    "relUrl": "/references/js-arrays/"
+  },"108": {
+    "doc": "JavaScript Basics",
+    "title": "Basics",
+    "content": ". | MDN JS Guide | MDN JavaScript Basics | MDN JavaScript Basics Español | JS for Cats If you want a low-key walk through of basics that is full of 😺 😼 😹 🐈‍⬛ 🐈, this is pretty helpful. It’s older so you will see references to the var keyword instead of let or const. | . ",
+    "url": "/course/references/js-basics/#basics",
+    
+    "relUrl": "/references/js-basics/#basics"
+  },"109": {
+    "doc": "JavaScript Basics",
+    "title": "Truthy and Falsy",
+    "content": ". | JS Equality Table | MDN Falsy in JS | MDN Truthy in JS | MDN Truthy in JS Español | . ",
+    "url": "/course/references/js-basics/#truthy-and-falsy",
+    
+    "relUrl": "/references/js-basics/#truthy-and-falsy"
+  },"110": {
+    "doc": "JavaScript Basics",
+    "title": "JavaScript Basics",
+    "content": " ",
+    "url": "/course/references/js-basics/",
+    
+    "relUrl": "/references/js-basics/"
+  },"111": {
+    "doc": "JS & the DOM",
+    "title": "Interacting with the DOM",
+    "content": ". | DOM Manipulation with Vanilla JS | How JS Event Delegation Works | Chapters 13-15 of Eloquent JavaScript | . ",
+    "url": "/course/references/js-dom/#interacting-with-the-dom",
+    
+    "relUrl": "/references/js-dom/#interacting-with-the-dom"
+  },"112": {
+    "doc": "JS & the DOM",
+    "title": "Events",
+    "content": ". | MDN Introduction to Events | MDN Element Events -&gt; this is where you can see the events that are defined for elements (like “click” or “mouseover”) | MDN Event Reference -&gt; this is a huge list of all the available events, useful mainly to get an idea of what’s possible | . ",
+    "url": "/course/references/js-dom/#events",
+    
+    "relUrl": "/references/js-dom/#events"
+  },"113": {
+    "doc": "JS & the DOM",
+    "title": "Extra: Events",
+    "content": "This is a good explanation about how JS events “bubble” up the chain of elements on the page: . | JS Event Bubbling and Capturing | . If you would like to know more about the JavaScript Event Loop and how it works, I highly recommend this resource. Don’t miss the video of the conference talk that goes along with it – it’s excellent: . | Loupe: Visualizing the JS Event Loop | . ",
+    "url": "/course/references/js-dom/#extra-events",
+    
+    "relUrl": "/references/js-dom/#extra-events"
+  },"114": {
+    "doc": "JS & the DOM",
+    "title": "Extra: Browser Rendering",
+    "content": "Here is more info about what is happening when a browser renders a page – very enlightening, although not strictly necessary at this stage. | About the browser rendering engine | How browser rendering works | . ",
+    "url": "/course/references/js-dom/#extra-browser-rendering",
+    
+    "relUrl": "/references/js-dom/#extra-browser-rendering"
+  },"115": {
+    "doc": "JS & the DOM",
+    "title": "Extra: DOM Structure",
+    "content": "This resource is really not at all necessary to understand or work with the DOM, but if you want to know more about the concept of tree structures (like the DOM!) in computer science, check out this piece from Vaidehi Joshi’s BaseCS blog series. She is awesome! There is also a thoroughly delightful accompanying BaseCS podcast with the equally amazing Saron Yitbarek. | BaseCS blog series: How Not to be Stumped by Trees | . ",
+    "url": "/course/references/js-dom/#extra-dom-structure",
+    
+    "relUrl": "/references/js-dom/#extra-dom-structure"
+  },"116": {
+    "doc": "JS & the DOM",
+    "title": "JS & the DOM",
+    "content": "Contents . | Interacting with the DOM | Events | Extra: Events | Extra: Browser Rendering | Extra: DOM Structure | . | CSS-Tricks: What Is the DOM? | . ",
+    "url": "/course/references/js-dom/",
+    
+    "relUrl": "/references/js-dom/"
+  },"117": {
+    "doc": "JavaScript For React",
+    "title": "Return to JS",
+    "content": ". | MDN: A Re-Introduction to JS | The Modern JavaScript Tutorial -&gt; This is a solid and comprehensive reference with topics clearly labeled. | Clean Code: JavaScript -&gt; “Clean Code” is a concept popularized by a book of the same name by Robert C. Martin. It means code that is easy to understand and easy to change. This guide applies these concepts to show you how to write clear and maintainable JavaScript. This is something that you will pick up as you go along, so don’t worry about “following the rules.” The rules are subjective and open to interpretation (as this guide shows). But it’s good to know that standards for code exist and developers are commonly expected to conform to them. | . ",
+    "url": "/course/references/js-for-react/#return-to-js",
+    
+    "relUrl": "/references/js-for-react/#return-to-js"
+  },"118": {
+    "doc": "JavaScript For React",
+    "title": "JS Syntax for React",
+    "content": ". | Notes: JS for React | 📺 ES6 tutorial for beginners | Airbnb JavaScript Style Guide Working together on a team is easier when everyone has the same standards for their code. Here is one popular style guide. | . ",
+    "url": "/course/references/js-for-react/#js-syntax-for-react",
+    
+    "relUrl": "/references/js-for-react/#js-syntax-for-react"
+  },"119": {
+    "doc": "JavaScript For React",
+    "title": "Modern JS Landscape",
+    "content": ". | Modern JavaScript Explained for Dinosaurs -&gt; This is essential for context. | 📖 State of JS 2022 Survey Results -&gt; Skim for an overview of current trends in the JS ecosystem. | 📺 Modern JavaScript for Django Developers | 📖 Modern JavaScript for Django Developers - this is the blog post version of the above talk. Read the first two parts only: . | Part 1: Organizing your Front-End Codebase in a Django Project | ⭐Part 2: A Crash Course in Modern JavaScript Tooling – this is a complement to the first article on this list. | . | . ",
+    "url": "/course/references/js-for-react/#modern-js-landscape",
+    
+    "relUrl": "/references/js-for-react/#modern-js-landscape"
+  },"120": {
+    "doc": "JavaScript For React",
+    "title": "npm and Node",
+    "content": ". | A Complete Beginner’s Guide to npm This is a bigger picture view that explains the context of npm – start here. | Beginner’s Guide to npm This goes into detail about the commands you can use with npm | Dan Abramov, Broken by Design - Read this to understand the context for all the many security warnings and dire messages that appear in your terminal when you use npm. | Computer setup instructions for installing npm | . ",
+    "url": "/course/references/js-for-react/#npm-and-node",
+    
+    "relUrl": "/references/js-for-react/#npm-and-node"
+  },"121": {
+    "doc": "JavaScript For React",
+    "title": "Linting and Formatting",
+    "content": ". | How to use Prettier in VS Code | How to use ESLint in VS Code | How to use Prettier with ESLint | . ESLint . | ESLint Plug-in for VS Code | ESLint Docs: Getting Started You probably don’t need to get too deep into this right now, but if you want to know more about configuring ESLint, this is the place to go. | How to Lint and Format Code with ESLint in VS Code This tutorial walks you through using ESLint in a more comprehensive way. | . Prettier . | Prettier Code Formatter This is information about the extenstion that you can (and should) install in VS Code. | How to format code with Prettier | . ",
+    "url": "/course/references/js-for-react/#linting-and-formatting",
+    
+    "relUrl": "/references/js-for-react/#linting-and-formatting"
+  },"122": {
+    "doc": "JavaScript For React",
+    "title": "JavaScript For React",
+    "content": "Contents . | Return to JS | JS Syntax for React | Modern JS Landscape | npm and Node | Linting and Formatting . | ESLint | Prettier | . | . ",
+    "url": "/course/references/js-for-react/",
+    
+    "relUrl": "/references/js-for-react/"
+  },"123": {
+    "doc": "Forms and Form Validation",
+    "title": "Forms and Form Validation",
+    "content": "Working with Forms . | MDN Forms Guide through “Validating and Submitting Form Data” | Code Academy Forms | Form Fields in Eloquent JavaScript, Chapter 18 | MDN Forms Guide | MDN HTML form element | MDN HTMLFormElement | MDN HTML input element | MDN HTML label element | MDN submit event | MDN Event.preventDefault | MDN Using FormData Objects | . Form Validation . | MDN Client-Side Form Validation | MDN HTML5 Constraint Validation | . ",
+    "url": "/course/references/js-forms/",
+    
+    "relUrl": "/references/js-forms/"
+  },"124": {
+    "doc": "JavaScript Dates and Utilities",
+    "title": "Working with Dates",
+    "content": ". | MDN: JS Date Object | Moment.js - This is a very commonly used library for working with dates in JS. It’s big and kind of old, but handy for reformatting how dates are displayed. You could also check out modern alternatives: . | day.js | Luxon | date-fns | . | Blog post: Understanding Date and Time in JS | . ",
+    "url": "/course/references/js-misc/#working-with-dates",
+    
+    "relUrl": "/references/js-misc/#working-with-dates"
+  },"125": {
+    "doc": "JavaScript Dates and Utilities",
+    "title": "Utilities",
+    "content": ". | Lodash - This is a JS utility library – lots of handy little functions that can make it easier to do common things | . ",
+    "url": "/course/references/js-misc/#utilities",
+    
+    "relUrl": "/references/js-misc/#utilities"
+  },"126": {
+    "doc": "JavaScript Dates and Utilities",
+    "title": "JavaScript Dates and Utilities",
+    "content": " ",
+    "url": "/course/references/js-misc/",
+    
+    "relUrl": "/references/js-misc/"
+  },"127": {
+    "doc": "JavaScript Objects",
+    "title": "Basics",
+    "content": ". | MDN JavaScript Object Basics | Eloquent JavaScript, chapter 4: Objects and Arrays | blog post on JS objects | More in-depth blog post on understanding objects in JS | . ",
+    "url": "/course/references/js-objects/#basics",
+    
+    "relUrl": "/references/js-objects/#basics"
+  },"128": {
+    "doc": "JavaScript Objects",
+    "title": "Extra",
+    "content": ". | Rebecca Murphey on using objects to write more concise code (short video) | . ",
+    "url": "/course/references/js-objects/#extra",
+    
+    "relUrl": "/references/js-objects/#extra"
+  },"129": {
+    "doc": "JavaScript Objects",
+    "title": "JavaScript Objects",
+    "content": " ",
+    "url": "/course/references/js-objects/",
+    
+    "relUrl": "/references/js-objects/"
+  },"130": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Mindset",
+    "content": ". | So You Want to Be a Wizard | Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek | . ",
+    "url": "/course/references/learning/#mindset",
+    
+    "relUrl": "/references/learning/#mindset"
+  },"131": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "💁 Asking Questions + Getting Help",
+    "content": ". | Julia Evans, How To Ask Good Questions | Sasha Laundy, Your Brain’s API: Giving and Getting Technical Help This talk from PyCon 2015 is super useful and relevant. Worth 30 minutes of your time. | Our Student Guidelines: Getting Help | . ",
+    "url": "/course/references/learning/#-asking-questions--getting-help",
+    
+    "relUrl": "/references/learning/#-asking-questions--getting-help"
+  },"132": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Using VS Code",
+    "content": "Writing code requires a special editor – you can’t use Google Docs or MS Word. VS Code, the code editor we use at Momentum, is widely used in the industry. | Getting Started with VS Code, video | How to use VS Code LiveShare | VS Code LiveShare Extension | . ",
+    "url": "/course/references/learning/#using-vs-code",
+    
+    "relUrl": "/references/learning/#using-vs-code"
+  },"133": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Debugging Techniques",
+    "content": ". | Julia Evans, A Debugging Manifesto | Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck | . ",
+    "url": "/course/references/learning/#debugging-techniques",
+    
+    "relUrl": "/references/learning/#debugging-techniques"
+  },"134": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Tech Pros Have Good Advice for You",
+    "content": ". | Syntax.fm Podcast: Advice for New Devs | Katrina Owen, How to Fail Without Being a Loser | Tom Stuart, The Most Common Problem In Software Development And How To Fix It | . ",
+    "url": "/course/references/learning/#tech-pros-have-good-advice-for-you",
+    
+    "relUrl": "/references/learning/#tech-pros-have-good-advice-for-you"
+  },"135": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Pro Tips for Learning To Code",
+    "content": " ",
+    "url": "/course/references/learning/",
+    
+    "relUrl": "/references/learning/"
+  },"136": {
+    "doc": "Phase 1 Front End",
+    "title": "Intro to Front End Development",
+    "content": " ",
+    "url": "/course/phase1/#intro-to-front-end-development",
+    
+    "relUrl": "/phase1/#intro-to-front-end-development"
+  },"137": {
+    "doc": "Phase 1 Front End",
+    "title": "Phase 1 Front End",
+    "content": " ",
+    "url": "/course/phase1/",
+    
+    "relUrl": "/phase1/"
+  },"138": {
+    "doc": "Phase 2 Back End",
+    "title": "Intro to Back End Development",
+    "content": " ",
+    "url": "/course/phase2/#intro-to-back-end-development",
+    
+    "relUrl": "/phase2/#intro-to-back-end-development"
+  },"139": {
+    "doc": "Phase 2 Back End",
+    "title": "Phase 2 Back End",
+    "content": " ",
+    "url": "/course/phase2/",
+    
+    "relUrl": "/phase2/"
+  },"140": {
+    "doc": "Phase 3 Back End",
+    "title": "Advanced Back End: Django and REST APIs",
+    "content": " ",
+    "url": "/course/phase3-be/#advanced-back-end-django-and-rest-apis",
+    
+    "relUrl": "/phase3-be/#advanced-back-end-django-and-rest-apis"
+  },"141": {
+    "doc": "Phase 3 Back End",
+    "title": "Phase 3 Back End",
+    "content": " ",
+    "url": "/course/phase3-be/",
+    
+    "relUrl": "/phase3-be/"
+  },"142": {
+    "doc": "Phase 3 Front End",
+    "title": "Advanced Front End: React",
+    "content": " ",
+    "url": "/course/phase3-fe/#advanced-front-end-react",
+    
+    "relUrl": "/phase3-fe/#advanced-front-end-react"
+  },"143": {
+    "doc": "Phase 3 Front End",
+    "title": "Phase 3 Front End",
+    "content": " ",
+    "url": "/course/phase3-fe/",
+    
+    "relUrl": "/phase3-fe/"
+  },"144": {
+    "doc": "Phase 4",
+    "title": "Agile Development",
+    "content": " ",
+    "url": "/course/phase4/#agile-development",
+    
+    "relUrl": "/phase4/#agile-development"
+  },"145": {
+    "doc": "Phase 4",
+    "title": "Phase 4",
+    "content": " ",
+    "url": "/course/phase4/",
+    
+    "relUrl": "/phase4/"
+  },"146": {
+    "doc": "Posts",
+    "title": "Posts &amp; Announcements",
+    "content": " ",
+    "url": "/course/daily-update#posts--announcements",
+    
+    "relUrl": "/daily-update#posts--announcements"
+  },"147": {
+    "doc": "Posts",
+    "title": "Posts",
+    "content": " ",
+    "url": "/course/daily-update",
+    
+    "relUrl": "/daily-update"
+  },"148": {
+    "doc": "Python Basics",
+    "title": "Python Basics",
+    "content": "Contents . | Set Up Your Python Dev Environment | Essential Python References | RealPython: Basic Python Tutorials | 📓 Jupyter Notebooks | . Set Up Your Python Dev Environment . | 🛠 Follow these instructions to install Python and other tools you’ll need | . Essential Python References . | ⭐ Official Python docs | ⭐ Documentación de Python en Español | 🐍 The Python Standard Library | 🐍 La Biblioteca Estándar de Python | 📚 Python for Everybody | 📚 Python Para Todos en Español | LearnPython Tutorial -&gt; A good reference with examples and exercises. | A Byte of Python -&gt; Use this as a reference, starting at First Steps. DO NOT follow the installation instructions to download Python – you already have Python installed! | Automate The Boring Stuff Kind of like the equivalent to Eloquent JavaScript for Python. Lots of written explanation with great examples. | . RealPython: Basic Python Tutorials . These articles are way more in-depth than you need right now, but they are good references for more information, if you feel you need that. | Basic Data Types | Variables | Operators and Expressions | Strings | Python Program Lexical Structure | Conditional Statements | While Loops | For Loops | Basic Input and Output | String Formatting | Defining Your Own Python Function | Docstrings in Python | . 📓 Jupyter Notebooks . | RealPython: Using Jupyter Notebooks (video) | RealPython: Jupyter Notebook: an Introduction | Setting Up Your Python Development Environment: Jupyter Notebooks section | Using Jupyter Notebooks in VSCode -&gt; This is an alternate way to run Jupyter Notebooks locally. | . ",
+    "url": "/course/references/py-basics/",
+    
+    "relUrl": "/references/py-basics/"
+  },"149": {
+    "doc": "Django",
+    "title": "Django",
+    "content": "Contents . | Intro to Django | Getting Started with the Database in Django | Debugging Django | Models and Queries | Authentication, Registration, and the User Model in Django | URLs and Templates | Django Packages | Related Python &amp; Django References | Images | Forms in Django | Custom Management Commands | . Intro to Django . | Thinkific Django | MDN: Django Introduction | MDN: Introducción a Django (Español) | Official Django documentation | Documentación de Django (Español) | Django Topic Guide (this is a useful table of contents for the Django docs) | Pretty Printed Django Videos: Videos 1-10 are the ones specific to Django. There are other videos on related topics; they are useful but not relevant to the material we’re covering right now. | Curso de Django Desde Cero (Español) Partes 1-3 | Django Chat Podcast: How to Learn Django | Pretty Printed Django: an Introduction for Beginners | . Getting Started with the Database in Django . | What is a relational database? | Database Design Tutorial This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships. | Real Python: Django Migrations Primer | DB Browser for SQLite - a GUI for your sqlite database | . Debugging Django . | 📖 Python Debugging with Pdb | 📺 Python Debugging with Pdb - Course on RealPython - only the first three videos are free but they are useful! | 📺 Damilare Onajole, Debugging Python | . Models and Queries . | Django Docs: Models | ⭐ Django Docs: Model Field Reference | Django Docs Model Relationships | What are Primary Keys &amp; Foreign Keys? | Django Docs Making Queries (using the ORM) | Model field null=True -&gt; relevant for database storage | Model field blank=True -&gt; relevant for model object validation | 🍕 Tips for using Django’s Many-to-Many Field | What is an Entity Relationship Diagram? - The first video is especially good. | Less Obvious Things to Do with the Django ORM | Django Migrations: How To Add Non-Nullable Fields Without A Default Value | . Authentication, Registration, and the User Model in Django . | django-registration-redux . | We are using the simple (one-step) backend | . | Simple Is Better Than Complex: How to Extend the Django User Model . | Clear comparison of the four choices you have, and when you would use each one. | . | Django docs: User Authentication | Django docs: built-in User Model -&gt; documentation for all the things you get for free with the User from Django | Django docs: Extending the built-in User Model with AbstractUser . | Django Best Practices: Custom User Model -&gt; This tutorial is good to read for an overview, but you don’t need to follow the instructions to implement the forms to create or change a user, since we are using the django-registration-redux package for that. | . | Django docs: Authentication in Web Requests -&gt; django-registration-redux handles some of this for us (giving us the login and logout urls, for instance) but it’s helpful to see other ways you can use the authenticated user. | The login_required decorator | Limiting access to logged-in users that pass a test | Foreign Key to built-in User from DjangoGirls | Extending the User model (preferred, used in Uptact) | . URLs and Templates . | Django Docs URLs | Django Docs Template Language | . Django Packages . | Pipenv documentation | Django Debug Toolbar | How to use django-extensions shell_plus | django-environ | . Related Python &amp; Django References . | RealPython: What is a decorator? | Python dependency management overview -&gt; A good read to understand pip, pyenv, and pipenv better. | 💥 Django Cheatsheet! | 💫 Django Chat Podcast: How Django Experts Think -&gt; Worth a listen, especially if you’re feeling discouraged about ever learning Django, and super relevant. | . Images . | Uploading Images | . Forms in Django . | Working with Forms -&gt; A good place to start for an overview | What is up with form.is_valid() | Validation on a model form | Form and field validation | The Forms API -&gt; Details on form object attribute and methods (such as as_p()) | Django’s CSRF protection . | What is CSRF? | . | . Custom Management Commands . | How to create custom django-admin commands (django docs) | How to Create Custom Django Management Commands - Simple Is Better Than Complex | . ",
+    "url": "/course/references/py-django/",
+    
+    "relUrl": "/references/py-django/"
+  },"150": {
+    "doc": "Python Code Break: Modules",
+    "title": "Working with modules",
+    "content": "Step 1 . Write a simple number guessing game. Your game should import the random module to generate a random integer between 1 and 20. When the program runs, it should prompt the user for a guess and then tell them if their guess was too high, too low, or correct. If you need an example of how to accept user input on the command line, you will find it in Jupyter notebook 03 - Input and Output. Step 2 . Modify your game so that it tells the user how many tries it took them to guess the right number. Step 3 . Limit the number of tries a user has to guess the number correctly. If the user doesn’t guess it in the number of tries you’ve limited them to, they lose. ",
+    "url": "/course/code_exercises/py-guess-number/#working-with-modules",
+    
+    "relUrl": "/code_exercises/py-guess-number/#working-with-modules"
+  },"151": {
+    "doc": "Python Code Break: Modules",
+    "title": "Python Code Break: Modules",
+    "content": " ",
+    "url": "/course/code_exercises/py-guess-number/",
+    
+    "relUrl": "/code_exercises/py-guess-number/"
+  },"152": {
+    "doc": "Python Code Break 1",
+    "title": "Working with input and output",
+    "content": "Create a file called gross_pay.py. Write your python code in that file. You should be able to run your program by typing python gross_pay.py at your command prompt. Exercise 1 . Write a program that will ask the user for a number of hours worked and a hourly rate. Calculate the gross pay based off those numbers. Then show the user the total. Enter hours worked: 20 Enter hourly rate: 18.50 Total: $370.0 . Exercise 2 . Add to the calculation time-and-a-half for hours worked over 40. (Note: time-and-a-half rate is the hourly rate * 1.5) . Enter hours worked: 55 Enter hourly rate: 20 Total: $1250 . Exercise 3 . Try to split your program into a function called calculate_pay(hours_worked, hourly_rate) and code that takes user input, calls calculate_pay and prints out the result. ",
+    "url": "/course/code_exercises/py-input/#working-with-input-and-output",
+    
+    "relUrl": "/code_exercises/py-input/#working-with-input-and-output"
+  },"153": {
+    "doc": "Python Code Break 1",
+    "title": "Python Code Break 1",
+    "content": " ",
+    "url": "/course/code_exercises/py-input/",
+    
+    "relUrl": "/code_exercises/py-input/"
+  },"154": {
+    "doc": "Python Code Break: list comprehensions and formatting output",
+    "title": "Working with list comprehensions and formatting output",
+    "content": "exercise 1 . Write a list comprehension that takes each word in a list of words and puts it in all caps. phrases = [\"everything is fine\", \"have a seat\", \"holy cow\"] # your list comprehension should produce a list that looks like this: # ['EVERYTHING IS FINE', 'HAVE A SEAT', 'HOLY COW'] . Remember that the basic structure of a list comprehension is: . new_list = [&lt;expression&gt; for &lt;each_item&gt; in &lt;a_list&gt;] . exercise 2 . Rewrite a remove_from_list function to use a list comprehension to remove the item. The remove_from_list function should take a list of items and an item to remove from that list, and return a new list that contains everything from the original list except for that item. It should remove every occurrence of the item in the list (if it appears more than once). exercise 3 . Write a function print_freq_results(results). This function should take an argument results that is a list of tuples like the following: . [ ('her', 33), ('all', 12), ('which', 12), ('she', 7), ('their', 7), ] . This function should print (not return) output like the following: . her | 33 ********************************* all | 12 ************ which | 12 ************ she | 7 ******* their | 7 ******* . 😎 HINT: You’re going to need some string methods to align the characters. ",
+    "url": "/course/code_exercises/py-list-comprehensions/#working-with-list-comprehensions-and-formatting-output",
+    
+    "relUrl": "/code_exercises/py-list-comprehensions/#working-with-list-comprehensions-and-formatting-output"
+  },"155": {
+    "doc": "Python Code Break: list comprehensions and formatting output",
+    "title": "Python Code Break: list comprehensions and formatting output",
+    "content": " ",
+    "url": "/course/code_exercises/py-list-comprehensions/",
+    
+    "relUrl": "/code_exercises/py-list-comprehensions/"
+  },"156": {
+    "doc": "Python Lists & Dicts",
+    "title": "Lists and List Comprehensions",
+    "content": ". | RealPython: Python lists and tuples | Python Docs: List comprehensions | Python Docs: Comprensión de Listas | Python list comprehensions explained visually | List Comprehensions | . ",
+    "url": "/course/references/py-lists-and-dicts/#lists-and-list-comprehensions",
+    
+    "relUrl": "/references/py-lists-and-dicts/#lists-and-list-comprehensions"
+  },"157": {
+    "doc": "Python Lists & Dicts",
+    "title": "Sorting and Lambdas",
+    "content": ". | RealPython: Sorting in Python | Python Docs: Sorting HOWTO | Lambda Functions | . ",
+    "url": "/course/references/py-lists-and-dicts/#sorting-and-lambdas",
+    
+    "relUrl": "/references/py-lists-and-dicts/#sorting-and-lambdas"
+  },"158": {
+    "doc": "Python Lists & Dicts",
+    "title": "Dictionaries",
+    "content": ". | Python Docs: Dictionaries | Documentación de Python: Diccionarios | RealPython: Dictionaries | . ",
+    "url": "/course/references/py-lists-and-dicts/#dictionaries",
+    
+    "relUrl": "/references/py-lists-and-dicts/#dictionaries"
+  },"159": {
+    "doc": "Python Lists & Dicts",
+    "title": "Python Lists & Dicts",
+    "content": " ",
+    "url": "/course/references/py-lists-and-dicts/",
+    
+    "relUrl": "/references/py-lists-and-dicts/"
+  },"160": {
+    "doc": "Python Code Break 3",
+    "title": "Working with lists",
+    "content": "exercise 1 . Write a function called remove_from_list that takes a list of items and an item to remove from that list: remove_from_list(list_of_items, item_to_remove) . The function should return a new list with the item removed. Write code to test your function, like the following: . remove_from_list(['Dallas', 'Kelly', 'Courtney', 'Hayden', 'Chase'], 'Hayden') # should return ['Dallas', 'Kelly', 'Courtney', 'Chase'] . Make sure your function removes all instances of the item. Write code to test this. remove_from_list(['MI', 'AK', 'SC', 'AK', 'DE'], 'AK') # should return `['MI', 'SC', 'DE'] . exercise 2 . Write a function remove_many_from_list(list_of_items, items_to_remove) that takes two lists, a list of items, and a list of items to remove from that original list. You can re-use remove_from_list or write it from scratch. ingredients = ['onions', 'habanero hot sauce', 'tomatoes', 'tortillas', 'corn', 'black beans', 'avocados', 'cheese',] foods_my_kids_hate = ['habanero hot sauce', 'avocados'] remove_many_from_list(ingredients, foods_my_kids_hate) # should return ['onions', 'tomatoes', 'tortillas', 'corn', 'black beans', 'cheese'] . ",
+    "url": "/course/code_exercises/py-lists/#working-with-lists",
+    
+    "relUrl": "/code_exercises/py-lists/#working-with-lists"
+  },"161": {
+    "doc": "Python Code Break 3",
+    "title": "Python Code Break 3",
+    "content": " ",
+    "url": "/course/code_exercises/py-lists/",
+    
+    "relUrl": "/code_exercises/py-lists/"
+  },"162": {
+    "doc": "Python Code Break: OO",
+    "title": "Define a User class and create user objects",
+    "content": "Step 0 . Create a new Python file and name it whatever you want. This is where you will write the code that follows. Step 1 . Make a class named User. Add the following attributes to your class (in the __init__() method): . | name | email | city | state | . Create two different user instances using your class and save them to variables (something like user1 and user2). When you run your file, print out f-strings that display info using attributes from each user instance: . Anton lives in Durham, NC. Cecil lives in San Francisco, CA. Step 2 . Add a __str__ method to your class that displays the identity and attributes of an instance when it is printed. step 2 example . Say you have a Game class; the __str__ method could look like this (although there are lots of other options!): . def __str__(self): return f\"&lt;Game score={self.score} tries={self.tries}&gt;\" . If you print a game instance with that __str__() method (for example, print(game1)), the output should look like this: . &lt;Game score=0 tries=8&gt; . Step 3 . Make a method named location that returns a string listing the user’s city and state (e.g., “Durham, NC”). Step 4 . Add an attribute called is_active to your class. This attribute should have a default value of True. Then, make another method called deactivate that changes the value of the is_active attribute to False. Create an instance of a user and test that it works. Try resetting the attribute to True using the assignment operator and checking the value again. Step 5 . Add an attribute called login_count that keeps a count of how many days in a row a user logs in. Its default value should be 0. Add a method called increment_login_count that adds 1 to the login_count attribute each time it is called and returns the updated count. Then add a method called reset_login_count that resets the count to 0. Create an instance of a user and test that this works. ",
+    "url": "/course/code_exercises/py-oo/#define-a-user-class-and-create-user-objects",
+    
+    "relUrl": "/code_exercises/py-oo/#define-a-user-class-and-create-user-objects"
+  },"163": {
+    "doc": "Python Code Break: OO",
+    "title": "Python Code Break: OO",
+    "content": " ",
+    "url": "/course/code_exercises/py-oo/",
+    
+    "relUrl": "/code_exercises/py-oo/"
+  },"164": {
+    "doc": "Object-Oriented Python",
+    "title": "Object-Oriented Python",
+    "content": "Object-Oriented . | Real Python - Object-Oriented Programming in Python 3 | A Byte of Python: OO | Inheritance and Composition in Python OO | OO-Programming – This is a chapter from a book called Beyond the Basic Stuff With Python by Al Sweigart. He has written a ton of great books on Python and makes them available to read for free online at inventwithpython.com. You might check out Automate the Boring Stuff with Python. It’s a fantastic beginner book. | How Classes and Objects Work in Python | RealPython: super() | . Classes in Python . | Python Docs: Clases | StackOverflow: How do I design a class in Python? | Special Methods (aka magic methods) in the Python Docs | Nombres Especiales de Método | A Guide to Python’s Magic Methods This is a great reference, but watch out! It was written for Python 2, so a few things may be different in Python 3. | . Useful References for Debugging . | Scope of Variables in Python | 🐛 Debugging Python For Fun &amp; Profit (video) | Code Style Checks in Python e.g. flake8 | . ",
+    "url": "/course/references/py-oop/",
+    
+    "relUrl": "/references/py-oop/"
+  },"165": {
+    "doc": "Python Code Break: Sequences",
+    "title": "Exercise: working with sequences",
+    "content": "Write a function that accepts one argument, a string, and counts the number of vowels (‘a’, ‘e’, ‘i’, ‘o’, ‘u’) in that string. When you call the function with an all-lowercase string as an argument, your function should print the number of vowels in that string. countVowels('bananarama') # prints: Vowel count: 5 . ",
+    "url": "/course/code_exercises/py-sequences/#exercise-working-with-sequences",
+    
+    "relUrl": "/code_exercises/py-sequences/#exercise-working-with-sequences"
+  },"166": {
+    "doc": "Python Code Break: Sequences",
+    "title": "Where to write and run the code",
+    "content": "You can do this a number of ways. Use whatever works for you. Here are some options: . | Create a .py file and write your code in there. Run the file at the command line: python my-filename.py | Create a .py file and write your code in there. Run the file using the terminal in VS Code. | Write and run your code in the Python REPL (just type python at the command line and you will see the &gt;&gt;&gt; prompt, which will let you start typing Python). | There is also a Python REPL built into VS Code that you could use. | . Don’t forget that you have to define the function AND call the function with some argument to test it. ",
+    "url": "/course/code_exercises/py-sequences/#where-to-write-and-run-the-code",
+    
+    "relUrl": "/code_exercises/py-sequences/#where-to-write-and-run-the-code"
+  },"167": {
+    "doc": "Python Code Break: Sequences",
+    "title": "Python Code Break: Sequences",
+    "content": " ",
+    "url": "/course/code_exercises/py-sequences/",
+    
+    "relUrl": "/code_exercises/py-sequences/"
+  },"168": {
+    "doc": "React",
+    "title": "Tutorials",
+    "content": ". | Ali Spittel, Beginner’s Guide to React Tutorial. | Kent C. Dodds, The Beginner’s Guide to React | The official (beta) React tutorial - classic, official. | Dave Ceddia, React Tutorial | . ",
+    "url": "/course/references/react/#tutorials",
+    
+    "relUrl": "/references/react/#tutorials"
+  },"169": {
+    "doc": "React",
+    "title": "Getting Started",
+    "content": ". | ⭐ Official (Beta) React Docs | React Dev Tools Extension Chrome Essential. Please install it. | Create React App Docs | Older Official React docs Uses older class syntax intead of hooks. | . ",
+    "url": "/course/references/react/#getting-started",
+    
+    "relUrl": "/references/react/#getting-started"
+  },"170": {
+    "doc": "React",
+    "title": "React Concepts",
+    "content": ". | What is React? A Visual Introduction for Beginners | React Mental Model: Cutting Holes in HTML | Understanding what it means to be declarative instead of imperative - video | Thinking in React | Thinking in React 2020 | Thinking “declaratively” in React | Why React Re-Renders | Jenn Creighton, React Is Fiction | . ",
+    "url": "/course/references/react/#react-concepts",
+    
+    "relUrl": "/references/react/#react-concepts"
+  },"171": {
+    "doc": "React",
+    "title": "Props and State",
+    "content": ". | Props vs. State - blog post ⚠️ This post references the older class syntax of React. The basic concepts are the same, though. | Using State vs Props in React - video | Props &amp; State Re-explained | . ",
+    "url": "/course/references/react/#props-and-state",
+    
+    "relUrl": "/references/react/#props-and-state"
+  },"172": {
+    "doc": "React",
+    "title": "Components",
+    "content": ". | Component Design in React | . ",
+    "url": "/course/references/react/#components",
+    
+    "relUrl": "/references/react/#components"
+  },"173": {
+    "doc": "React",
+    "title": "Managing State",
+    "content": ". | Using the State Hook | Lifting State Up – This is the official doc page, so it includes examples with older React sytax using JavaScript classes for components. To see it with hooks, watch the video Lifting State Up with Hooks. | React Beta Docs: Managing State | Syntax.fm podcast: State in React | . ",
+    "url": "/course/references/react/#managing-state",
+    
+    "relUrl": "/references/react/#managing-state"
+  },"174": {
+    "doc": "React",
+    "title": "Conditional Rendering",
+    "content": ". | 4 Techniques for Conditional Rendering in React | Conditional Rendering in React | React Official Docs: React Conditional Rendering | 5 Ways to Implement Conditional Rendering in React | . ",
+    "url": "/course/references/react/#conditional-rendering",
+    
+    "relUrl": "/references/react/#conditional-rendering"
+  },"175": {
+    "doc": "React",
+    "title": "Events",
+    "content": ". | React Docs: Handling Events in React | Handling onClick Events in React | Handing Events in React with examples for functional components | Supported Events in React | . ",
+    "url": "/course/references/react/#events",
+    
+    "relUrl": "/references/react/#events"
+  },"176": {
+    "doc": "React",
+    "title": "AJAX in React",
+    "content": ". | Axios on GitHub . | Axios docs: Getting Started | POST request example | POST request config | Axios Request Config | Axios Response Schema | . | Notes: JS for React | React Official Docs: AJAX and APIs | CORS explained for front-end devs | . ",
+    "url": "/course/references/react/#ajax-in-react",
+    
+    "relUrl": "/references/react/#ajax-in-react"
+  },"177": {
+    "doc": "React",
+    "title": "useEffect",
+    "content": ". | Official React docs: Using the Effect Hook | Ryan Florence tweet summarizing useEffect | Dave Ceddia: How useEffect Works, with Examples | A Visual Guide to useEffect | . ",
+    "url": "/course/references/react/#useeffect",
+    
+    "relUrl": "/references/react/#useeffect"
+  },"178": {
+    "doc": "React",
+    "title": "useRef",
+    "content": ". | Refs and the DOM - class-based component examples | useRef hook | . ",
+    "url": "/course/references/react/#useref",
+    
+    "relUrl": "/references/react/#useref"
+  },"179": {
+    "doc": "React",
+    "title": "Custom Hooks",
+    "content": ". | Custom hook recipes | More custom hooks | Official React docs on custom hooks | . Custom hooks for local storage . | Persisting React State in localstorage This blog post explains why you’d use a custom hook for this purpose as well as how you’d write it from scratch. | useLocalStorageState This npm package gives you a custom hook to do what the above article walks you through doing. | . ",
+    "url": "/course/references/react/#custom-hooks",
+    
+    "relUrl": "/references/react/#custom-hooks"
+  },"180": {
+    "doc": "React",
+    "title": "Forms",
+    "content": "See also JS: Forms and HTML: Forms . | React beta docs API reference: working with &lt;input&gt; | React Mental Model: Working with Input | Dave Ceddia: React Forms | React Official Docs: Uncontrolled components | Controlled vs uncontrolled form inputs in React This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks. | Data Binding in React (Using different form fields and keeping values in sync with state) | . ",
+    "url": "/course/references/react/#forms",
+    
+    "relUrl": "/references/react/#forms"
+  },"181": {
+    "doc": "React",
+    "title": "File Upload",
+    "content": ". | MDN: File input type | MDN: Accessing selected files | using the FormData object You do not need to use this, but many online tutorials about file upload will show examples using this, and it is helpful to know about. | . ",
+    "url": "/course/references/react/#file-upload",
+    
+    "relUrl": "/references/react/#file-upload"
+  },"182": {
+    "doc": "React",
+    "title": "Authentication",
+    "content": ". | Token Authentication Endpoint guide for djoser library -&gt; This is the library being used by the backend | . ",
+    "url": "/course/references/react/#authentication",
+    
+    "relUrl": "/references/react/#authentication"
+  },"183": {
+    "doc": "React",
+    "title": "Local Storage and State",
+    "content": ". | use-local-storage-state -&gt; You would npm install use-local-storage-state to use it in your code . | Check out this custom hook code example, which shows how you could implement this yourself (you could even borrow this code and use it in your project instead of the above library if you wanted to!). | . | Using the Web Storage API Using local storage without syncing it with state may cause weird bugs, but you should know about the underlying local storage API that is implemented in browsers. | . ",
+    "url": "/course/references/react/#local-storage-and-state",
+    
+    "relUrl": "/references/react/#local-storage-and-state"
+  },"184": {
+    "doc": "React",
+    "title": "Deployment",
+    "content": ". | Instructions for deploying a React app to Netlify | Netlify Docs | . ",
+    "url": "/course/references/react/#deployment",
+    
+    "relUrl": "/references/react/#deployment"
+  },"185": {
+    "doc": "React",
+    "title": "The Ship-It Mindset",
+    "content": ". | About the Ship It Mindset | ship it squirrel | . ",
+    "url": "/course/references/react/#the-ship-it-mindset",
+    
+    "relUrl": "/references/react/#the-ship-it-mindset"
+  },"186": {
+    "doc": "React",
+    "title": "Mocking Data in Development",
+    "content": ". | How to Build a Front-End App Before you Have an API | Create a mock API with Mockoon | . ",
+    "url": "/course/references/react/#mocking-data-in-development",
+    
+    "relUrl": "/references/react/#mocking-data-in-development"
+  },"187": {
+    "doc": "React",
+    "title": "File Structure",
+    "content": "This is very subjective, but there are strategies and organizational patterns that you can follow. You should follow the practices and conventions established by the team that you work with. For starters, here are two good takes on how to organize your files. | React Folder Structure in 5 Steps | Delightful React File/Directory Structure | . ",
+    "url": "/course/references/react/#file-structure",
+    
+    "relUrl": "/references/react/#file-structure"
+  },"188": {
+    "doc": "React",
+    "title": "React Router",
+    "content": "Basics . | React Router Overview: What It Does and Why We Need It | React Router Official Tutorial | How to Set Up React Router and Route to Other Components | Learn React Router v6 in 45 minutes | . General . | React Router docs | React Router Main Concepts This is pretty in-depth, and you may not need it, but it’s helpful if you want more explanation. | A Complete Guide to React Router really comprehensive, really good | The Complete Guide to URL Parameters with React Router | . ",
+    "url": "/course/references/react/#react-router",
+    
+    "relUrl": "/references/react/#react-router"
+  },"189": {
+    "doc": "React",
+    "title": "Search",
+    "content": ". | Axios Docs: Including search params in the request config | Blog post on query params with Axios | . Filtering existing data in your component . You could also perform a search without making an AJAX request, by filtering data that you already have in React. Here are a couple of examples of how you could do that. | Create a search bar from scratch | How to Build a Search Bar in React | . ",
+    "url": "/course/references/react/#search",
+    
+    "relUrl": "/references/react/#search"
+  },"190": {
+    "doc": "React",
+    "title": "React",
+    "content": "Contents . | Tutorials | Getting Started | React Concepts | Props and State | Components | Managing State | Conditional Rendering | Events | AJAX in React | useEffect | useRef | Custom Hooks . | Custom hooks for local storage | . | Forms | File Upload | Authentication | Local Storage and State | Deployment | The Ship-It Mindset | Mocking Data in Development | File Structure | React Router . | Basics | General | . | Search . | Filtering existing data in your component | . | . ",
+    "url": "/course/references/react/",
+    
+    "relUrl": "/references/react/"
+  },"191": {
+    "doc": "References",
+    "title": "References",
+    "content": " ",
+    "url": "/course/references/",
+    
+    "relUrl": "/references/"
+  },"192": {
+    "doc": "Schedule",
+    "title": "Phase 3 Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"193": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Back End Session Project Work for Front End 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Front End Session Project Work for Back End 2:00 PM–4:00 PM | Project Work 4:00 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"194": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": ". | Back End Session Project Work for Front End 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Front End Session Project Work for Back End 2:00 PM–4:00 PM | Project Work 4:00 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"195": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Project Work Lunch and short breaks as needed 9:30 AM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"196": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Back End Session Project Work for Front End 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Front End Session Project Work for Back End 2:00 PM–4:00 PM | Project Work 4:00 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"197": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Huddle 9:30 AM–10:30 AM | Career Services 11:00 AM–12:00 PM | Project Work Lunch &amp; short breaks as needed 12:00 PM–5:30 PM | . | . ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"198": {
+    "doc": "Schedule",
+    "title": "Phases 1 &amp; 2 Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"199": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Morning Session 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Afternoon Session 2:00 PM–3:30 PM | Project Work 3:30 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"200": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": ". | Morning Session 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Afternoon Session 2:00 PM–3:30 PM | Project Work 3:30 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"201": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Morning Session 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Afternoon Session 2:00 PM–3:30 PM | Project Work 3:30 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"202": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Morning Session 9:30 AM–11:30 AM | Lunch/Project Work 11:30 AM–2:00 PM | Afternoon Session 2:00 PM–3:30 PM | Project Work 3:30 PM–5:30 PM | . | ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"203": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Huddle 9:30 AM–10:30 AM | Career Services 11:00 AM–12:00 PM | Project Work Lunch &amp; short breaks as needed 12:00 PM–5:30 PM | . | . ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"204": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/course/schedule",
+    
+    "relUrl": "/schedule"
+  },"205": {
+    "doc": "Tools",
+    "title": "General Front End Code Formatting",
+    "content": ". | Prettier Code Formatter This is information about the extenstion that you can (and should) install in VS Code. | How to format code with Prettier | . ",
+    "url": "/course/references/tools/#general-front-end-code-formatting",
+    
+    "relUrl": "/references/tools/#general-front-end-code-formatting"
+  },"206": {
+    "doc": "Tools",
+    "title": "Back End Tools",
+    "content": ". | 🐛 Debugging Python For Fun &amp; Profit (video) | Code Style Checks in Python This post gives you some detail about what flake8 for and why you need it. | DB Browser for SQLite - a GUI for your sqlite database | . ",
+    "url": "/course/references/tools/#back-end-tools",
+    
+    "relUrl": "/references/tools/#back-end-tools"
+  },"207": {
+    "doc": "Tools",
+    "title": "Collaboration",
+    "content": ". | GitHub Collaboration Docs | Git Collaboration slides | Git in VS Code Not everyone loves using git on the command line like I do. A lot of folks like using the integration in VS Code, so you might want to give it a try. This is a good place to start, but there are many other extensions that you could use as well. | . ",
+    "url": "/course/references/tools/#collaboration",
+    
+    "relUrl": "/references/tools/#collaboration"
+  },"208": {
+    "doc": "Tools",
+    "title": "Time Management",
+    "content": ". | The Pomodoro Technique for Time Management &amp; Productivity | Zapier’s list of Pomodoro Apps | Time Blocking | Common Time Management Problems &amp; Solutions | . ",
+    "url": "/course/references/tools/#time-management",
+    
+    "relUrl": "/references/tools/#time-management"
+  },"209": {
+    "doc": "Tools",
+    "title": "Markdown",
+    "content": "Markdown is an easy-to-learn way to add formatting to plain text and code snippets. It is commonly used in READMEs on GitHub and can even be used to generate HTML. It comes in handy a lot for developers, and you should know how to use it. The .md extension indicates a Markdown file. The pages for this site and every note in your team’s notes repo are formatted in Markdown – have a look on GitHub for examples! . | Learn X in Y Minutes: Markdown | Mastering Markdown 30-min video course that will help you get proficient with Markdown quickly. | Markdown Guide: Getting Started | Markdown Tutorial | . ",
+    "url": "/course/references/tools/#markdown",
+    
+    "relUrl": "/references/tools/#markdown"
+  },"210": {
+    "doc": "Tools",
+    "title": "Taking Notes as a Developer",
+    "content": ". | How to take useful notes as a developer | How Note Taking Makes Me a Better Developer | . Tools for Taking Notes . It’s important that the application you use to take notes can properly format code blocks. Here are some options. | VS Code (with this option you could create a simple git repo with markdown files) | BoostNote | Notion | Typora | . Pair Programming . | Tuple Pair Programming Template | . ",
+    "url": "/course/references/tools/#taking-notes-as-a-developer",
+    
+    "relUrl": "/references/tools/#taking-notes-as-a-developer"
+  },"211": {
+    "doc": "Tools",
+    "title": "Tools",
+    "content": "Contents . | General Front End Code Formatting | Back End Tools | Collaboration | Time Management | Markdown | Taking Notes as a Developer . | Tools for Taking Notes | Pair Programming | . | . ",
+    "url": "/course/references/tools/",
+    
+    "relUrl": "/references/tools/"
+  },"212": {
+    "doc": "Topics by Date",
+    "title": "Software Engineering Immersive",
+    "content": "Topics are listed by date, newest to oldest. New entries are added daily. ",
+    "url": "/course/index.html#software-engineering-immersive",
+    
+    "relUrl": "/index.html#software-engineering-immersive"
+  },"213": {
+    "doc": "Topics by Date",
+    "title": "Topics by Date",
+    "content": " ",
+    "url": "/course/index.html",
+    
+    "relUrl": "/index.html"
+  }
+}
