@@ -2,6 +2,7 @@
 layout: home
 title: Posts
 permalink: daily-update
+has_children: true
 nav_order: 2
 ---
 
@@ -11,5 +12,6 @@ nav_order: 2
 
 {% assign daily_posts = site.daily_posts | reverse %}
 {% for post in daily_posts %}
+{{post.url}}
 {{ post }}
 {% endfor %}
