@@ -17,7 +17,7 @@ published: false
 
 ## ✅ TODO today
 
-1. Fill out your first [self-assessment](https://classroom.momentumlearn.com).
+1. Fill out your first [self-assessment](https://teams.momentumlearn.com).
 2. Read the [student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md) and [how we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md) docs in their entirety.
 3. [Make sure your computer is all set up and ready to go][computer-setup].
 4. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
@@ -28,14 +28,14 @@ published: false
 
 Complete [Git-It](https://github.com/jlord/git-it-electron), a tutorial program that will walk you through the basics of Git and GitHub.
 
-To install it, run:
-`brew install git-it`
-
-This should put the Git-it program in your `/Applications` folder. You can start it by pressing command-spacebar on your Mac and typing "git-it" and hitting return when you see the icon.
+To install it, `cd` into the directory where you will keep your Momentum work and run this command:
+`git clone https://github.com/momentumlearn/git-it-electron.git`
+This will create a new directory called `git-it-electron`. `cd` into this new directory and run the following commands one at a time:
+`npm install`
+`npm start`
+This should open up the Git-It application on your desktop, and you can follow the instructions inside the application from here in order to complete it. 
 
 Git-it will tell you to install Github Desktop. You do not have to install this, although you can if you want. We won't be using it in class.
-
-The first time you run Git-it, you may get a notice that the application is from an unknown developer. If you do, right-click on the application and then choose "Open." You will be presented with a dialog -- choose to run the application.
 
 Once the application is running, read the instructions and complete the tasks in Git-it. Completion of the project is the link to the pull request that you will make in the second-to-last Git-It task.
 
